@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="TextStyleGrand">
+        <item name="android:textAppearance">@android:style/TextAppearance.Holo.Large</item>
+    </style>
+    <style name="TextStylePetit">
+        <item name="android:textAppearance">@android:style/TextAppearance.Holo.Medium</item>
+    </style>
+    <style name="TextStylePetitInverse">
+        <item name="android:textAppearance">@android:style/TextAppearance.Holo.Medium.Inverse</item>
+    </style>
+    <style name="TextStyleGrandInverse">
+        <item name="android:textAppearance">@android:style/TextAppearance.Holo.Large.Inverse</item>
+    </style>
+</resources>

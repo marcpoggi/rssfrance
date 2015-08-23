@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="genere_annuaire_xml.xsl" type="text/xsl"?>
+<base>
+<flux>
+<source>LeParisien : &#233;conomie</source>
+<adresse><![CDATA[http://www.leparisien.fr/economie/rss.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Figaro : m&#233;dia et publicit&#233;</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_medias.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Figaro : immobilier</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_immobilier.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>##############@#@@@@</frequence>
+</flux>
+<flux>
+<source>Le Figaro : flash &#233;conomie</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_flash-eco.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Figaro : &#233;conomie</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_economie.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Figaro : emploi</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_emploi.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>###################@</frequence>
+</flux>
+<flux>
+<source>Var-Matin : &#233;conomie</source>
+<adresse><![CDATA[http://www.varmatin.com/economie/rss]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : &#233;conomie</source>
+<adresse><![CDATA[http://www.nicematin.com/economie/rss]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Lib&#233;ration : &#233;conomie</source>
+<adresse><![CDATA[http://rss.liberation.fr/rss/13/]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeJDD : &#233;conomie</source>
+<adresse><![CDATA[http://cdn1-lejdd.ladmedia.fr/var/exports/rss/rss-economie.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Les &#201;chos : &#233;conomie</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/499/f/413824/index.rss]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>BFM : interviews de Good Morning  Business</source>
+<adresse><![CDATA[http://www.1001podcast.com/podcast/BFM/channel11/BFMchannel11.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>BFM : Les coulisses de l&#8217;entreprise</source>
+<adresse><![CDATA[http://www.1001podcast.com/podcast/BFM/channel17/BFMchannel17.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>###########@@@@@OOOO</frequence>
+</flux>
+<flux>
+<source>BFM : Les Grands d&#233;bats du Lundi 10 &#224; 12h</source>
+<adresse><![CDATA[http://www.1001podcast.com/podcast/BFM/channel18/BFMchannel18.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>o</frequence>
+</flux>
+<flux>
+<source>BFM : Club M&#233;dia RH</source>
+<adresse><![CDATA[http://www.1001podcast.com/podcast/BFM/channel19/BFMchannel19.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##@OOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Le NouvelObs : &#233;conomie</source>
+<adresse><![CDATA[http://rss.nouvelobs.com/c/32262/fe.ed/tempsreel.nouvelobs.com/economie/rss.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>TF1 : &#233;conomie</source>
+<adresse><![CDATA[http://www.tf1.fr/xml/rss/0,,3,00.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Rue89 : &#233;conomie</source>
+<adresse><![CDATA[http://eco.rue89.com/homepage/feed]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Yahoo : &#233;conomie</source>
+<adresse><![CDATA[http://fr.news.yahoo.com/rss/economie]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Nouvelliste : &#233;conomie</source>
+<adresse><![CDATA[http://www-lenouvelliste-ch.www4.iomedia.infomaniak.ch/data/xml/rss/articles/rss_articles_fr_480.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<alerte>description : 3166 car. </alerte>
+<alerte>description : 5717 car. </alerte>
+<alerte>description : 4940 car. </alerte>
+<alerte>description : 3771 car. </alerte>
+<alerte>description : 3852 car. </alerte>
+<alerte>description : 4681 car. </alerte>
+<alerte>description : 5712 car. </alerte>
+<alerte>description : 4628 car. </alerte>
+<alerte>description : 3184 car. </alerte>
+<alerte>description : 3287 car. </alerte>
+<alerte>description : 4361 car. </alerte>
+<alerte>description : 3015 car. </alerte>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Europe 1 : &#233;conomie</source>
+<adresse><![CDATA[http://www.europe1.fr/var/export/rss/europe1/economie.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Monde : &#233;conomie</source>
+<adresse><![CDATA[http://rss.lemonde.fr/c/205/f/3055/index.rss]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le&#8212;T&#233;l&#233;gramme : &#233;conomie</source>
+<adresse><![CDATA[http://www.letelegramme.com/ig/generales/economie/rss.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>L&#8217;Union Champagne Ardenne Picardie : &#233;conomie</source>
+<adresse><![CDATA[http://www.lunion.presse.fr/rss/Economie-A-la-une.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Union Champagne Ardenne Picardie : &#233;conomie r&#233;gion</source>
+<adresse><![CDATA[http://www.lunion.presse.fr/rss/Economie-Region.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Union Champagne Ardenne Picardie : &#233;conomie champagne</source>
+<adresse><![CDATA[http://www.lunion.presse.fr/rss/Economie-Champagne.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>###########@@@OOOOOO</frequence>
+</flux>
+<flux>
+<source>L&#8217;Union Champagne Ardenne Picardie : &#233;conomie industrie</source>
+<adresse><![CDATA[http://www.lunion.presse.fr/rss/Economie-Industrie.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>#######OOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>L&#8217;Union Champagne Ardenne Picardie : &#233;conomie agriculture</source>
+<adresse><![CDATA[http://www.lunion.presse.fr/rss/Economie-Agriculture.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>#####@OOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>L&#8217;Express : &#233;conomie</source>
+<adresse><![CDATA[http://www.lexpress.fr/rss/economie.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>Challenge : entreprise</source>
+<adresse><![CDATA[http://rss.challenges.fr/c/32261/fe.ed/www.challenges.fr/entreprise/rss.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 25 item - 24 description </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Challenge : luxe</source>
+<adresse><![CDATA[http://rss.challenges.fr/c/32261/fe.ed/www.challenges.fr/luxe/rss.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>########@@@@OOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Challenge : patrimoine</source>
+<adresse><![CDATA[http://rss.challenges.fr/c/32261/fe.ed/www.challenges.fr/patrimoine/rss.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>########@@OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Challenge : emploi</source>
+<adresse><![CDATA[http://rss.challenges.fr/c/32261/fe.ed/www.challenges.fr/emploi/rss.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Challenge : high-tech</source>
+<adresse><![CDATA[http://rss.challenges.fr/c/32261/fe.ed/www.challenges.fr/high-tech/rss.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Challenge : &#233;conomie</source>
+<adresse><![CDATA[http://rss.challenges.fr/c/32261/fe.ed/www.challenges.fr/economie/rss.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Point : &#233;conomie</source>
+<adresse><![CDATA[http://www.lepoint.fr/content/system/rss/economie/economie_doc.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>###################</frequence>
+</flux>
+<flux>
+<source>LaProvence : &#233;conomie</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/32394/f/463062/index.rss]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 25 item - 24 description </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>TV5 : &#233;conomie</source>
+<adresse><![CDATA[http://www.tv5.org/TV5Site/rss/actualites.php?rub=7]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : &#233;conomie Artois</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/238]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####OOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : &#233;conomie Hainaut</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/244]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>##@OOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : &#233;conomie littoral</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/249]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>##########@@@@OOOOOO</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : &#233;conomie Lille m&#233;trop&#244;le</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/248]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : &#233;conomie agriculture et p&#234;che</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/284]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Sud Ouest : &#233;conomie</source>
+<adresse><![CDATA[http://www.sudouest.fr/economie/rss.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Atmosph&#232;res demeure</source>
+<adresse><![CDATA[http://atmosphere-demeure.blogspot.com/feeds/posts/default?alt=rss]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>#@@OOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Malogri &#201;ditions</source>
+<adresse><![CDATA[http://www.malogrieditions.com/feed/]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOooooo</frequence>
+</flux>
+<flux>
+<source>INSEE</source>
+<adresse><![CDATA[http://www.insee.fr/fr/actualites/nouveau.xml.asp]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>################@@@@</frequence>
+</flux>
+<flux>
+<source>Minist&#232;re du budget, des comptes publics et de la r&#233;forme de l&#8217;&#201;tat</source>
+<adresse><![CDATA[http://www.budget.gouv.fr/rss/toutesactualites]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Portail europ&#233;en sur la mobilit&#233; de l&#8217;emploi</source>
+<adresse><![CDATA[https://ec.europa.eu/eures/RSSFeed?rssType=public&language=fr]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<erreur_fatale>adresse inaccessible</erreur_fatale>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<erreur_fatale>page vide</erreur_fatale>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Direction r&#233;gionale des entreprises, de la concurrence, de la consommation, du travail et de l&#8217;emploi</source>
+<adresse><![CDATA[http://www.reunion.dieccte.gouv.fr/spip.php?page=backend-rub&id_rubrique=17]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>#@OOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Comit&#233; &#233;conomique et social europ&#233;en</source>
+<adresse><![CDATA[http://www.eesc.europa.eu/rss?i=portal.fr.home]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<alerte>description : 4662 car. </alerte>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>AFPA - Association Nationale pour la Formation Professionnelle  : actualit&#233;</source>
+<adresse><![CDATA[http://www.afpa.fr/flux-rss/rss-actualites/rss.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>###@@OOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>STEF groupe</source>
+<adresse><![CDATA[http://gdata.youtube.com/feeds/base/users/STEFTFE75/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>OOOooooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>Veolia : publications</source>
+<adresse><![CDATA[http://www.veolia.fr/rss-publications]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Veolia : articles</source>
+<adresse><![CDATA[http://www.veolia.fr/rss-articles]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 61 item - 54 description </erreur>
+<frequence>OOOOOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Veolia : news</source>
+<adresse><![CDATA[http://www.veolia.fr/rss-news]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 23 item - 21 description </erreur>
+<frequence>#######@@OOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Nissan Corse</source>
+<adresse><![CDATA[http://www.nissan-corse.com/feed/]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Cr&#233;dit Agricole</source>
+<adresse><![CDATA[http://gdata.youtube.com/feeds/base/users/CreditAgricoleSA/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>######@@@OOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Christian Delarue</source>
+<adresse><![CDATA[http://www.mediapart.fr/blog/103214/feed]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>#########@</frequence>
+</flux>
+<flux>
+<source>Michel Santi</source>
+<adresse><![CDATA[http://www.gestionsuisse.com/feed/]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>#####@@@@@</frequence>
+</flux>
+<flux>
+<source>Medef</source>
+<adresse><![CDATA[http://medef-corse.com/feed]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>D&#233;mystifier la finance</source>
+<adresse><![CDATA[http://finance.blog.lemonde.fr/feed/]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>#@OOOOOOOO</frequence>
+</flux>
+<flux>
+<source>AirJournal</source>
+<adresse><![CDATA[http://feeds.feedburner.com/AirJournal]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Pub en stock</source>
+<adresse><![CDATA[http://www.pubenstock.com/feed/]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>######@@OO</frequence>
+</flux>
+<flux>
+<source>Mer et Marine</source>
+<adresse><![CDATA[http://www.meretmarine.com/meretmarinerss.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Nouvelle Donne RH</source>
+<adresse><![CDATA[http://feeds.feedburner.com/NouvelleDonneRh]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>CFO - News</source>
+<adresse><![CDATA[http://feeds.feedburner.com/CFO-news]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Usine Nouvelle</source>
+<adresse><![CDATA[http://www.usinenouvelle.com/rss/actu-eco.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>ZoneBourse</source>
+<adresse><![CDATA[http://www.zonebourse.com/rss/FeedNews.php]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<erreur>titre vide</erreur>
+<erreur>titre vide</erreur>
+<erreur>titre vide</erreur>
+<erreur>titre vide</erreur>
+<erreur>titre vide</erreur>
+<erreur>titre vide</erreur>
+<erreur>titre vide</erreur>
+<erreur>titre vide</erreur>
+<erreur>titre vide</erreur>
+<erreur>titre vide</erreur>
+<erreur>titre vide</erreur>
+<erreur>titre vide</erreur>
+<erreur>titre vide</erreur>
+<erreur>titre vide</erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Econostrum</source>
+<adresse><![CDATA[http://www.econostrum.info/xml/syndication.rss]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>In Business</source>
+<adresse><![CDATA[http://feeds.feedburner.com/in-business/BvbL]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>My auto-entrepreneur</source>
+<adresse><![CDATA[http://feeds.feedburner.com/myaefr]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>##@@OOOOOO</frequence>
+</flux>
+<flux>
+<source>Isra&#235;lValley</source>
+<adresse><![CDATA[http://www.israelvalley.com/feed/rss]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>BPI France</source>
+<adresse><![CDATA[http://www.bpifrance.fr/rss/feed/Runformation_Nouvelles_Bpifrance]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Point : &#233;conomie</source>
+<adresse><![CDATA[http://www.lepoint.fr/content/system/rss/economie/economie_doc.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>###################</frequence>
+</flux>
+<flux>
+<source>Alter&#201;co : actualit&#233;</source>
+<adresse><![CDATA[http://www.alternatives-economiques.fr/fr-0002.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>######o</frequence>
+</flux>
+<flux>
+<source>Alter&#201;co : international</source>
+<adresse><![CDATA[http://www.alternatives-economiques.fr/fr-0382.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>#######OO</frequence>
+</flux>
+<flux>
+<source>Alter&#201;co : blog</source>
+<adresse><![CDATA[http://www.alternatives-economiques.fr/blog.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>#######</frequence>
+</flux>
+<flux>
+<source>Boursier : cours</source>
+<adresse><![CDATA[http://www.boursier.com/pub/partners/syndication/rss_news.asp?code=fr0000075228]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Boursier : CAC40</source>
+<adresse><![CDATA[http://www.boursier.com/pub/partners/syndication/rss_news.asp?code=FR0003500008]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Boursier : actualit&#233;</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/268/f/3632/index.rss]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>News Eco</source>
+<adresse><![CDATA[http://www.news-eco.com/rss/rssne.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Challenge : business</source>
+<adresse><![CDATA[http://rss.challenges.fr/c/32261/fe.ed/www.challenges.fr/rss.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Challenge : blog conjoncture</source>
+<adresse><![CDATA[http://conjoncture.blogs.challenges.fr/index.rss?idfx=RSS_blogs]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<alerte>description : 4128 car. </alerte>
+<alerte>description : 3030 car. </alerte>
+<alerte>description : 4279 car. </alerte>
+<alerte>description : 3508 car. </alerte>
+<alerte>description : 8662 car. </alerte>
+<alerte>description : 5627 car. </alerte>
+<alerte>description : 3322 car. </alerte>
+<frequence>#######</frequence>
+</flux>
+<flux>
+<source>Challenge : blog coulisses</source>
+<adresse><![CDATA[http://coulisses.blogs.challenges.fr/index.rss?idfx=RSS_blogs]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOo</frequence>
+</flux>
+<flux>
+<source>Challenge : blog bourse</source>
+<adresse><![CDATA[http://bourse.blogs.challenges.fr/index.rss?idfx=RSS_blogs]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<alerte>description : 4143 car. </alerte>
+<frequence>##@OOOO</frequence>
+</flux>
+<flux>
+<source>La Tribune : entreprise</source>
+<adresse><![CDATA[http://www.latribune.fr/rss/rubriques/entreprises.html]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>La Tribune : bourse</source>
+<adresse><![CDATA[http://www.latribune.fr/rss/rubriques/bourse.html]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>###@@@OOOO</frequence>
+</flux>
+<flux>
+<source>La Tribune : vos finances</source>
+<adresse><![CDATA[http://www.latribune.fr/rss/rubriques/vos-finances.html]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>La Tribune : actualit&#233;</source>
+<adresse><![CDATA[http://www.latribune.fr/rss/rubriques/actualite.html]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>BatiActu</source>
+<adresse><![CDATA[http://www.batiactu.com/rss/batiactu.rss]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Franchise magazine</source>
+<adresse><![CDATA[http://www.franchise-magazine.com/cobranding/actualites-franchise.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<alerte>description : 3006 car. </alerte>
+<alerte>description : 3096 car. </alerte>
+<alerte>description : 3562 car. </alerte>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Observatoire de la Franchise</source>
+<adresse><![CDATA[http://www.observatoiredelafranchise.fr/V2/XML/RSS/rss.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Agefiph - Association de Gestion du Fonds pour l&#8217;Insertion Professionnelle des personnes Handicap&#233;es</source>
+<adresse><![CDATA[http://www.agefiph.fr/rss/feed/agefiph_generale]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>####@@OOOOOOOOOOOooo</frequence>
+</flux>
+<flux>
+<source>cBanque</source>
+<adresse><![CDATA[http://feeds2.feedburner.com/banque/actualite]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Notes pr&#233;cieuses</source>
+<adresse><![CDATA[http://www.notesprecieuses.com/lemagazine/feed/]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>#@@OOOOOOO</frequence>
+</flux>
+<flux>
+<source>ANPE</source>
+<adresse><![CDATA[http://www.pole-emploi.fr/informations/rss-@/rss/]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>#######@@@@OOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Le Moniteur : actualit&#233;</source>
+<adresse><![CDATA[http://www.lemoniteur.fr/cache/X_articles_rss2_119.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>LaVieImmo : prix immobilier</source>
+<adresse><![CDATA[http://feeds.feedburner.com/La-Vie-Immo-Prix-Immobilier]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>LaVieImmo : emprunt taux</source>
+<adresse><![CDATA[http://feeds.feedburner.com/La-Vie-Immo-Emptrunt-Taux]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>######@@@@@@@</frequence>
+</flux>
+<flux>
+<source>LaVieImmo : interview</source>
+<adresse><![CDATA[http://feeds.feedburner.com/La-Vie-Immo-Interview]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>###@@@</frequence>
+</flux>
+<flux>
+<source>LaVieImmo : fiscalit&#233;</source>
+<adresse><![CDATA[http://feeds.feedburner.com/La-Vie-Immo-Fiscalite]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>#########@@@@@@</frequence>
+</flux>
+<flux>
+<source>LaVieImmo : d&#233;veloppement durable</source>
+<adresse><![CDATA[http://feeds.feedburner.com/La-Vie-Immo-Developpement-Durable]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>##@@@</frequence>
+</flux>
+<flux>
+<source>LaVieImmo : placement</source>
+<adresse><![CDATA[http://feeds.feedburner.com/La-Vie-Immo-Placement]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>##@@@</frequence>
+</flux>
+<flux>
+<source>LaVieImmo : international</source>
+<adresse><![CDATA[http://feeds.feedburner.com/La-Vie-Immo-International]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>#####@@@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>LaVieImmo : insolite</source>
+<adresse><![CDATA[http://feeds.feedburner.com/La-Vie-Immo-Insolite]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>######@@@@@@</frequence>
+</flux>
+<flux>
+<source>LaVieImmo : people</source>
+<adresse><![CDATA[http://feeds.feedburner.com/La-Vie-Immo-People]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>##</frequence>
+</flux>
+<flux>
+<source>LaVieImmo : prestige</source>
+<adresse><![CDATA[http://feeds.feedburner.com/La-Vie-Immo-Prestige]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>##</frequence>
+</flux>
+<flux>
+<source>LaVieImmo : bureau</source>
+<adresse><![CDATA[http://feeds.feedburner.com/La-Vie-Immo-Bureau]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>@</frequence>
+</flux>
+<flux>
+<source>LaVieImmo : construction</source>
+<adresse><![CDATA[http://feeds.feedburner.com/La-Vie-Immo-Construction]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>###########@@@@</frequence>
+</flux>
+<flux>
+<source>LaVieImmo : avis d&#8217;expert</source>
+<adresse><![CDATA[http://feeds.feedburner.com/La-Vie-Immo-Avis-Expert]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>######@@</frequence>
+</flux>
+<flux>
+<source>LaVieImmo : divers</source>
+<adresse><![CDATA[http://feeds.feedburner.com/La-Vie-Immo-Actu-Divers]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>InfosImmo</source>
+<adresse><![CDATA[http://www.infosimmo.com/spip.php?page=backend]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Se loger</source>
+<adresse><![CDATA[http://magimmo.seloger.com/rss,actu.xml]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : &#233;conomie</source>
+<adresse><![CDATA[http://www.francetv.fr/info/eco.rss]]></adresse>
+<categorie>economie</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<frequence></frequence>
+</flux>
+</base>

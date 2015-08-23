@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    tools:context=".NavigationDrawerFragment"
+    android:layout_height="wrap_content"
+    android:id="@+id/scrollView2" >
+
+
+    <LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="vertical">
+
+    <TextView android:id="@+id/section_label"
+        android:layout_width="match_parent"
+        android:text="@string/fixedflux"
+        android:layout_height="wrap_content"
+        android:background="#cccc"
+        android:textAppearance="@android:style/TextAppearance.Holo.Large.Inverse"
+        />
+    <View
+        android:id="@+id/separator1"
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="@android:color/holo_green_light"
+        />
+
+    <com.feeltest.rssfrance.activity.NestedListView
+    android:id="@+id/listeflux"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" android:choiceMode="none"
+    android:divider="@android:color/transparent" android:dividerHeight="0dp"
+    android:background="#cccc"
+
+    />
+
+
+
+    <LinearLayout
+        android:id="@+id/entete_favori"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#cccc"
+       >
+
+        <TextView
+        android:id="@+id/section_favori"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="@android:style/TextAppearance.Holo.Large.Inverse"
+        android:text="@string/fluxfavori"/>
+
+        <ImageView
+            android:id="@+id/addFavoriView"
+            android:layout_width="match_parent"
+            android:layout_weight="4"
+            android:layout_height="match_parent"
+            android:scaleType="center"
+            android:src="@android:drawable/ic_input_add"/>
+    </LinearLayout>
+
+    <View
+        android:id="@+id/separator2"
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="@android:color/holo_green_light"
+        android:paddingBottom="8dp"
+        />
+
+    <com.feeltest.rssfrance.activity.NestedListView
+    android:id="@+id/listefavori"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#cccc"
+    android:choiceMode="none"
+    android:divider="@android:color/transparent"
+    android:dividerHeight="0dp"
+        />
+
+
+</LinearLayout>
+
+</ScrollView>

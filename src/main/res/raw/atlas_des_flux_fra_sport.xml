@@ -1,0 +1,1813 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Atlas des flux RSS/ATOM par Sayn&#232;te http://www.saynete.net -->
+<?xml-stylesheet href="genere_annuaire_xml.xsl" type="text/xsl"?>
+<base>
+<flux>
+<source>La D&#233;p&#234;che</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/home.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>RFI : sport</source>
+<adresse><![CDATA[http://www.rfi.fr/sports/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 20 items - 22 titres </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeParisien : sport &#206;le de France</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/32267/f/470112/index.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeParisien : rugby</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/32267/f/470113/index.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#######@@@@@@@OO#OOO</frequence>
+</flux>
+<flux>
+<source>LeParisien : autres sports</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/32267/f/470122/index.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Figaro : sport</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_sport.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Le Figaro : rugby</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_rugby.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>###########</frequence>
+</flux>
+<flux>
+<source>Le Figaro : tennis</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_tennis.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Le Figaro : cyclisme</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_cyclisme.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>@@@@@OOOO</frequence>
+</flux>
+<flux>
+<source>Le Figaro : golf</source>
+<adresse><![CDATA[http://golf.lefigaro.fr/rss/rss_news.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Figaro : sport business</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_sport-business.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>@@@@OOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Var-Matin : auto moto</source>
+<adresse><![CDATA[http://www.varmatin.com/automoto/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>#########@@@@OO</frequence>
+</flux>
+<flux>
+<source>Var-Matin : RCT</source>
+<adresse><![CDATA[http://www.varmatin.com/rct/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>Var-Matin : autres sports</source>
+<adresse><![CDATA[http://www.varmatin.com/autres-sports/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>###@@@@@@@@@@OO</frequence>
+</flux>
+<flux>
+<source>Var-Matin : volley</source>
+<adresse><![CDATA[http://www.varmatin.com/volley/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>#OOOOoooooooooo</frequence>
+</flux>
+<flux>
+<source>Var-Matin : basket</source>
+<adresse><![CDATA[http://www.varmatin.com/basket/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>#####OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Var-Matin : rugby</source>
+<adresse><![CDATA[http://www.varmatin.com/rugby/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>Var-Matin : handball</source>
+<adresse><![CDATA[http://www.varmatin.com/handball/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>#######@OOOOOOO</frequence>
+</flux>
+<flux>
+<source>Var-Matin : sports nautiques</source>
+<adresse><![CDATA[http://www.varmatin.com/sports-nautiques/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##@@@@@@@@@OOOO</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : rugby</source>
+<adresse><![CDATA[http://www.nicematin.com/rugby/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : RCT</source>
+<adresse><![CDATA[http://www.varmatin.com/rct/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : basket</source>
+<adresse><![CDATA[http://www.nicematin.com/basket/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>#####@OOOO</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : volley</source>
+<adresse><![CDATA[http://www.nicematin.com/volley/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : sports nautiques</source>
+<adresse><![CDATA[http://www.nicematin.com/sports-nautiques/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>@@@@@@@OOO</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : cyclisme</source>
+<adresse><![CDATA[http://www.nicematin.com/cyclisme/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : autres sports</source>
+<adresse><![CDATA[http://www.nicematin.com/autres-sports/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##@@@@@@@O</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : sport</source>
+<adresse><![CDATA[http://www.nicematin.com/taxonomy/term/30/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Lib&#233;ration : sport</source>
+<adresse><![CDATA[http://rss.liberation.fr/rss/14/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 25 items - 24 titres </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeJDD : sport</source>
+<adresse><![CDATA[http://cdn1-lejdd.ladmedia.fr/var/exports/rss/rss-sport.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le NouvelObs : sport</source>
+<adresse><![CDATA[http://tempsreel.nouvelobs.com/sport/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>TF1 : Automoto vid&#233;o</source>
+<adresse><![CDATA[http://www.tf1.fr/xml/rss/0,,860,00.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Alsace : sport mulhousien</source>
+<adresse><![CDATA[http://www.lalsace.fr/sport/sport-mulhousien/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Alsace : sport</source>
+<adresse><![CDATA[http://www.lalsace.fr/sport/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>RTL info : sport</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/32898/f/533234/index.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Le Nouvelliste : autres sports</source>
+<adresse><![CDATA[http://www-lenouvelliste-ch.www4.iomedia.infomaniak.ch/data/xml/rss/articles/rss_articles_fr_613.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description : 3026 car. </alerte>
+<alerte>description : 3275 car. </alerte>
+<alerte>description : 3305 car. </alerte>
+<alerte>description : 3287 car. </alerte>
+<alerte>description : 3258 car. </alerte>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Europe 1 : sport</source>
+<adresse><![CDATA[http://www.europe1.fr/var/export/rss/europe1/sport.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Monde : sport</source>
+<adresse><![CDATA[http://www.lemonde.fr/rss/tag/sport.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le&#8212;T&#233;l&#233;gramme : voile</source>
+<adresse><![CDATA[http://www.letelegramme.com/sports/voile/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Le&#8212;T&#233;l&#233;gramme : sport</source>
+<adresse><![CDATA[http://www.letelegramme.com/sports/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Orange : athl&#233;</source>
+<adresse><![CDATA[http://sports.orange.fr/athletisme/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##################@@</frequence>
+</flux>
+<flux>
+<source>Orange : auto-moto</source>
+<adresse><![CDATA[http://sports.orange.fr/auto-moto/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##################@@</frequence>
+</flux>
+<flux>
+<source>Orange : basket</source>
+<adresse><![CDATA[http://sports.orange.fr/basket/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Orange : boxe</source>
+<adresse><![CDATA[http://sports.orange.fr/boxe/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>###oooooooooOooooO</frequence>
+</flux>
+<flux>
+<source>Orange : cyclisme</source>
+<adresse><![CDATA[http://sports.orange.fr/cyclisme/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Orange : formule 1</source>
+<adresse><![CDATA[http://sports.orange.fr/f1/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Orange : football</source>
+<adresse><![CDATA[http://sports.orange.fr/football/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Orange : golf</source>
+<adresse><![CDATA[http://sports.orange.fr/golf/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Orange : handball</source>
+<adresse><![CDATA[http://sports.orange.fr/handball/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>######OOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Orange : natation</source>
+<adresse><![CDATA[http://sports.orange.fr/natation/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>######@@@@@@@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>Orange : nba</source>
+<adresse><![CDATA[http://sports.orange.fr/nba/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>######@@@@@@@OOOOOOO</frequence>
+</flux>
+<flux>
+<source>Orange : rugby</source>
+<adresse><![CDATA[http://sports.orange.fr/rugby/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Orange : ski</source>
+<adresse><![CDATA[http://sports.orange.fr/ski/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#####@@ooooooooooooo</frequence>
+</flux>
+<flux>
+<source>Orange : tennis</source>
+<adresse><![CDATA[http://sports.orange.fr/tennis/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Orange : voile</source>
+<adresse><![CDATA[http://sports.orange.fr/voile/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Orange : volley</source>
+<adresse><![CDATA[http://sports.orange.fr/volley/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Union Champagne Ardenne Picardie : sport</source>
+<adresse><![CDATA[http://www.lunion.presse.fr/rss/Sports.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Union Champagne Ardenne Picardie : sport r&#233;gion</source>
+<adresse><![CDATA[http://www.lunion.presse.fr/rss/Sport-Region.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>TV5 : sport</source>
+<adresse><![CDATA[http://www.tv5.org/TV5Site/rss/actualites.php?rub=9]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : sport</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/3]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : sport r&#233;ion</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/3/breves_destination_block]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : rugby</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/218]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>########@@@@OOOOOOOO</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : basket</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/213]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : handball</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/215]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#################@@@</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : volley-ball</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/219]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#################@@O</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : hockey</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/217]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#####@@@OOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Midi Libre : rugby</source>
+<adresse><![CDATA[http://www.midilibre.fr/sport/rugby/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Midi Libre : ooooooo</source>
+<adresse><![CDATA[http://www.midilibre.fr/sport/handball/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Midi Libre : sport</source>
+<adresse><![CDATA[http://www.midilibre.fr/sport/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : rugby XIII</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/89.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : handball</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/157.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : autres sports</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/158.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : rugby XV</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/88.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : basket-ball</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/156.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : volley-ball</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/124.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#################@@@</frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : auto/Moto</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/187.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : sport</source>
+<adresse><![CDATA[http://www.sudouest.fr/unes/sports/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : rugby</source>
+<adresse><![CDATA[http://www.sudouest.fr/sport/rugby/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : basket</source>
+<adresse><![CDATA[http://www.sudouest.fr/sport/basket/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Office National de la Chasse et de la Faune Sauvage</source>
+<adresse><![CDATA[http://www.oncfs.gouv.fr/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#####OOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Africa top sports</source>
+<adresse><![CDATA[http://www.africatopsports.com/feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>################</frequence>
+</flux>
+<flux>
+<source>Voile news : magazine</source>
+<adresse><![CDATA[http://www.voilesnews.fr/export/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>H&#233;lice news : magazine</source>
+<adresse><![CDATA[http://www.helicesnews.fr/export/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#############@@@@@@@</frequence>
+</flux>
+<flux>
+<source>Sailing r&#233;gate news : magazine</source>
+<adresse><![CDATA[http://www.sailingregate.fr/export/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Dvprocam</source>
+<adresse><![CDATA[http://gdata.youtube.com/feeds/base/users/UCJ2VKS5RfVLuyMR9VHtv_fA/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#@@OOOOOOOOooooooooo</frequence>
+</flux>
+<flux>
+<source>BFM TV : sport</source>
+<adresse><![CDATA[http://www.bfmtv.com/rss/sport.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<erreur_fatale>page vide</erreur_fatale>
+<frequence></frequence>
+</flux>
+<flux>
+<source>meltyXtrem</source>
+<adresse><![CDATA[http://www.meltyxtrem.fr/actu.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Ski info</source>
+<adresse><![CDATA[http://www.skiinfo.fr/news.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>########OOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>BrunoSans</source>
+<adresse><![CDATA[http://brunosans.over-blog.com/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOoooooooooooo</frequence>
+</flux>
+<flux>
+<source>Entr&#8217;Raid 49</source>
+<adresse><![CDATA[http://entraid49.over-blog.com/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOOOOOoooooo</frequence>
+</flux>
+<flux>
+<source>P&#234;che Sempe</source>
+<adresse><![CDATA[http://pechesempe.wordpress.com/feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>@OOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Sports r&#233;gions : actualit&#233;s</source>
+<adresse><![CDATA[http://www.sportsregions.fr/actualites.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description : 3832 car. </alerte>
+<alerte>description : 4689 car. </alerte>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sports r&#233;gions : &#233;v&#233;nements</source>
+<adresse><![CDATA[http://www.sportsregions.fr/evenements.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Surf All Med</source>
+<adresse><![CDATA[http://surfallmed.blogspot.com/feeds/posts/default?alt=rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>OOOOOooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>Kin&#233; sport</source>
+<adresse><![CDATA[http://www.kinesport.info/xml/syndication.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description : 11554 car. </alerte>
+<alerte>description : 12106 car. </alerte>
+<alerte>description : 9369 car. </alerte>
+<alerte>description : 19334 car. </alerte>
+<alerte>description : 12650 car. </alerte>
+<frequence>###########@@@OOOOOO</frequence>
+</flux>
+<flux>
+<source>Futsal info</source>
+<adresse><![CDATA[http://www.futsal-info.fr/default/feeds/actualite.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>ooooo</frequence>
+</flux>
+<flux>
+<source>Sport magazine</source>
+<adresse><![CDATA[http://sportmagazine.levif.be/sport/actualite/feed.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sports</source>
+<adresse><![CDATA[http://sports.feedsportal.com/c/282/f/439430/index.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>UNSS : vid&#233;o</source>
+<adresse><![CDATA[http://www.dailymotion.com/rss/user/UNSS/1]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Beinsport : uTube</source>
+<adresse><![CDATA[http://gdata.youtube.com/feeds/base/users/beinsportofficiel/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##@OOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Beinsport : Daily motion</source>
+<adresse><![CDATA[http://www.dailymotion.com/rss/user/beINSPORT/1]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#######@@@@@@OOOOO</frequence>
+</flux>
+<flux>
+<source>Levallois sport</source>
+<adresse><![CDATA[http://www.dailymotion.com/rss/user/levalloisport/1]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##@@@@@@@OOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Voiles et voiliers : actualit&#233; &#224; la hune</source>
+<adresse><![CDATA[http://www.ouestbateaux.com/rss=actus_a_la_hune/template=rss_feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>########@@@@@@@@@OOO</frequence>
+</flux>
+<flux>
+<source>Voiles et voiliers : photos &#224; la hune</source>
+<adresse><![CDATA[http://www.ouestbateaux.com/rss=photos_a_la_hune/template=rss_feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>###############@@@@@</frequence>
+</flux>
+<flux>
+<source>Voiles et voiliers : vid&#233;os agrave; la hune</source>
+<adresse><![CDATA[http://www.ouestbateaux.com/rss=videos_a_la_hune/template=rss_feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#####@@@@@OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Voiles et voiliers : actus et br&#232;ves</source>
+<adresse><![CDATA[http://www.ouestbateaux.com/rss=actus_et_breves/template=rss_feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####@OOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Scan Voile</source>
+<adresse><![CDATA[http://www.scanvoile.com/feeds/posts/default?alt=rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>F&#233;d&#233;ration fran&#231;aise de tir &#224; l&#8217;arc FFTA</source>
+<adresse><![CDATA[http://www.evenements-sportifs.com/ffta-fr/rss/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##############@@@@@@</frequence>
+</flux>
+<flux>
+<source>Minist&#232;re des Sports</source>
+<adresse><![CDATA[http://www.sports.gouv.fr/?page=backend&id_rubrique=846]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+</flux>
+<flux>
+<source>Octopus Plong&#233;e</source>
+<adresse><![CDATA[http://www.octopus-plongee.com/index.php?format=feed&type=rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Surf Session</source>
+<adresse><![CDATA[http://www.surfsession.com/feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Tennis F&#233;d&#233;ration Fran&#231;aise</source>
+<adresse><![CDATA[http://www.fft.fr/fil_d_info_rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Tennis leader</source>
+<adresse><![CDATA[http://www.tennisleader.fr/fil-d-infos/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Tennis fran&#231;ais</source>
+<adresse><![CDATA[http://tennisfrancais.fr/?fond=rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>We love tennis</source>
+<adresse><![CDATA[http://www.welovetennis.fr/rss.php]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>BeInSport : tennis</source>
+<adresse><![CDATA[http://www.beinsport.fr/tennis.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Tennis temple</source>
+<adresse><![CDATA[http://fr.tennistemple.com/news.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Passion trail</source>
+<adresse><![CDATA[http://www.passion-trail.com/feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Eco trail Paris</source>
+<adresse><![CDATA[http://www.i-tra.org/newsrss.php?Langue=_fr]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>@OOoooooo</frequence>
+</flux>
+<flux>
+<source>Team Hokaoneone</source>
+<adresse><![CDATA[http://gdata.youtube.com/feeds/base/users/HOKAONEONE/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>OOoooooooo</frequence>
+</flux>
+<flux>
+<source>Julien Chorier : vid&#233;o</source>
+<adresse><![CDATA[http://gdata.youtube.com/feeds/base/users/UCOe4Nu5_cm9rLtbEH1n6mgw/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##@ooooo</frequence>
+</flux>
+<flux>
+<source>Trails endurance Mag</source>
+<adresse><![CDATA[http://www.trails-endurance.com/feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Loz&#232;re sport nature</source>
+<adresse><![CDATA[http://lozere.sportnature.free.fr/index.php?format=feed&type=rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>OOOOOooooo</frequence>
+</flux>
+<flux>
+<source>Raid 2 Trail</source>
+<adresse><![CDATA[http://raid2trail.blogspot.com/feeds/posts/default?alt=rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description : 3842 car. </alerte>
+<frequence>##OOOOOOOOOOOooooooo</frequence>
+</flux>
+<flux>
+<source>Team XTTR63</source>
+<adresse><![CDATA[http://www.xttr63.com/CPLVR/index2.php?option=ds-syndicate&version=1&feed_id=1]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description : 5463 car. </alerte>
+<alerte>description : 3264 car. </alerte>
+<alerte>description : 12121 car. </alerte>
+<frequence>######@@@@OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Team Capopale</source>
+<adresse><![CDATA[http://capopale.over-blog.org/rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description : 6450 car. </alerte>
+<frequence>####@OOOOOOOOOoooooo</frequence>
+</flux>
+<flux>
+<source>Julien Bartoli</source>
+<adresse><![CDATA[http://gdata.youtube.com/feeds/base/users/UC6vaq54nfkotxY8vOfw5wtQ/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>OOOOO</frequence>
+</flux>
+<flux>
+<source>Team Eurexia</source>
+<adresse><![CDATA[http://www.teameurexia.com/rss/news]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##@OOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Team Eurexia</source>
+<adresse><![CDATA[http://www.teameurexia.com/rss/news]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##@OOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Trail running Savoie</source>
+<adresse><![CDATA[http://www.trail-running-savoie.fr/feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur_fatale>adresse inaccessible</erreur_fatale>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<erreur_fatale>page vide</erreur_fatale>
+<frequence></frequence>
+</flux>
+<flux>
+<source>SportEndurance</source>
+<adresse><![CDATA[http://feeds.feedburner.com/PublicationsSportEndurance]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOO</frequence>
+</flux>
+<flux>
+<source>G&#244;nes Raideurs</source>
+<adresse><![CDATA[http://www.gones-raideurs.org/index.php?format=feed&type=rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#@OOo</frequence>
+</flux>
+<flux>
+<source>Jogging international</source>
+<adresse><![CDATA[http://www.jogging-international.net/rss_read/2]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description : 10604 car. </alerte>
+<alerte>description : 7275 car. </alerte>
+<alerte>description : 4290 car. </alerte>
+<alerte>description : 5269 car. </alerte>
+<frequence>#########@OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Pompier raid aventure</source>
+<adresse><![CDATA[http://www.pompier-raid-aventure.com/feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>###OOOOOOO</frequence>
+</flux>
+<flux>
+<source>Cano&#235;-kayak mag</source>
+<adresse><![CDATA[http://www.canoe-kayak-mag.fr/feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##@@@@@OOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Runners</source>
+<adresse><![CDATA[http://runners.fr/feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>J&#233;r&#244;me Marcantetti</source>
+<adresse><![CDATA[http://jmti.over-blog.com/rss-articles.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>ooo</frequence>
+</flux>
+<flux>
+<source>Wanarun</source>
+<adresse><![CDATA[http://feeds.feedburner.com/Wanarun]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Kairn</source>
+<adresse><![CDATA[http://www.kairn.com/rss/?lang=fr]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Endorphin Mag</source>
+<adresse><![CDATA[http://gdata.youtube.com/feeds/base/users/endorphmag/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>###########OOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Track et News</source>
+<adresse><![CDATA[http://www.trackandnews.fr/feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Wanarun</source>
+<adresse><![CDATA[http://feeds.feedburner.com/Wanarun]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Conseils course &#224; pied</source>
+<adresse><![CDATA[http://feeds2.feedburner.com/conseils-courseapied]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Salomon running</source>
+<adresse><![CDATA[http://www.salomonrunning.com/fr/rss-insiders.aspx]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Julien Chorier</source>
+<adresse><![CDATA[http://www.julienchorier.com/index.php?feed/rss2]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Lepape raid</source>
+<adresse><![CDATA[http://feeds.feedburner.com/lepapeinfo]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Running caf&#233;</source>
+<adresse><![CDATA[http://www.runningcafe.fr/feed]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#####OOOOO</frequence>
+</flux>
+<flux>
+<source>RunRaid</source>
+<adresse><![CDATA[http://www.runraid.fr/wp/feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>@Oooooooooooooo</frequence>
+</flux>
+<flux>
+<source>AREuroSeries</source>
+<adresse><![CDATA[http://www.areuroseries.com/index.php?format=feed&type=rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>@OOOoooooo</frequence>
+</flux>
+<flux>
+<source>Team Blackheart Adventure Racing</source>
+<adresse><![CDATA[http://feeds.feedburner.com/TeamBlackheart]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Team Silva</source>
+<adresse><![CDATA[http://www.arsweden.se/feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#@@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>Team Raid Lafuma Vibram</source>
+<adresse><![CDATA[http://www.team-lafuma-vibram.com/feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur_fatale>adresse inaccessible</erreur_fatale>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<erreur_fatale>page vide</erreur_fatale>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Triathlon F&#233;d&#233;ration fran&#231;aise</source>
+<adresse><![CDATA[http://www.fftri.com/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Toulon Triathlon Mutuelle verte</source>
+<adresse><![CDATA[http://toulontri.free.fr/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#####@@@OO</frequence>
+</flux>
+<flux>
+<source>Moto Verte</source>
+<adresse><![CDATA[http://feeds.feedburner.com/MotoVerte-tout?format=xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Rouen Triathlon</source>
+<adresse><![CDATA[http://rouentriathlon.fr/?q=rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>VO2</source>
+<adresse><![CDATA[http://www.vo2.fr/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France Kata Judo</source>
+<adresse><![CDATA[http://francekatajudo.fr/feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>OOOOOO</frequence>
+</flux>
+<flux>
+<source>Boxe pieds poings</source>
+<adresse><![CDATA[http://www.boxepiedspoings.fr/spip.php?page=backend]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####@@@@@@</frequence>
+</flux>
+<flux>
+<source>F&#233;d&#233;ration Fran&#231;aise de Taekwondo</source>
+<adresse><![CDATA[http://www.fftda.fr/fr/news.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>########@@@@@@@</frequence>
+</flux>
+<flux>
+<source>MMA-net vid&#233;o</source>
+<adresse><![CDATA[http://mma-net.com/feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Boxe Mag</source>
+<adresse><![CDATA[http://feeds2.feedburner.com/boxemag/CrZs]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description : 3486 car. </alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Atch Productions</source>
+<adresse><![CDATA[http://www.dailymotion.com/rss/user/Atch_Productions/1]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####OOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>MMA Undercover</source>
+<adresse><![CDATA[http://www.mma-undercover.com/feeds/posts/default?alt=rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>Oooooooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>MMA4Fight</source>
+<adresse><![CDATA[http://mma4fight.fr/feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>MmaDeferlante</source>
+<adresse><![CDATA[http://feeds.feedburner.com/MmaDeferlante]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Ikusa</source>
+<adresse><![CDATA[http://www.ikusa.fr/forums/rss/forums/5-resultats-des-evenements/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Bushido acad&#233;mie</source>
+<adresse><![CDATA[http://www.bushido-academie.fr/feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur_fatale>adresse inaccessible</erreur_fatale>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<erreur_fatale>page vide</erreur_fatale>
+<frequence></frequence>
+</flux>
+<flux>
+<source>VXS</source>
+<adresse><![CDATA[http://gdata.youtube.com/feeds/base/users/vxs1bis/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##@@OOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Boxing events PACA</source>
+<adresse><![CDATA[http://boxingeventspaca.blogspot.com/feeds/posts/default?alt=rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description : 3383 car. </alerte>
+<frequence>##@@@@OOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Yoseikan Budo - UCFYB</source>
+<adresse><![CDATA[http://www.yoseikan-budo.info/accueil/news-france?format=feed&type=rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur_fatale>adresse inaccessible</erreur_fatale>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<erreur_fatale>page vide</erreur_fatale>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Au tapis</source>
+<adresse><![CDATA[http://combat.blog.lemonde.fr/feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#@@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>FF Karat&#233; : vid&#233;o</source>
+<adresse><![CDATA[http://www.dailymotion.com/rss/user/ffkarate/1]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>@@@@OOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>L&#8217;&#201;quipe : judo</source>
+<adresse><![CDATA[http://www.lequipe.fr/rss/actu_rss_Judo.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##@@@@@@@@@@@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>Comit&#233; du Morbihan de Judo</source>
+<adresse><![CDATA[http://judo-morbihan.fr/feed]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##OOO</frequence>
+</flux>
+<flux>
+<source>Judo Portal</source>
+<adresse><![CDATA[http://www.judo.com.gr/feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>L&#8217;esprit du judo</source>
+<adresse><![CDATA[http://gdata.youtube.com/feeds/base/users/lespritdujudo/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>@@@@@@@@@@@@@@@@@OOO</frequence>
+</flux>
+<flux>
+<source>Judo TV</source>
+<adresse><![CDATA[http://www.judotv.fr/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 10 item - 9 description </erreur>
+<frequence>@OOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>AllJudo : news</source>
+<adresse><![CDATA[http://www.alljudo.net/flux-RSS-judo-news.html]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##################@@</frequence>
+</flux>
+<flux>
+<source>AllJudo : vid&#233;o</source>
+<adresse><![CDATA[http://www.alljudo.net/flux-RSS-judo-videos.html]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##################@@</frequence>
+</flux>
+<flux>
+<source>AllJudo : TV</source>
+<adresse><![CDATA[http://gdata.youtube.com/feeds/base/users/alljudoTV/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Live judo</source>
+<adresse><![CDATA[http://www.livejudo.com/feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>FF Judo &#200;v&#233;nements</source>
+<adresse><![CDATA[http://www.ffjudo.com/ffj/rss/feed/evenements]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Judo TicTacBlog</source>
+<adresse><![CDATA[http://tictacblog.wordpress.com/feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#@@OOOOOOO</frequence>
+</flux>
+<flux>
+<source>SportAuto</source>
+<adresse><![CDATA[http://news.sportauto.fr/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>F&#233;d&#233;ration fran&#231;aise du sport automobile</source>
+<adresse><![CDATA[http://www.ffsa.org/rss.php]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Moto-Net</source>
+<adresse><![CDATA[http://www.moto-net.com/rss_actu.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Moto Station</source>
+<adresse><![CDATA[http://www.moto-station.com/actus.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Rallye-Sport</source>
+<adresse><![CDATA[http://www.rallye-sport.fr/feed/]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Coordination de Cyclisme des Sapeurs-pompiers</source>
+<adresse><![CDATA[http://www.cfcsp.fr/index.php?format=feed&type=rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>VeloChrono</source>
+<adresse><![CDATA[http://feeds.feedburner.com/velochrono/mwLr]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : cyclisme</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/186.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Cyclisme Revue</source>
+<adresse><![CDATA[http://cyclismerevue.blogs.sudinfo.be/index.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#######</frequence>
+</flux>
+<flux>
+<source>Cyclisme actu</source>
+<adresse><![CDATA[http://www.dailymotion.com/rss/user/Cyclismactu/1]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##################</frequence>
+</flux>
+<flux>
+<source>Tour de France : vid&#233;o</source>
+<adresse><![CDATA[http://www.dailymotion.com/rss/user/tourdefrance/1]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>@@@@@OOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>L&#8217;&#233;quipe : volley</source>
+<adresse><![CDATA[http://www.lequipe.fr/rss/actu_rss_Volley.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sports : volley</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/282/f/482177/index.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : rugby</source>
+<adresse><![CDATA[http://www.francetv.fr/info/rugby.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>@@OOOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : F1</source>
+<adresse><![CDATA[http://www.francetv.fr/info/f1.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#OOOOOOOOOOOOooooooo</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : sport</source>
+<adresse><![CDATA[http://www.francetv.fr/info/sports.rss]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>###################</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : rugby</source>
+<adresse><![CDATA[http://feeds.feedburner.com/francetv-sports/rugby]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : cyclisme</source>
+<adresse><![CDATA[http://feeds.feedburner.com/francetv-sports/cyclisme]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : tennis</source>
+<adresse><![CDATA[http://feeds.feedburner.com/francetv-sports/tennis]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : neige et glace</source>
+<adresse><![CDATA[http://feeds.feedburner.com/francetv-sports/neige-et-glace]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : moteurs</source>
+<adresse><![CDATA[http://feeds.feedburner.com/francetv-sports/moteurs]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : basket, hand, volley</source>
+<adresse><![CDATA[http://feeds.feedburner.com/francetv-sports/basket-hand-volley]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : voile</source>
+<adresse><![CDATA[http://feeds.feedburner.com/francetv-sports/voile]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : athl&#233;tisme</source>
+<adresse><![CDATA[http://feeds.feedburner.com/francetv-sports/athletisme]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : jeux olympiques</source>
+<adresse><![CDATA[http://feeds.feedburner.com/francetv-sports/jo]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : sport</source>
+<adresse><![CDATA[http://feeds.feedburner.com/francetv-sports]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : derni&#232;re minute</source>
+<adresse><![CDATA[http://feeds.feedburner.com/francetv-sports/derniere-minute]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>L&#8217;&#201;quipe : rugby</source>
+<adresse><![CDATA[http://www.lequipe.fr/rss/actu_rss_Rugby.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;&#201;quipe : cyclisme</source>
+<adresse><![CDATA[http://www.lequipe.fr/rss/actu_rss_Cyclisme.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;&#201;quipe : hand</source>
+<adresse><![CDATA[http://www.lequipe.fr/rss/actu_rss_Hand.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;&#201;quipe : rallye</source>
+<adresse><![CDATA[http://www.lequipe.fr/rss/actu_rss_Rallye.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>################@@@@</frequence>
+</flux>
+<flux>
+<source>L&#8217;&#201;quipe : tennis-golf</source>
+<adresse><![CDATA[http://www.lequipe.fr/rss/actu_rss_Tennis.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;&#201;quipe : athl&#233;tisme</source>
+<adresse><![CDATA[http://www.lequipe.fr/rss/actu_rss_Athletisme.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 50 item - 49 description </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;&#201;quipe : moto</source>
+<adresse><![CDATA[http://www.lequipe.fr/rss/actu_rss_Moto.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;&#201;quipe : formule 1</source>
+<adresse><![CDATA[http://www.lequipe.fr/rss/actu_rss_F1.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 50 items - 49 titres </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;&#201;quipe : basket</source>
+<adresse><![CDATA[http://www.lequipe.fr/rss/actu_rss_Basket.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;&#201;quipe : golf</source>
+<adresse><![CDATA[http://www.lequipe.fr/rss/actu_rss_Golf.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;&#201;quipe : ski</source>
+<adresse><![CDATA[http://www.lequipe.fr/rss/actu_rss_Ski.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#@@@OOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>L&#8217;&#201;quipe : natation</source>
+<adresse><![CDATA[http://www.lequipe.fr/rss/actu_rss_Natation.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####@@@@@@@@@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>L&#8217;&#201;quipe : actu</source>
+<adresse><![CDATA[http://www.lequipe.fr/rss/actu_rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Eurosport : athl&#233;tisme</source>
+<adresse><![CDATA[http://www.eurosport.fr/athletisme/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#####@@@@@@@@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>Eurosport : boxe</source>
+<adresse><![CDATA[http://www.eurosport.fr/boxe/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOOOOoooooooo</frequence>
+</flux>
+<flux>
+<source>Eurosport : escrime</source>
+<adresse><![CDATA[http://www.eurosport.fr/escrime/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>OOOoooooo#oooooooooo</frequence>
+</flux>
+<flux>
+<source>Eurosport : handball</source>
+<adresse><![CDATA[http://www.eurosport.fr/handball/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOoooooooooo</frequence>
+</flux>
+<flux>
+<source>Eurosport : hockey sur glace</source>
+<adresse><![CDATA[http://www.eurosport.fr/hockey-sur-glace/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOOooooooooo</frequence>
+</flux>
+<flux>
+<source>Eurosport : natation</source>
+<adresse><![CDATA[http://www.eurosport.fr/natation/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#@@@@@@@@@@@@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>Eurosport : voile</source>
+<adresse><![CDATA[http://www.eurosport.fr/voile/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>##@OOOOooooooooooooo</frequence>
+</flux>
+<flux>
+<source>Eurosport : volley ball</source>
+<adresse><![CDATA[http://www.eurosport.fr/volleyball/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>#######Ooooooooooooo</frequence>
+</flux>
+<flux>
+<source>Eurosport : br&#232;ves</source>
+<adresse><![CDATA[http://www.eurosport.fr/rss.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Eurosport : articles</source>
+<adresse><![CDATA[http://www.eurosport.fr/rss-flash.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>F&#233;d&#233;ration fran&#231;aise de boxe</source>
+<adresse><![CDATA[http://www.ffboxe.com/rss.xml.php]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le repaire des motards</source>
+<adresse><![CDATA[http://www.lerepairedesmotards.com/rss/actu.xml]]></adresse>
+<categorie>sport</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+</base>

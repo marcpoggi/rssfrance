@@ -1,0 +1,2122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="genere_annuaire_xml.xsl" type="text/xsl"?>
+<base>
+<flux>
+<source>LeParisien : loisirs et spectacles</source>
+<adresse><![CDATA[http://www.leparisien.fr/loisirs-et-spectacles/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeParisien : people et medias</source>
+<adresse><![CDATA[http://www.leparisien.fr/actualite-people-medias/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeParisien : beaut&#233;</source>
+<adresse><![CDATA[http://www.leparisien.fr/laparisienne/beaute/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeParisien : mode</source>
+<adresse><![CDATA[http://www.leparisien.fr/laparisienne/mode/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeParisien : joaillerie</source>
+<adresse><![CDATA[http://www.leparisien.fr/laparisienne/mode/bijoux-joaillerie/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>oooooooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>LeParisien : people</source>
+<adresse><![CDATA[http://www.leparisien.fr/laparisienne/actu-people/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeParisien : portraits</source>
+<adresse><![CDATA[http://www.leparisien.fr/laparisienne/portrait/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>oooooooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>LeParisien : d&#233;co</source>
+<adresse><![CDATA[http://www.leparisien.fr/laparisienne/deco/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>########@@@@@@@@OOOO</frequence>
+</flux>
+<flux>
+<source>LeParisien : cuisine</source>
+<adresse><![CDATA[http://www.leparisien.fr/laparisienne/cuisine/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#@@OOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>LeParisien : recettes</source>
+<adresse><![CDATA[http://www.leparisien.fr/laparisienne/cuisine/recette-cuisine/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>LeParisien : maman</source>
+<adresse><![CDATA[http://www.leparisien.fr/laparisienne/maman/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>oooooooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>LeParisien : la parisienne soci&#233;t&#233;</source>
+<adresse><![CDATA[http://www.leparisien.fr/laparisienne/travail/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>oooooooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>LeParisien : la parisienne</source>
+<adresse><![CDATA[http://www.leparisien.fr/laparisienne/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Figaro : culture</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_culture.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Figaro : livres</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_livres.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Figaro : th&#233;&#226;tre</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_theatre.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>################@@@@</frequence>
+</flux>
+<flux>
+<source>Le Figaro : cin&#233;ma</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_cinema.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Figaro : lifestyle</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_lifestyle.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########@#########</frequence>
+</flux>
+<flux>
+<source>Le Figaro : automobile</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_automobile.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#################@@@</frequence>
+</flux>
+<flux>
+<source>Le Figaro : gastronomie</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_gastronomie.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#########@@@@@@@@@@O</frequence>
+</flux>
+<flux>
+<source>Le Figaro : horlogerie</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_horlogerie.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOOOoooooooo</frequence>
+</flux>
+<flux>
+<source>Le Figaro : mode Homme</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_mode-homme.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>###@OOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Le Figaro : sortir &#224; Paris </source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_sortir-paris.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Figaro et mat</source>
+<adresse><![CDATA[http://blog.lefigaro.fr/flux/72.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>ooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>Le Figaro : photo</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_photos.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##################@@</frequence>
+</flux>
+<flux>
+<source>Paris-Match : people</source>
+<adresse><![CDATA[http://cdn1-parismatch.ladmedia.fr/var/exports/rss/rss-people.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Paris-Match : royal blog</source>
+<adresse><![CDATA[http://cdn1-parismatch.ladmedia.fr/var/exports/rss/rss-royal-blog.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Paris-Match : vivre</source>
+<adresse><![CDATA[http://cdn1-parismatch.ladmedia.fr/var/exports/rss/rss-vivre.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Paris-Match : web radio</source>
+<adresse><![CDATA[http://cdn1-parismatch.ladmedia.fr/var/exports/rss/rss-web-radio.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>###@@@OOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>La Croix : culture</source>
+<adresse><![CDATA[http://www.la-croix.com/layout/set/rss/content/view/rss/8668]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Croix : livres</source>
+<adresse><![CDATA[http://www.la-croix.com/layout/set/rss/content/view/rss/8669]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##################@@</frequence>
+</flux>
+<flux>
+<source>Var-Matin : people</source>
+<adresse><![CDATA[http://www.varmatin.com/people/rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>Var-Matin : diaporama</source>
+<adresse><![CDATA[http://www.varmatin.com/taxonomy/term/1104/rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>########@@@@@@@</frequence>
+</flux>
+<flux>
+<source>Lib&#233;ration : cin&#233;ma</source>
+<adresse><![CDATA[http://rss.liberation.fr/rss/58/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Lib&#233;ration : livres</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/32268/f/438252/index.rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 25 item - 24 description </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Maritima</source>
+<adresse><![CDATA[http://www.maritima.info/rss/actualites/a-la-une/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>BFM : In Vino BFM</source>
+<adresse><![CDATA[http://www.1001podcast.com/podcast/BFM/channel5/BFMchannel5.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>BFM : Go&#251;ts de luxe</source>
+<adresse><![CDATA[http://www.1001podcast.com/podcast/BFM/channel12/BFMchannel12.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##@OOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Le NouvelObs : &#233;ducation</source>
+<adresse><![CDATA[http://tempsreel.nouvelobs.com/education/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le NouvelObs : hightech</source>
+<adresse><![CDATA[http://obsession.nouvelobs.com/high-tech/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le NouvelObs : culture</source>
+<adresse><![CDATA[http://rss.nouvelobs.com/c/32262/fe.ed/tempsreel.nouvelobs.com/culture/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le NouvelObs : t&#233;l&#233;</source>
+<adresse><![CDATA[http://rss.nouvelobs.com/c/32262/fe.ed/teleobs.nouvelobs.com/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>###@@@@@@@@@OOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Le NouvelObs : cin&#233;ma</source>
+<adresse><![CDATA[http://cinema.nouvelobs.com/articles.rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description : 8982 car. </alerte>
+<frequence>#######@@@@@@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>Sciences et Avenir</source>
+<adresse><![CDATA[http://rss.nouvelobs.com/c/32581/fe.ed/www.sciencesetavenir.fr/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Telerama</source>
+<adresse><![CDATA[http://www.telerama.fr/rss/une.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>############</frequence>
+</flux>
+<flux>
+<source>LCI : culture</source>
+<adresse><![CDATA[http://www.tf1.fr/xml/rss/0,,77,00.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#######</frequence>
+</flux>
+<flux>
+<source>LCI : people</source>
+<adresse><![CDATA[http://www.tf1.fr/xml/rss/0,,6,00.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LCI : insolite</source>
+<adresse><![CDATA[http://www.tf1.fr/xml/rss/0,,7,00.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#######@</frequence>
+</flux>
+<flux>
+<source>L&#8217;Alsace : loisirs</source>
+<adresse><![CDATA[http://www.lalsace.fr/loisirs/rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#@@@OOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Euronews : culture</source>
+<adresse><![CDATA[http://feeds.feedburner.com/euronews/fr/lifestyle/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>############</frequence>
+</flux>
+<flux>
+<source>Le Monde : cin&#233;ma</source>
+<adresse><![CDATA[http://rss.lemonde.fr/c/205/f/3062/index.rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>FranceInter : L&#224;-bas si j&#8217;y suis</source>
+<adresse><![CDATA[http://www.la-bas.org/spip.php?page=backend]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####@@@@@O</frequence>
+</flux>
+<flux>
+<source>Ria Novosti</source>
+<adresse><![CDATA[http://fr.ria.ru/export/rss2/index.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Union Champagne Ardenne Picardie : culture et loisirs</source>
+<adresse><![CDATA[http://www.lunion.presse.fr/rss/En-t%C3%AAte-d%27affiche.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>TV5 : litt&#233;rature</source>
+<adresse><![CDATA[http://www.tv5.org/TV5Site/rss/actualites.php?rub=5]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>TV5 : culture</source>
+<adresse><![CDATA[http://www.tv5.org/TV5Site/rss/actualites.php?rub=10]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>TV5 : insolite</source>
+<adresse><![CDATA[http://www.tv5.org/TV5Site/rss/actualites.php?rub=17]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#########@</frequence>
+</flux>
+<flux>
+<source>TV5 : litt&#233;rature</source>
+<adresse><![CDATA[http://www.tv5.org/TV5Site/rss/actualites.php?rub=5]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : insolite</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/168.rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : people</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/170.rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : gastronomie</source>
+<adresse><![CDATA[http://www.sudouest.fr/gastronomie/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#####@@@@@@OOO@OOOOO</frequence>
+</flux>
+<flux>
+<source>Achimag</source>
+<adresse><![CDATA[http://www.archimag.com/articles/tous/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LexiLogos</source>
+<adresse><![CDATA[http://www.lexilogos.com/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########@@@@@OOO</frequence>
+</flux>
+<flux>
+<source>Zoomon</source>
+<adresse><![CDATA[http://blog.zoomon.fr/feed/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>######</frequence>
+</flux>
+<flux>
+<source>Sofee GLZE</source>
+<adresse><![CDATA[http://gdata.youtube.com/feeds/base/users/UCoXELvUriA0fmD071ElDlHg/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OOOOOO</frequence>
+</flux>
+<flux>
+<source>Le top docs</source>
+<adresse><![CDATA[http://gdata.youtube.com/feeds/base/users/letopdocs/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOOOOOoooooo</frequence>
+</flux>
+<flux>
+<source>Cooknow</source>
+<adresse><![CDATA[http://feeds.feedburner.com/Cooknow?format=xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>S&#233;rie TV</source>
+<adresse><![CDATA[http://seriestv.blog.lemonde.fr/feed]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#######@@@</frequence>
+</flux>
+<flux>
+<source>L&#8217;&#201;tudiant</source>
+<adresse><![CDATA[http://www.letudiant.fr/rss.html]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 20 item - 18 description </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Margaux Duquesne</source>
+<adresse><![CDATA[http://journaleuse.wordpress.com/feed/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Originales design</source>
+<adresse><![CDATA[http://feeds.feedburner.com/originales]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>@OOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>01Calvi</source>
+<adresse><![CDATA[http://gdata.youtube.com/feeds/base/users/01calvi/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>@@@OOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Le Gorafi</source>
+<adresse><![CDATA[http://www.legorafi.fr/feed/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Du vent dans les toiles</source>
+<adresse><![CDATA[http://jonathan-florent.tumblr.com/rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>@OOOOOOOOooooooooooo</frequence>
+</flux>
+<flux>
+<source>Culture.fr</source>
+<adresse><![CDATA[http://www.culture.fr/layout/set/rss/content/view/rss_full/2]]></adresse>
+<categorie>agenda</categorie>
+<geo>externe</geo>
+<frequence>########OO########@@</frequence>
+</flux>
+<flux>
+<source>Etsy - vente en ligne fait-main</source>
+<adresse><![CDATA[http://www.etsy.com/blog/fr/feed/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description : 3440 car. </alerte>
+<alerte>description : 7809 car. </alerte>
+<alerte>description : 4563 car. </alerte>
+<alerte>description : 8609 car. </alerte>
+<alerte>description : 4047 car. </alerte>
+<alerte>description : 7324 car. </alerte>
+<frequence>#########@</frequence>
+</flux>
+<flux>
+<source>Beyond Beauty Blog</source>
+<adresse><![CDATA[http://www.blogbeyondbeauty.com/fr/index.php/feed/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>La boite &#224; Malices</source>
+<adresse><![CDATA[http://votreconcentredebeaute.com/wordpress/feed/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####@@@@@@</frequence>
+</flux>
+<flux>
+<source>Blog philat&#233;lie et marcophilie</source>
+<adresse><![CDATA[http://marcorse.blogspot.com/feeds/posts/default?alt=rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOOOOOOOOOooo</frequence>
+</flux>
+<flux>
+<source>Journaux</source>
+<adresse><![CDATA[http://www.journaux.fr/rss/tout.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>USS-Prizuttu</source>
+<adresse><![CDATA[http://uss-prizuttu.blogspot.com/feeds/posts/default?alt=rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>@@OOOOOOOooooooooooo</frequence>
+</flux>
+<flux>
+<source>Butcher of corsica</source>
+<adresse><![CDATA[http://butcher-of-corsica.blogspot.com/feeds/posts/default?alt=rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####oooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>Centre National des Arts Plastiques</source>
+<adresse><![CDATA[http://www.cnap.fr/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Langue sauce piquante</source>
+<adresse><![CDATA[http://correcteurs.blog.lemonde.fr/feed/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>########@@@@</frequence>
+</flux>
+<flux>
+<source>Carnet Web de G&#233;n&#233;alogie</source>
+<adresse><![CDATA[http://feeds.feedburner.com/CarnetWebDeGenealogie]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description : 3719 car. </alerte>
+<frequence>#OOOOOoooooooooooooo</frequence>
+</flux>
+<flux>
+<source>Rayon boissons</source>
+<adresse><![CDATA[http://www.rayon-boissons.com/rss/feed/actu-flash]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>M&#233;dusa</source>
+<adresse><![CDATA[http://medusaclay.com/blog/feed/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>d&#233;calage : 0 item - 1 description </erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Au f&#233;minin</source>
+<adresse><![CDATA[http://www.aufeminin.com/world/edito/index/rss.xml.asp?pid=5803538560577707885]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Soldats du Midi</source>
+<adresse><![CDATA[http://lesmidi.canalblog.com/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>###@@@@OOO</frequence>
+</flux>
+<flux>
+<source>Chroniques insulaires</source>
+<adresse><![CDATA[http://sylvestre-rossi.blogs.nouvelobs.com/index.rss?idfx=RSS_blogs]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description : 5876 car. </alerte>
+<frequence>##@@OOO</frequence>
+</flux>
+<flux>
+<source>Supertoinette</source>
+<adresse><![CDATA[http://www.supertoinette.com/feeds/recettes.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>########@@@@@@@</frequence>
+</flux>
+<flux>
+<source>France Culture : vid&#233;o</source>
+<adresse><![CDATA[http://www.dailymotion.com/rss/user/franceculture/1]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>################@@</frequence>
+</flux>
+<flux>
+<source>Radio France : terre &#224; terre</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_10867.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOOOOOOOOOOoo</frequence>
+</flux>
+<flux>
+<source>Marie-Claire</source>
+<adresse><![CDATA[http://www.marieclaire.fr/rss/article/20001]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Publie.net, le contemporain num&#233;rique</source>
+<adresse><![CDATA[http://www.publie.net/feed/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##@OOOOOOO</frequence>
+</flux>
+<flux>
+<source>Cosmopolitan</source>
+<adresse><![CDATA[http://www.cosmopolitan.fr/rss.php?rubrique=2000]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Cyberpresse : cuisine - en vrac</source>
+<adresse><![CDATA[http://www.cyberpresse.ca/rss/652.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>########@@@@@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>Rocbo</source>
+<adresse><![CDATA[http://rocbo.lautre.net/spip/spip.php?page=backend]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>@OOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Causeur</source>
+<adresse><![CDATA[http://www.causeur.fr/feed]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>D&#233;sinformations</source>
+<adresse><![CDATA[http://www.desinformations.com/rss/une.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>######</frequence>
+</flux>
+<flux>
+<source>Staragora</source>
+<adresse><![CDATA[http://feeds.feedburner.com/staragora/mode]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>adresse avec mention rel</alerte>
+<alerte>adresse avec mention rel</alerte>
+<alerte>adresse avec mention rel</alerte>
+<alerte>adresse avec mention rel</alerte>
+<alerte>adresse avec mention rel</alerte>
+<alerte>adresse avec mention rel</alerte>
+<alerte>adresse avec mention rel</alerte>
+<alerte>adresse avec mention rel</alerte>
+<alerte>adresse avec mention rel</alerte>
+<alerte>adresse avec mention rel</alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Encyclop&#230;dia Universalis</source>
+<adresse><![CDATA[http://www.universalis.fr/syndication/dossier.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Patrimoine en blog</source>
+<adresse><![CDATA[http://patrimoine.blog.pelerin.info/feed/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Actualitt&#233;</source>
+<adresse><![CDATA[http://feeds2.feedburner.com/Actualitt-UnePageDeCaractre]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Fabula</source>
+<adresse><![CDATA[http://www.fabula.org/rss/fabula1.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description : 6727 car. </alerte>
+<alerte>description : 3025 car. </alerte>
+<alerte>description : 3028 car. </alerte>
+<alerte>description : 5116 car. </alerte>
+<alerte>description : 7609 car. </alerte>
+<alerte>description : 3029 car. </alerte>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Calam&#233;o</source>
+<adresse><![CDATA[http://fr.calameo.com/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Stars Actu</source>
+<adresse><![CDATA[http://feeds.feedburner.com/starsactu]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>L&#233;tizia Lederman</source>
+<adresse><![CDATA[http://letizialederman.canalblog.com/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>Oooooooooo</frequence>
+</flux>
+<flux>
+<source>Unesco</source>
+<adresse><![CDATA[http://whc.unesco.org/fr/actualites/rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>@OOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>L&#8217;Express : culture</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/568/f/9927/index.rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Connaissances des arts</source>
+<adresse><![CDATA[http://www.connaissancedesarts.com/rss/rss_une.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Vie femme</source>
+<adresse><![CDATA[http://www.viefemme.com/rss.php]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OOOOOooooo</frequence>
+</flux>
+<flux>
+<source>AuParfum</source>
+<adresse><![CDATA[http://www.auparfum.com/spip.php?page=backendsite]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#########@</frequence>
+</flux>
+<flux>
+<source>Achilleas et Maria</source>
+<adresse><![CDATA[http://clarape.canalblog.com/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#OOOOOOooo</frequence>
+</flux>
+<flux>
+<source>La cause litt&#233;raire</source>
+<adresse><![CDATA[http://www.lacauselitteraire.fr/rss/?format=feed]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>&#201;crivain public, zaz et plus</source>
+<adresse><![CDATA[http://zazecritoire.unblog.fr/feed]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Livres connections</source>
+<adresse><![CDATA[http://lebloglivres.nicematin.com/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>###@@@@@OO</frequence>
+</flux>
+<flux>
+<source>Anima Cappiata</source>
+<adresse><![CDATA[http://www.anima-cappiata.net/xml/syndication.rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description : 12090 car. </alerte>
+<alerte>description : 4412 car. </alerte>
+<alerte>description : 3873 car. </alerte>
+<alerte>description : 11651 car. </alerte>
+<alerte>description : 4694 car. </alerte>
+<alerte>description : 15143 car. </alerte>
+<alerte>description : 3714 car. </alerte>
+<frequence>########@@</frequence>
+</flux>
+<flux>
+<source>L&#8217;Atalante : actualit&#233;s</source>
+<adresse><![CDATA[http://www.l-atalante.com/rd-rss/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>L&#8217;Atalante : nouveau</source>
+<adresse><![CDATA[http://www.l-atalante.com/rd-rss/nouveau.html]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#######</frequence>
+</flux>
+<flux>
+<source>Le site des livres</source>
+<adresse><![CDATA[http://www.le-site-des-livres.com/feed/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>La Marelle</source>
+<adresse><![CDATA[http://www.combats-magazine.org/fr/?feed=rss2]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OOOO</frequence>
+</flux>
+<flux>
+<source>ActesSud</source>
+<adresse><![CDATA[http://www.actes-sud.fr/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>#####@OOOO</frequence>
+</flux>
+<flux>
+<source>ActeSud : vid&#233;o</source>
+<adresse><![CDATA[http://www.dailymotion.com/rss/user/ActesSud/1]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##################</frequence>
+</flux>
+<flux>
+<source>Voxpoesi</source>
+<adresse><![CDATA[http://voxpoesi.over-blog.fr/rss-articles.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>@@@@OOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>&#201;ditions Klincksieck</source>
+<adresse><![CDATA[http://feeds.giantchair.com/EditionsKlincksieck]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#@OOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Terres de femmes</source>
+<adresse><![CDATA[http://terresdefemmes.blogs.com/mon_weblog/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#############@@@@@@@</frequence>
+</flux>
+<flux>
+<source>L&#8217;or des livres</source>
+<adresse><![CDATA[http://l-or-des-livres-blog-de-critique-litteraire.over-blog.com/rss-articles.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##@@OOOOOO</frequence>
+</flux>
+<flux>
+<source>&#201;ditions Atalante</source>
+<adresse><![CDATA[http://www.l-atalante.fr/blog/?feed=rss2]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#OOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>&#201;ditions Gilletta</source>
+<adresse><![CDATA[http://www.editionsgilletta.com/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OO</frequence>
+</flux>
+<flux>
+<source>Quelques plumes</source>
+<adresse><![CDATA[http://www.quelquesplumes.info/?format=feed]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>@oo</frequence>
+</flux>
+<flux>
+<source>KalliBooks</source>
+<adresse><![CDATA[http://kallibooks.com/feed/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##@@@@@OOO</frequence>
+</flux>
+<flux>
+<source>Staragora</source>
+<adresse><![CDATA[http://feeds.feedburner.com/staragora/unes]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>adresse avec mention rel</alerte>
+<alerte>adresse avec mention rel</alerte>
+<alerte>adresse avec mention rel</alerte>
+<alerte>adresse avec mention rel</alerte>
+<alerte>adresse avec mention rel</alerte>
+<alerte>description : 3101 car. </alerte>
+<alerte>adresse avec mention rel</alerte>
+<alerte>adresse avec mention rel</alerte>
+<alerte>adresse avec mention rel</alerte>
+<alerte>adresse avec mention rel</alerte>
+<alerte>adresse avec mention rel</alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Nina people</source>
+<adresse><![CDATA[http://www.ninapeople.com/feed/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>########</frequence>
+</flux>
+<flux>
+<source>Garance Dor&#233;</source>
+<adresse><![CDATA[http://feeds.feedburner.com/GaranceDore]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Les Miss France</source>
+<adresse><![CDATA[http://les-missfrance.skyrock.com/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Miss France Marine Lorphelin</source>
+<adresse><![CDATA[http://marinelorphelin.skyrock.com/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##@OOOOOOOOOOOOOOOoo</frequence>
+</flux>
+<flux>
+<source>Miss France Diary</source>
+<adresse><![CDATA[http://missfrancediary.skyrock.com/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>@OOooooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>Jeu Miss France</source>
+<adresse><![CDATA[http://jeu-missfrance.skyrock.com/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Miss Prestige Nationale</source>
+<adresse><![CDATA[http://www.missprestigenational.fr/rss/blog]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#OOOOOOOOOOooooo</frequence>
+</flux>
+<flux>
+<source>PurePeople</source>
+<adresse><![CDATA[http://www.purepeople.com/rss/news_t0.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Plurielles</source>
+<adresse><![CDATA[http://www.plurielles.fr/xml/rss/0,,67-VU5WX0lEIDQwMg==,00.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Pipole</source>
+<adresse><![CDATA[http://www.pipole.net/feed/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Larue St&#233;phane</source>
+<adresse><![CDATA[http://www.stephanelarue.com/xml/syndication.rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#####</frequence>
+</flux>
+<flux>
+<source>BDzmag</source>
+<adresse><![CDATA[http://www.bdzmag.com/spip.php?page=backend]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>######OOOO</frequence>
+</flux>
+<flux>
+<source>Le blog BD de Nice-Matin</source>
+<adresse><![CDATA[http://leblogbd.nicematin.com/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####@</frequence>
+</flux>
+<flux>
+<source>Soleil Prod</source>
+<adresse><![CDATA[http://soleilprod.com/news/rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OOOOOoooooooooo</frequence>
+</flux>
+<flux>
+<source>Akileos</source>
+<adresse><![CDATA[http://akileos-editions.blogspot.com/feeds/posts/default?alt=rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>@OOOOOOOoooooooooooo</frequence>
+</flux>
+<flux>
+<source>Graphism</source>
+<adresse><![CDATA[http://graphism.fr/feed]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#####</frequence>
+</flux>
+<flux>
+<source>BoDo&#239;</source>
+<adresse><![CDATA[http://www.bodoi.info/feed]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Les Ma&#238;tre du vent</source>
+<adresse><![CDATA[http://maitres-du-vent.blogspot.com/feeds/posts/default?alt=rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Krinein</source>
+<adresse><![CDATA[http://www.krinein.com/critiques.rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Graphivore : critiques</source>
+<adresse><![CDATA[http://www.bd-best.com/rsscritiques.php]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>########@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>odisea2008</source>
+<adresse><![CDATA[http://feeds.feedburner.com/feedburner/gsJB]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description : 7958 car. </alerte>
+<frequence>###@@@OOOO</frequence>
+</flux>
+<flux>
+<source>CFSL INK Blog</source>
+<adresse><![CDATA[http://feeds.feedburner.com/cfsl-ink-blog-fr?format=xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Digibidi Nouveaut&#233;s</source>
+<adresse><![CDATA[http://feeds.feedburner.com/Digibidi-Nouveautes]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>ResMusica</source>
+<adresse><![CDATA[http://www.resmusica.com/feed/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>iMusic School</source>
+<adresse><![CDATA[http://gdata.youtube.com/feeds/base/users/imusicschoolofficiel/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#@OOOOOOOooooooooooo</frequence>
+</flux>
+<flux>
+<source>RFI musique : actu</source>
+<adresse><![CDATA[http://www.rfimusique.com/contenu/rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>RFI musique : chroniques album</source>
+<adresse><![CDATA[http://www.rfimusique.com/musique/chroniques-album/rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 15 items - 30 titres </erreur>
+<frequence>####@@@OOOOOOOO</frequence>
+</flux>
+<flux>
+<source>MusicMe</source>
+<adresse><![CDATA[http://www.musicme.com/_rss/nouveautes/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>LesInrocks</source>
+<adresse><![CDATA[http://www.lesinrocks.com/fileadmin/rss/actus.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Pixar Planet</source>
+<adresse><![CDATA[http://pixar-planet.fr/feed/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>######@@@@@@@@@OOO</frequence>
+</flux>
+<flux>
+<source>Comme au cin&#233;ma</source>
+<adresse><![CDATA[http://www.commeaucinema.com/rsspage.php?feed=cine]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>oOOoOoOoOoo@o</frequence>
+</flux>
+<flux>
+<source>AlloCin&#233; : actualit&#233;</source>
+<adresse><![CDATA[http://rss.allocine.fr/ac/actualites?format=xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>AlloCin&#233; : cette semaine</source>
+<adresse><![CDATA[http://rss.allocine.fr/ac/cine/cettesemaine?format=xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>ECPAD - Etablissement de Communication et de Production Audiovisuelle de la D&#233;fense</source>
+<adresse><![CDATA[http://www.ecpad.fr/feed]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Le Louvre</source>
+<adresse><![CDATA[http://www.louvre.fr/rss/louvre.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Science-Presse</source>
+<adresse><![CDATA[http://www.sciencepresse.qc.ca/articles/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description : 10693 car. </alerte>
+<alerte>description : 4654 car. </alerte>
+<alerte>description : 4997 car. </alerte>
+<alerte>description : 7177 car. </alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Science-Presse</source>
+<adresse><![CDATA[http://www.sciencepresse.qc.ca/articles/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description : 10693 car. </alerte>
+<alerte>description : 4661 car. </alerte>
+<alerte>description : 4997 car. </alerte>
+<alerte>description : 7177 car. </alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Carnet Web de G&#233;n&#233;alogie</source>
+<adresse><![CDATA[http://feeds.feedburner.com/CarnetWebDeGenealogie]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description : 3719 car. </alerte>
+<frequence>#OOOOOoooooooooooooo</frequence>
+</flux>
+<flux>
+<source>Bataille d&#8217;un jour</source>
+<adresse><![CDATA[http://batailledunjour.blogspot.com/feeds/posts/default?alt=rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>oooooooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>Histoire pour tous : actualit&#233;</source>
+<adresse><![CDATA[http://www.histoire-pour-tous.fr/actu.feed?type=rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur_fatale>adresse inaccessible</erreur_fatale>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<erreur_fatale>page vide</erreur_fatale>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Histoire pour tous : programme t&#233;l&#233;</source>
+<adresse><![CDATA[http://www.histoire-pour-tous.fr/programme-tele/modlatest.rss/rss/0.feed]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur_fatale>adresse inaccessible</erreur_fatale>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<erreur_fatale>page vide</erreur_fatale>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Histoire pour tous : articles</source>
+<adresse><![CDATA[http://www.histoire-pour-tous.fr/index.php?format=feed&type=rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur_fatale>adresse inaccessible</erreur_fatale>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<erreur_fatale>page vide</erreur_fatale>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Inrap : l&#8217;actualit&#233; de l&#8217;arch&#233;ologie pr&#233;ventive</source>
+<adresse><![CDATA[http://journees-archeologie.inrap.fr/tools/generateXML.php?modele=rss_news.xml&output=stdout]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Evene : actualit&#233; culturelle</source>
+<adresse><![CDATA[http://www.evene.fr/rss/a_la_une.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description : 3858 car. </alerte>
+<erreur>adre vide</erreur>
+<alerte>description : 3397 car. </alerte>
+<erreur>adre vide</erreur>
+<alerte>description : 6381 car. </alerte>
+<erreur>adre vide</erreur>
+<alerte>description : 4407 car. </alerte>
+<erreur>adre vide</erreur>
+<erreur>adre vide</erreur>
+<erreur>adre vide</erreur>
+<alerte>description : 3548 car. </alerte>
+<erreur>adre vide</erreur>
+<erreur>adre vide</erreur>
+<alerte>description : 4449 car. </alerte>
+<erreur>adre vide</erreur>
+<frequence>#########@@@@@@@@@OO</frequence>
+</flux>
+<flux>
+<source>Evene : livres du jour</source>
+<adresse><![CDATA[http://www.evene.fr/rss/livres_jour.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>@O#OO#OOO#OOO##@O@OO</frequence>
+</flux>
+<flux>
+<source>Evene : cin&#233;ma du jour</source>
+<adresse><![CDATA[http://www.evene.fr/rss/cinema_jour.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOoOooOOOOOO</frequence>
+</flux>
+<flux>
+<source>Evene : musique du jour</source>
+<adresse><![CDATA[http://www.evene.fr/rss/musique_jour.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#@OOOOOOOOoooooooooo</frequence>
+</flux>
+<flux>
+<source>Evene : th&#233;&#226;tre du jour</source>
+<adresse><![CDATA[http://www.evene.fr/rss/theatre_jour.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OOO####O###OO##O@@@O</frequence>
+</flux>
+<flux>
+<source>Evene : lieux culturels du jour</source>
+<adresse><![CDATA[http://www.evene.fr/rss/lieux_jour.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##@@@@@@@OOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Evene : chroniques du jour</source>
+<adresse><![CDATA[http://www.evene.fr/rss/chroniques_jour.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur>adre vide</erreur>
+<frequence>#Ooooooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>Evene : c&#233;l&#233;brit&#233;s du jour</source>
+<adresse><![CDATA[http://www.evene.fr/rss/celebre_actu.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description : 3858 car. </alerte>
+<erreur>adre vide</erreur>
+<alerte>description : 3397 car. </alerte>
+<erreur>adre vide</erreur>
+<alerte>description : 6381 car. </alerte>
+<erreur>adre vide</erreur>
+<alerte>description : 4407 car. </alerte>
+<erreur>adre vide</erreur>
+<erreur>adre vide</erreur>
+<erreur>adre vide</erreur>
+<alerte>description : 3548 car. </alerte>
+<erreur>adre vide</erreur>
+<erreur>adre vide</erreur>
+<alerte>description : 4449 car. </alerte>
+<erreur>adre vide</erreur>
+<frequence>#########@@@@@@@@@OO</frequence>
+</flux>
+<flux>
+<source>TouteLaT&#233;l&#233;</source>
+<adresse><![CDATA[http://www.toutelatele.com/flux-general-tltv.php3]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Mytivi</source>
+<adresse><![CDATA[http://feeds.feedburner.com/Mytivi]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>T&#233;l&#233; Loisirs</source>
+<adresse><![CDATA[http://static.programme-tv.net/rss/news.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>zoom-Cin&#233;ma</source>
+<adresse><![CDATA[http://rss.feedsportal.com/feed/zoomcinema/news]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOoooooooooooooo</frequence>
+</flux>
+<flux>
+<source>Premi&#232;re : toute l&#8217;actualit&#233;</source>
+<adresse><![CDATA[http://www.premiere.fr/var/premiere/storage/rss/live_actu.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#########</frequence>
+</flux>
+<flux>
+<source>Imineo &#201;checs</source>
+<adresse><![CDATA[http://gdata.youtube.com/feeds/base/users/imineoEchecs/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#OOOOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Pokemon chess</source>
+<adresse><![CDATA[http://pokemonchess.blogspot.com/feeds/posts/default?alt=rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOoooooooooooo</frequence>
+</flux>
+<flux>
+<source>l&#8217;&#201;chiquier du Roy Ren&#233;</source>
+<adresse><![CDATA[http://feeds.feedburner.com/LeBlogDeLechiquierDuRoyRen]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description : 10924 car. </alerte>
+<alerte>description : 7352 car. </alerte>
+<frequence>######@@OOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Europe &#233;checs</source>
+<adresse><![CDATA[http://www.europe-echecs.com/rss/rss_97.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>######@@OOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Europe &#233;checs</source>
+<adresse><![CDATA[http://www.europe-echecs.com/rss/rss_194.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#######@@@@@@OOOOOOO</frequence>
+</flux>
+<flux>
+<source>Chess and Strategy</source>
+<adresse><![CDATA[http://www.chess-and-strategy.com/feeds/posts/default?alt=rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description : 3330 car. </alerte>
+<alerte>description : 3053 car. </alerte>
+<alerte>description : 3702 car. </alerte>
+<alerte>description : 3604 car. </alerte>
+<alerte>description : 4041 car. </alerte>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Chessplayer</source>
+<adresse><![CDATA[http://lejeuechecs-unepassion.blogspot.com/feeds/posts/default?alt=rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description : 5260 car. </alerte>
+<alerte>description : 9473 car. </alerte>
+<frequence>####@@@@@OOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>ChessCake</source>
+<adresse><![CDATA[http://chesscake.over-blog.com/rss-articles.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>oooooooooo</frequence>
+</flux>
+<flux>
+<source>L&#8217;&#201;chiquier Grenoblois</source>
+<adresse><![CDATA[http://echiquiergrenoblois.blogspot.com/feeds/posts/default?alt=rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####@@@@@OOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Chronique d&#8217;un joueur d&#8217;&#233;checs</source>
+<adresse><![CDATA[http://echecsetfab2.canalblog.com/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>@OOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>&#201;checs info</source>
+<adresse><![CDATA[http://www.echecsinfos.com/feeds/posts/default?alt=rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOOOOOOOOOOoo</frequence>
+</flux>
+<flux>
+<source>Les &#8212;&#233;checs &#224; Cuers</source>
+<adresse><![CDATA[http://les-echecs-a-cuers.over-blog.com/rss-articles.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Paris jeunes echecs</source>
+<adresse><![CDATA[http://www.parisjeunesechecs.com/feeds/posts/default?alt=rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOooooooooooo</frequence>
+</flux>
+<flux>
+<source>&#201;chiquier Marseillais 1872</source>
+<adresse><![CDATA[http://club.quomodo.com/em1872/filinfo.rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####Oooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>Chess XV</source>
+<adresse><![CDATA[http://www.chessxv.fr/feeds/posts/default?alt=rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####OOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Ligue Midi-Pyr&#233;n&#233;es</source>
+<adresse><![CDATA[http://www.lmpe.org/spip.php?page=backend]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>###@@@@OOO</frequence>
+</flux>
+<flux>
+<source>Echec club de Corbas</source>
+<adresse><![CDATA[http://www.echecsclubcorbas.fr/index.php?format=feed&type=rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####@</frequence>
+</flux>
+<flux>
+<source>Club de Sautron</source>
+<adresse><![CDATA[http://www.sautronechecs.fr/index.php?format=feed&type=rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur_fatale>adresse inaccessible</erreur_fatale>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<erreur_fatale>page vide</erreur_fatale>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Puteaux &#201;checs</source>
+<adresse><![CDATA[http://www.puteaux-echecs.fr/?feed=rss2]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>@OOOOOOOOOOooooooooo</frequence>
+</flux>
+<flux>
+<source>Comit&#233; Rh&#244;ne &#201;checs</source>
+<adresse><![CDATA[http://www.comite-rhone-echecs.com/feed/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#@@@@@@OOO</frequence>
+</flux>
+<flux>
+<source>Club de Cr&#233;on</source>
+<adresse><![CDATA[http://creonechecs.free.fr/index.php?format=feed&type=rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>@o@oOoooo</frequence>
+</flux>
+<flux>
+<source>&#201;chec de Bretagne</source>
+<adresse><![CDATA[http://www.echecs-bretagne.fr/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#####@OOOO</frequence>
+</flux>
+<flux>
+<source>Club L.Lagrange-Colomiers</source>
+<adresse><![CDATA[http://colomiers.chess.free.fr/spip.php?page=backend]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#####@OOOoo##ooo</frequence>
+</flux>
+<flux>
+<source>Comit&#233; Varois</source>
+<adresse><![CDATA[http://www.cve.asso.fr/spip.php?page=backend]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>###OOooooo</frequence>
+</flux>
+<flux>
+<source>Val d&#8217;Oisien</source>
+<adresse><![CDATA[http://www.echecs95.com/spip.php?page=backend]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>@OOOOOOooo</frequence>
+</flux>
+<flux>
+<source>Club de Montpellier</source>
+<adresse><![CDATA[http://ladiagonaledusud.free.fr/fresh/index.php?format=feed&type=rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##o#OOOOOO</frequence>
+</flux>
+<flux>
+<source>Club de Chambery</source>
+<adresse><![CDATA[http://chambechecs.e-monsite.com/pages/do/rss.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>###ooooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>Les Cavaliers du Val d&#8217;Allier</source>
+<adresse><![CDATA[http://cavaliersduvaldallier.wordpress.com/feed/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#OOOoooooo</frequence>
+</flux>
+<flux>
+<source>PhotoBlogue</source>
+<adresse><![CDATA[http://lepidi-photo.blogspot.com/feeds/posts/default?alt=rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur>titre vide</erreur>
+<erreur>titre vide</erreur>
+<alerte>description : 3827 car. </alerte>
+<erreur>titre vide</erreur>
+<erreur>titre vide</erreur>
+<frequence>#################@@@</frequence>
+</flux>
+<flux>
+<source>Jus de Fraise</source>
+<adresse><![CDATA[http://jusdefraise.com/blog/?feed=rss2]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OOOooooo</frequence>
+</flux>
+<flux>
+<source>Awalayalim</source>
+<adresse><![CDATA[http://awalayalim.wordpress.com/feed/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Vu pour vous</source>
+<adresse><![CDATA[http://www.vupourvous.fr/xml/syndication.rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>@</frequence>
+</flux>
+<flux>
+<source>Revue Photo</source>
+<adresse><![CDATA[http://feedpress.me/revuephoto]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>######@OOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Jean-Philippe Poli Photographies</source>
+<adresse><![CDATA[http://jeanphilippepoli.com/feed/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOOOOOOooooo</frequence>
+</flux>
+<flux>
+<source>French Landscapes - Nature and landscape photography</source>
+<adresse><![CDATA[http://french-landscapes.blogspot.com/feeds/posts/default?alt=rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>############@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>Fr&#233;quence Sud : Marseille</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/569/f/7327/index.rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>###########@@@@@@OOO</frequence>
+</flux>
+<flux>
+<source>Fr&#233;quence Sud : Var</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/569/f/7326/index.rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#########@@@@@@@@OOO</frequence>
+</flux>
+<flux>
+<source>Fr&#233;quence Sud : Provence</source>
+<adresse><![CDATA[http://www.frequence-sud.fr/rss/flux.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>InfoConcert</source>
+<adresse><![CDATA[http://www.infoconcert.com/rss/news.xml]]></adresse>
+<categorie>agenda</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Concerts.fr</source>
+<adresse><![CDATA[http://www.concerts.fr/Rss-Les-Concerts]]></adresse>
+<categorie>agenda</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Tribune : loisirs</source>
+<adresse><![CDATA[http://www.latribune.fr/rss/rubriques/loisirs.html]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##@OOOOOOO</frequence>
+</flux>
+<flux>
+<source>Terrafemina</source>
+<adresse><![CDATA[http://feeds2.terrafemina.com/TerrafeminaNews]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Centre de liaison de l&#8217;enseignement et des m&#233;dias d&#8217;information</source>
+<adresse><![CDATA[http://www.clemi.org/fr/flux-rss/bdd/flux/1/format/RSS2.0]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#@OOOOOOOOOOOOoooooo</frequence>
+</flux>
+<flux>
+<source>&#201;cole sup&#233;rieure de l&#8217;&#201;ducation nationale</source>
+<adresse><![CDATA[http://www.esen.education.fr/fr/les-outils/fils-rss/rss/?acType=1]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Educasources</source>
+<adresse><![CDATA[http://www.educasources.education.fr/rss-dernieres-selections.html]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##O#####Oo</frequence>
+</flux>
+<flux>
+<source>Vie publique</source>
+<adresse><![CDATA[http://www.vie-publique.fr/spip.php?page=rss-thematique&theme=Enseignement]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#@@@OOOOOOOooooooooo</frequence>
+</flux>
+<flux>
+<source>La documentation fran&#231;aise</source>
+<adresse><![CDATA[http://www.ladocumentationfrancaise.fr/catalogue/rss/nouveautes.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>####OOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Minist&#224;re des sports : jeunes</source>
+<adresse><![CDATA[http://www.jeunes.gouv.fr/spip.php?page=backend&id_rubrique=1016]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####@@@OOOOOOOOooooo</frequence>
+</flux>
+<flux>
+<source>&#201;ducation nationale : notes d&#8217;formation</source>
+<adresse><![CDATA[http://www.education.gouv.fr/rid20/les-notes-d-information.rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>###OOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>&#201;ducation nationale : Bulletin Officiel</source>
+<adresse><![CDATA[http://www.education.gouv.fr/rss/rss_bulletin_officiel.php]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<alerte>description : 4204 car. </alerte>
+<alerte>description : 4552 car. </alerte>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>&#201;ducation nationale : &#233;ducation et recherche</source>
+<adresse><![CDATA[http://www.gouvernement.fr/gouvernement/categorie/7/rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####@@OOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>&#201;ducation nationale : vid&#233;o</source>
+<adresse><![CDATA[http://www.dailymotion.com/rss/user/EducationFrance/1]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>########@@@@OOOOOO</frequence>
+</flux>
+<flux>
+<source>&#201;ducation nationale : personnel enseignant</source>
+<adresse><![CDATA[http://www.education.gouv.fr/srid3c59dc048e8850243be8079a5c74d079/personnels-enseignants-concours-emplois-carrieres.rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>&#201;ducation nationale : statistiques</source>
+<adresse><![CDATA[http://www.education.gouv.fr/rid2021/statistiques.rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 30 items - 31 titres </erreur>
+<frequence>#####OOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>&#201;ducation nationale : personnels d&#8217;encadrement</source>
+<adresse><![CDATA[http://www.education.gouv.fr/rss/?pid=50&sid=2&lid=1]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>oooooooooooooo</frequence>
+</flux>
+<flux>
+<source>&#201;ducation nationale : rapport</source>
+<adresse><![CDATA[http://www.education.gouv.fr/rid15/les-rapports.rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOoooooooooooooo</frequence>
+</flux>
+<flux>
+<source>&#201;ducation nationale : &#233;cole num&#233;rique</source>
+<adresse><![CDATA[http://www.education.gouv.fr/rid2521/-ecole-numerique-.rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 9 items - 18 titres </erreur>
+<frequence>OOooooooo</frequence>
+</flux>
+<flux>
+<source>&#201;ducation nationale : rythmes scolaires</source>
+<adresse><![CDATA[http://www.education.gouv.fr/rid2423/-rythmes-scolaires-.rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 30 items - 60 titres </erreur>
+<frequence>#OOOOOOOOOOOoooooooo</frequence>
+</flux>
+<flux>
+<source>Canal U</source>
+<adresse><![CDATA[http://www.canal-u.tv/flux-rss-ballado/filter_rss.audio_video/format.rss?xts=248546&xtor=RSS-1]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>EMI CFD - &#233;cole des m&#233;tiers de l&#8217;information Paris</source>
+<adresse><![CDATA[http://emi-cfd.com/spip.php?page=backend]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Calenda</source>
+<adresse><![CDATA[http://calenda.org/feed.php]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>&#201;duscol : actualit&#233;s du num&#233;rique</source>
+<adresse><![CDATA[http://eduscol.education.fr/rid1121/actualites-du-numerique.rss]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 30 items - 53 titres </erreur>
+<frequence>#OOOOOOOoooooooooooo</frequence>
+</flux>
+<flux>
+<source>&#201;duscol : veille &#233;ducation num&#233;rique</source>
+<adresse><![CDATA[http://eduscol.education.fr/numerique/actualites/veille-education-numerique/fil/RSS]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>###OOO</frequence>
+</flux>
+<flux>
+<source>&#201;duscol : dossiers et textes</source>
+<adresse><![CDATA[http://eduscol.education.fr/numerique/dossiers-et-textes/RSS]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur_fatale>adresse inaccessible</erreur_fatale>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<erreur_fatale>page vide</erreur_fatale>
+<frequence></frequence>
+</flux>
+<flux>
+<source>&#201;duscol : d&#233;p&#234;ches de l&#8217;AEF</source>
+<adresse><![CDATA[http://eduscol.education.fr/depeches-de-laef/aef/RSS]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur_fatale>adresse inaccessible</erreur_fatale>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<erreur_fatale>page vide</erreur_fatale>
+<frequence></frequence>
+</flux>
+<flux>
+<source>&#201;duscol : derni&#232;res Lettres TIC&#8217;&#201;du</source>
+<adresse><![CDATA[http://eduscol.education.fr/numerique/disciplines/ticedu/fil/RSS]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur_fatale>adresse inaccessible</erreur_fatale>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<erreur_fatale>page vide</erreur_fatale>
+<frequence></frequence>
+</flux>
+<flux>
+<source>&#201;duscol : toutes publications</source>
+<adresse><![CDATA[http://eduscol.education.fr/numerique/disciplines/publications-disciplines/RSS]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur_fatale>adresse inaccessible</erreur_fatale>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<erreur_fatale>page vide</erreur_fatale>
+<frequence></frequence>
+</flux>
+<flux>
+<source>&#201;duscol</source>
+<adresse><![CDATA[http://eduscol.education.fr/rid271/toute-l-actualite-du-site.rss?]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 30 items - 58 titres </erreur>
+<frequence>##############@@@@@@</frequence>
+</flux>
+<flux>
+<source>CNDP</source>
+<adresse><![CDATA[http://www.cndp.fr/index.php?id=2&type=100]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>#####OOOOO</frequence>
+</flux>
+<flux>
+<source>Le Web P&#233;dagogique</source>
+<adresse><![CDATA[http://lewebpedagogique.com/feed/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#########@OO</frequence>
+</flux>
+<flux>
+<source>L&#8217;&#201;tudiant</source>
+<adresse><![CDATA[http://www.letudiant.fr/rss/rss.jspz]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 20 item - 18 description </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>CNRS</source>
+<adresse><![CDATA[http://www.cnrs.fr/fr/une/actus/alaune.xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>######@@@OOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>CNRS : physique nucl&#233;aire et corp.</source>
+<adresse><![CDATA[http://www2.cnrs.fr/rss.php?id=1]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##@OOOOOOOOOoooooooo</frequence>
+</flux>
+<flux>
+<source>CNRS : physiques et math&#233;matiques</source>
+<adresse><![CDATA[http://www2.cnrs.fr/rss.php?id=2]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#OOOOOOOOOOOoooooooo</frequence>
+</flux>
+<flux>
+<source>CNRS : environnement et d&#233;veloppement durable</source>
+<adresse><![CDATA[http://www2.cnrs.fr/rss.php?id=3]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>###@@OOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>CNRS : ing&#233;nierie</source>
+<adresse><![CDATA[http://www2.cnrs.fr/rss.php?id=4]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#OOOOOOOOOOOoooooooo</frequence>
+</flux>
+<flux>
+<source>CNRS : sciences chimiques</source>
+<adresse><![CDATA[http://www2.cnrs.fr/rss.php?id=5]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOOOOOOOOoooo</frequence>
+</flux>
+<flux>
+<source>CNRS : plan&#232;te et univers</source>
+<adresse><![CDATA[http://www2.cnrs.fr/rss.php?id=6]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#@@OOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>CNRS : sciences du vivant</source>
+<adresse><![CDATA[http://www2.cnrs.fr/rss.php?id=7]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>########@OOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>CNRS : sciences humaines et sociales</source>
+<adresse><![CDATA[http://www2.cnrs.fr/rss.php?id=8]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#@OOOOOOOOOooooooooo</frequence>
+</flux>
+<flux>
+<source>CNRS : institutionnel</source>
+<adresse><![CDATA[http://www2.cnrs.fr/rss.php?id=9]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>#OOOOOOOOOOOOOOOoooo</frequence>
+</flux>
+<flux>
+<source>CNRS : valorisation</source>
+<adresse><![CDATA[http://www2.cnrs.fr/rss.php?id=10]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>OOOooooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>CNRS : international</source>
+<adresse><![CDATA[http://www2.cnrs.fr/rss.php?id=11]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>Oooooooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>CNRS : communiqu&#233;s de presse</source>
+<adresse><![CDATA[http://www2.cnrs.fr/rss.php?id=all]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>############@@@@@@OO</frequence>
+</flux>
+<flux>
+<source>La Cri&#233;e : p&#233;riodiques en ligne</source>
+<adresse><![CDATA[http://periodiques.wordpress.com/feed/]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : autre pluzz vid&#233;o</source>
+<adresse><![CDATA[http://feeds.feedburner.com/Pluzz-Autre?format=xml]]></adresse>
+<categorie>culture</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 2 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>date absente</erreur>
+<erreur>d&#233;calage : 0 item - 1 description </erreur>
+<frequence></frequence>
+</flux>
+</base>

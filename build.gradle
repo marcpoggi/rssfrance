@@ -1,0 +1,44 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "21.1.2"
+    defaultConfig {
+        applicationId "com.feeltest.rssfrance"
+        minSdkVersion 15
+        targetSdkVersion 22
+        versionCode 3
+        versionName "1.0.2"
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    packagingOptions {
+       exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/license.txt'
+        exclude 'META-INF/notice.txt'
+        exclude 'META-INF/ASL2.0'
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.squareup.picasso:picasso:2.3.+'
+    compile('org.simpleframework:simple-xml:2.7+') {
+         exclude module: 'stax'
+                   exclude module: 'stax-api'
+                  exclude module: 'xpp3'
+    }
+    compile 'org.springframework.android:spring-android-rest-template:2.0.0.M1'
+    compile 'com.google.code.android-rome-feed-reader:android-rome-feed-reader:1.0.0-r2'
+    compile 'com.android.support:support-v4:22.2.1'
+    compile 'com.android.support:support-v13:22.+'
+    compile 'com.google.code.gson:gson:2.2.4'
+}

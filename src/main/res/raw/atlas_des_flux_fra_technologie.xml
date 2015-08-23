@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Atlas des flux RSS/ATOM par Sayn&#232;te http://www.saynete.net -->
+<?xml-stylesheet href="genere_annuaire_xml.xsl" type="text/xsl"?>
+<base>
+<flux>
+<source>Blog TICE de l&#8217;Acad&#233;mie de Corse</source>
+<adresse><![CDATA[http://blog.tice-corse.fr/?feed=rss2]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####OOOOOO</frequence>
+</flux>
+<flux>
+<source>LeParisien : automobile</source>
+<adresse><![CDATA[http://www.leparisien.fr/automobile/rss.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>###############@@@@@</frequence>
+</flux>
+<flux>
+<source>LeParisien : technologie</source>
+<adresse><![CDATA[http://www.leparisien.fr/high-tech/rss.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>############@#######</frequence>
+</flux>
+<flux>
+<source>Le Figaro : sciences et environnement</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_sciences.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>#############@@@@@@@</frequence>
+</flux>
+<flux>
+<source>Le Figaro : tech et web</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_hightech.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<erreur_fatale>page vide</erreur_fatale>
+<frequence></frequence>
+</flux>
+<flux>
+<source>BFM : Atelier Num&#233;rique</source>
+<adresse><![CDATA[http://www.1001podcast.com/podcast/BFM/channel9/BFMchannel9.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>####OOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Le NouvelObs : sciences</source>
+<adresse><![CDATA[http://tempsreel.nouvelobs.com/file/rss_perm/rss_permanent_sciences.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le NouvelObs : le plus politique</source>
+<adresse><![CDATA[http://leplus.nouvelobs.com/tag/politique/rss.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France3 : programme jeunesse</source>
+<adresse><![CDATA[http://feeds.feedburner.com/France3-ProgrammesJeunesse?format=xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>oooo</frequence>
+</flux>
+<flux>
+<source>LCI : multim&#233;dia</source>
+<adresse><![CDATA[http://www.tf1.fr/xml/rss/0,,4,00.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LCI : sciences</source>
+<adresse><![CDATA[http://www.tf1.fr/xml/rss/0,,5,00.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Euronews : technologie</source>
+<adresse><![CDATA[http://feeds.feedburner.com/euronews/fr/sci-tech/]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>#########@@@</frequence>
+</flux>
+<flux>
+<source>TV5 : technologie</source>
+<adresse><![CDATA[http://www.tv5.org/TV5Site/rss/actualites.php?rub=12]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>TV5 : m&#233;dias</source>
+<adresse><![CDATA[http://www.tv5.org/TV5Site/rss/actualites.php?rub=13]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>TV5 : gens</source>
+<adresse><![CDATA[http://www.tv5.org/TV5Site/rss/actualites.php?rub=16]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>TV5 : animation</source>
+<adresse><![CDATA[http://www.tv5.org/TV5Site/rss/actualites.php?rub=18]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Radio France : pixel</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_12580.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOOOOOOOOOOoo</frequence>
+</flux>
+<flux>
+<source>La Tribune : techno medias</source>
+<adresse><![CDATA[http://www.latribune.fr/rss/rubriques/techno-medias.html]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Budgets relations presse</source>
+<adresse><![CDATA[http://www.planete-rp.com/budgets-relations-presse/rss.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<erreur_fatale>adresse inaccessible</erreur_fatale>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<erreur_fatale>page vide</erreur_fatale>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Euratechnologies</source>
+<adresse><![CDATA[http://www.euratechnologies.com/rss.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>#######@OO</frequence>
+</flux>
+<flux>
+<source>Infostrat&#232;ges</source>
+<adresse><![CDATA[http://www.les-infostrateges.com/rss/cat/?num=1&t=e]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<alerte>description : 3339 car. </alerte>
+<alerte>description : 5024 car. </alerte>
+<alerte>description : 8805 car. </alerte>
+<frequence>#########@</frequence>
+</flux>
+<flux>
+<source>Webmarketing et com</source>
+<adresse><![CDATA[http://feeds2.feedburner.com/BlogDunWebmarketer]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>PowerPress</source>
+<adresse><![CDATA[http://www.powerpress.fr/feed/?post_type=ad_listing]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>Mediaterra</source>
+<adresse><![CDATA[http://www.mediaterra.fr/rss.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>Oooooooooo</frequence>
+</flux>
+<flux>
+<source>Les num&#233;riques</source>
+<adresse><![CDATA[http://feeds.feedburner.com/lesnumeriques/news]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>InternetActu</source>
+<adresse><![CDATA[http://internetactu.blog.lemonde.fr/feed/]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####@@@OOO</frequence>
+</flux>
+<flux>
+<source>niKo piK</source>
+<adresse><![CDATA[http://www.nikopik.com/feed]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>##@@</frequence>
+</flux>
+<flux>
+<source>Fred Cavazza : blog</source>
+<adresse><![CDATA[http://www.fredcavazza.net/feed/]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>#@OOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Fred Cavazza : m&#233;dias sociaux</source>
+<adresse><![CDATA[http://www.mediassociaux.fr/feed/]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>#@OOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Fred Cavazza : simpleweb</source>
+<adresse><![CDATA[http://www.simpleweb.fr/feed/]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOoooo</frequence>
+</flux>
+<flux>
+<source>Fred Cavazza : rich commerce</source>
+<adresse><![CDATA[http://www.richcommerce.fr/feed/]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>OOOOOooooo</frequence>
+</flux>
+<flux>
+<source>Fred Cavazza : interfaces riches</source>
+<adresse><![CDATA[http://www.interfacesriches.fr/feed/]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>#OOOOOoooo</frequence>
+</flux>
+<flux>
+<source>Fred Cavazza : terminaux alternatifs</source>
+<adresse><![CDATA[http://www.terminauxalternatifs.fr/feed/]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>##@OOOOOOO</frequence>
+</flux>
+<flux>
+<source>Fred Cavazza : marketing virtuel</source>
+<adresse><![CDATA[http://www.marketingvirtuel.fr/feed/]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>#OOOOOoooo</frequence>
+</flux>
+<flux>
+<source>Fred Cavazza : entreprise</source>
+<adresse><![CDATA[http://www.entreprise20.fr/feed/]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>#OOOOooooo</frequence>
+</flux>
+<flux>
+<source>AccessOWeb</source>
+<adresse><![CDATA[http://feeds.feedburner.com/accessoweb/XGSC]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>###@@OOOOO</frequence>
+</flux>
+<flux>
+<source>Web astuce : logiciels</source>
+<adresse><![CDATA[http://feeds2.feedburner.com/PcAstucesMajLogiciels]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 30 item - 29 description </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Web astuce : logiciels du jour</source>
+<adresse><![CDATA[http://feeds2.feedburner.com/PcAstucesLogicielDuJour]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Web astuce : astuces</source>
+<adresse><![CDATA[http://feeds2.feedburner.com/PcAstucesAstuces]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>#############@@@@@@@</frequence>
+</flux>
+<flux>
+<source>Web astuce: articles</source>
+<adresse><![CDATA[http://feeds2.feedburner.com/PcAstucesLesDerniersArticles]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<alerte>titre : 572 car. </alerte>
+<frequence>#############@@</frequence>
+</flux>
+<flux>
+<source>Web astuce : derniers sujets</source>
+<adresse><![CDATA[http://feeds2.feedburner.com/ForumPcAstuces-LesDerniersSujetsPublies]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Web astuce : fond</source>
+<adresse><![CDATA[http://feeds2.feedburner.com/PcAstucesFondsDecran]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Web astuce : jeux</source>
+<adresse><![CDATA[http://flash.pcastuces.com/jeux.rss]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>BlueNove</source>
+<adresse><![CDATA[http://www.bluenove.com/feed/]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOO</frequence>
+</flux>
+<flux>
+<source>TechCrunch</source>
+<adresse><![CDATA[http://feeds.feedburner.com/francaistechcrunch]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>GoodBarber</source>
+<adresse><![CDATA[http://blog.goodbarber.com/xml/syndication.rss]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<alerte>description : 3743 car. </alerte>
+<alerte>description : 3942 car. </alerte>
+<frequence>#####@@@@@@OOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Ton Web Marketing</source>
+<adresse><![CDATA[http://www.tonwebmarketing.fr/feed]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Legalis</source>
+<adresse><![CDATA[http://www.legalis.net/spip.php?page=backend]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>########@@</frequence>
+</flux>
+<flux>
+<source>Droit informatique - Ma&#238;tre Val&#233;rie Sedallian</source>
+<adresse><![CDATA[http://www.internet-juridique.com/blog/feed/]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>Oooooooooo</frequence>
+</flux>
+<flux>
+<source>AT Internet</source>
+<adresse><![CDATA[http://www.atinternet.fr/feed/]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOO</frequence>
+</flux>
+<flux>
+<source>TechTogs</source>
+<adresse><![CDATA[http://www.techtogs.fr/xml/syndication.rss]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>DataGouv</source>
+<adresse><![CDATA[http://qa.data.gouv.fr/api/1/datasets?format=atom&target=front]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Les outils TICE</source>
+<adresse><![CDATA[http://outilstice.com/feed/]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>###@@@OO</frequence>
+</flux>
+<flux>
+<source>Les outils de la veille</source>
+<adresse><![CDATA[http://outilsveille.com/feed/]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>##@@@OOOOO</frequence>
+</flux>
+<flux>
+<source>YA Graphic</source>
+<adresse><![CDATA[http://www.ya-graphic.com/feed/]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>#####</frequence>
+</flux>
+<flux>
+<source>WebRankInfo : dossiers r&#233;f&#233;rencements</source>
+<adresse><![CDATA[http://www.webrankinfo.com/dossiers/feed]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>#############@@@@@@@</frequence>
+</flux>
+<flux>
+<source>SEO r&#233;f&#233;rencements</source>
+<adresse><![CDATA[http://www.referencement-seo.com/spip.php?page=backend]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Secrets2moteurs</source>
+<adresse><![CDATA[http://www.secrets2moteurs.com/feed]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>Abondance</source>
+<adresse><![CDATA[http://www.abondance.com/actualites/feed/]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>################</frequence>
+</flux>
+<flux>
+<source>WebRankInfo : annuaire</source>
+<adresse><![CDATA[http://www.webrankinfo.com/annuaire/rss.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Infositeweb</source>
+<adresse><![CDATA[http://www.infositeweb.fr/flux-rss1.aspx]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Waaaouh</source>
+<adresse><![CDATA[http://www.waaaouh.com/annuaire/rss-nouveautes.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>BoosterSite</source>
+<adresse><![CDATA[http://www.boostersite.com/date.rss]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Avis Site</source>
+<adresse><![CDATA[http://www.avis-site.com/feedrss.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Pack informatique Calvi</source>
+<adresse><![CDATA[http://www.packs-informatique.fr/blog?format=feed&type=rss]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>OOOOOO</frequence>
+</flux>
+<flux>
+<source>Frenchweb</source>
+<adresse><![CDATA[http://frenchweb.fr/feed]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Capitale High-Tech</source>
+<adresse><![CDATA[http://emploi.developpez.com/index/rss]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>##@OOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Capitale High-Tech</source>
+<adresse><![CDATA[http://blog.france3.fr/capitale-hightech/feed]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####@@OOOO</frequence>
+</flux>
+<flux>
+<source>Reflets</source>
+<adresse><![CDATA[http://reflets.info/feed/]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<erreur_fatale>adresse inaccessible</erreur_fatale>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<erreur_fatale>page vide</erreur_fatale>
+<frequence></frequence>
+</flux>
+<flux>
+<source>BugBrother</source>
+<adresse><![CDATA[http://bugbrother.blog.lemonde.fr/feed/]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>@OOOoooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>La quadrature du net</source>
+<adresse><![CDATA[http://www.laquadrature.net/fr/rss.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<alerte>description : 6696 car. </alerte>
+<alerte>description : 3416 car. </alerte>
+<alerte>description : 10003 car. </alerte>
+<alerte>description : 3416 car. </alerte>
+<frequence>#######OOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Data Gouv</source>
+<adresse><![CDATA[http://www.data.gouv.fr/flux_rss/nouvelles_donnees]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>FreeNews</source>
+<adresse><![CDATA[http://www.freenews.fr/spip.php?page=backend]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>PC INpact</source>
+<adresse><![CDATA[http://www.pcinpact.com/rss/news.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>01net</source>
+<adresse><![CDATA[http://feediz.01net.com/synd/2203.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 24 items - 25 titres </erreur>
+<erreur>d&#233;calage : 24 item - 25 description </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>InternetActu</source>
+<adresse><![CDATA[http://feeds.feedburner.com/internetactu/bcmJ]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>#########OOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>WMaker</source>
+<adresse><![CDATA[http://blog.wmaker.net/xml/syndication.rss]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>#@OOOooooo</frequence>
+</flux>
+<flux>
+<source>Le journal du net</source>
+<adresse><![CDATA[http://www.journaldunet.com/rss/magazine/]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>VNUNet</source>
+<adresse><![CDATA[http://feeds.feedburner.com/vnunet/fr/VNUnetNews]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>JeuxActuTV</source>
+<adresse><![CDATA[http://gdata.youtube.com/feeds/base/users/JeuxActuTV/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>GamAlive</source>
+<adresse><![CDATA[http://www.gamalive.com/rss.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>RadioActu - Toute l&#8217;actu de la radio</source>
+<adresse><![CDATA[http://xml.mediasactu.com/rss/radioactu/flash/]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>###########@@@@OOOOO</frequence>
+</flux>
+<flux>
+<source>La Cave</source>
+<adresse><![CDATA[http://www.la-cave.org/?feed=rss2]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>o</frequence>
+</flux>
+<flux>
+<source>Avicca - Association des Villes et Collectivit&#233;s pour les Communications &#233;lectroniques et l&#8217;Audiovisuel </source>
+<adresse><![CDATA[http://www.avicca.org/spip.php?page=backend]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####@@@</frequence>
+</flux>
+<flux>
+<source>GeoRezo</source>
+<adresse><![CDATA[http://georezo.net/extern.php?fid=900,800]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>#######@@@@@OOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Minist&#232;re de l&#8217;enseignement sup&#233;rieur et de la recherche : actualit&#233;</source>
+<adresse><![CDATA[http://www.enseignementsup-recherche.gouv.fr/rid1271/rss-toute-l-actualite-m.e.s.r.-en-un-flux.rss]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 30 items - 60 titres </erreur>
+<frequence>#########@@@@@OOOOOO</frequence>
+</flux>
+<flux>
+<source>Minist&#232;re de l&#8217;enseignement sup&#233;rieur et de la recherche : communiqu&#233;s</source>
+<adresse><![CDATA[http://www.enseignementsup-recherche.gouv.fr/rid921/rss-tous-les-communiques.rss]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 30 items - 60 titres </erreur>
+<frequence>##@@OOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Minist&#232;re de l&#8217;enseignement sup&#233;rieur et de la recherche : discours</source>
+<adresse><![CDATA[http://www.enseignementsup-recherche.gouv.fr/rid871/rss-tous-les-discours.rss]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 30 items - 60 titres </erreur>
+<frequence>OOOOOOOOOOoooooooooo</frequence>
+</flux>
+<flux>
+<source>Minist&#232;re de l&#8217;enseignement sup&#233;rieur et de la recherche : manifestations</source>
+<adresse><![CDATA[http://www.enseignementsup-recherche.gouv.fr/rid971/rss-tous-les-evenements-et-manifestations.rss]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 30 items - 60 titres </erreur>
+<frequence>Oooooooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>&#201;cole Nationale Sup&#233;rieure des Sciences Appliqu&#233;es et de Technologie de Lannion</source>
+<adresse><![CDATA[http://blog.enssat.fr/feeds/posts/default?alt=rss]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Aerocontact</source>
+<adresse><![CDATA[http://www.aerocontact.com/syndication/aero_newsfeed_gen.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>Institut national de l&#8217;audiovisuel</source>
+<adresse><![CDATA[http://www.institut-national-audiovisuel.fr/flux/communique_dossier_presse]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####@OOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>EDF : entreprise</source>
+<adresse><![CDATA[http://entreprises.edf.com/le-mag-de-l-energie-83041.html]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>######OOOO</frequence>
+</flux>
+<flux>
+<source>EDF : communiqu&#233;s de presse</source>
+<adresse><![CDATA[http://www.edf.com/flux-rss-communiques-de-presse-80071.html]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOO</frequence>
+</flux>
+<flux>
+<source>EDF : dossier de presse</source>
+<adresse><![CDATA[http://www.edf.com/flux-rss-dossiers-de-presse-80070.html]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>#OOOOOOOoo</frequence>
+</flux>
+<flux>
+<source>EDF : coll&#233;tivit&#233;s</source>
+<adresse><![CDATA[http://collectivites.edf.com/collectivites-83336.html]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Soci&#233;t&#233; Fran&#231;aise d&#8217;&#201;nergie Nucl&#233;aire</source>
+<adresse><![CDATA[http://feeds.feedburner.com/SFEN]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####OOOOOO</frequence>
+</flux>
+<flux>
+<source>Math par Dominique Pernoux</source>
+<adresse><![CDATA[http://feeds.feedburner.com/dom68]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Air et Cosmos</source>
+<adresse><![CDATA[http://www.air-cosmos.com/air-cosmos.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Commissariat &#224; l&#8217;&#233;nergie atomique</source>
+<adresse><![CDATA[http://www.cea.fr/cea-rss]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>##########@@OOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Universcience TV</source>
+<adresse><![CDATA[http://www.universcience.tv/rss.xml]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<alerte>description : 5889 car. </alerte>
+<frequence>#O#o##oo#o</frequence>
+</flux>
+<flux>
+<source>L&#8217;Express : m&#233;dia</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/568/f/9921/index.rss]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Plan&#232;te Wifi</source>
+<adresse><![CDATA[http://www.planet-sansfil.com/?feed=rss2]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>ZDNet</source>
+<adresse><![CDATA[http://www.zdnet.fr/feeds/rss/actualites/]]></adresse>
+<categorie>technologie</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+</base>

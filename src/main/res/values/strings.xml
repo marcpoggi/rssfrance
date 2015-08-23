@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rss France</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Info</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="info">par Feeltest - dev team  - Marc POGGI \nListe des flux RSS \n http://atlasflux.saynete.net/</string>
+    <string name="fixedflux">Flux RSS</string>
+    <string name="fluxfavori">Vos Favoris</string>
+    <string name="fluxdispo">Ajout aux favoris</string>
+
+    <string-array name="urlchoice">
+        <item>Courrier Int.</item>
+        <item>Le Monde</item>
+        <item>La Chaine Meteo</item>
+    </string-array>
+    <string-array name="weburlchoice">
+        <item>http://courrierint.com/feed/category/6271/rss.xml</item>
+        <item>http://www.lemonde.fr/m-actu/rss_full.xml</item>
+        <item>  http://actualite.lachainemeteo.com/meteo-rss/toute-l-actualite-meteo.xml</item>
+    </string-array>
+
+    <string name="title_activity_abonnement">Abonnement</string>
+    <string name="gettingdata">Chargement</string>
+    <string name="pasdeconnexion">Pas de connexion !</string>
+    <string name="actualisation">Actualisation ...</string>
+    <string name="pasdedonnees">Pas de flux en mémoire ... Actualisez !</string>
+    <string name="navigation_drawer_open">Ouvrir le tiroir de menus</string>
+    <string name="navigation_drawer_close">Fermer le tiroir menu</string>
+
+</resources>

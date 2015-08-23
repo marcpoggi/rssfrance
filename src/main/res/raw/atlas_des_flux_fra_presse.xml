@@ -1,0 +1,4585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Atlas des flux RSS/ATOM par Sayn&#232;te http://www.saynete.net -->
+<?xml-stylesheet href="genere_annuaire_xml.xsl" type="text/xsl"?>
+<base>
+<flux>
+<source>RTL info</source>
+<adresse><![CDATA[http://www.rtl.fr/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>i-t&#233;l&#233; : &#224; la une</source>
+<adresse><![CDATA[http://feeds.feedburner.com/itele/laune]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 99 items - 100 titres </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>i-t&#233;l&#233; : France</source>
+<adresse><![CDATA[http://feeds.feedburner.com/itele/france]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>AFP : vid&#233;o</source>
+<adresse><![CDATA[http://www.dailymotion.com/rss/user/afp/1]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##################</frequence>
+</flux>
+<flux>
+<source>LeParisien : Marseille</source>
+<adresse><![CDATA[http://www.leparisien.fr/marseille-13000/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeParisien : une</source>
+<adresse><![CDATA[http://www.leparisien.fr/actualites-a-la-une.rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Marianne2 : actualit&#233;</source>
+<adresse><![CDATA[http://www.marianne2.fr/xml/syndication.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : France</source>
+<adresse><![CDATA[http://www.nicematin.com/france/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : faits divers</source>
+<adresse><![CDATA[http://www.nicematin.com/faits-divers/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : derni&#232;re minute</source>
+<adresse><![CDATA[http://www.nicematin.com/derniere-minute/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : c&#244;te d&#8217;azur</source>
+<adresse><![CDATA[http://www.nicematin.com/cote-dazur/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Var-Matin : derni&#232;re minute</source>
+<adresse><![CDATA[http://www.varmatin.com/derniere-minute/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>Var-Matin : France</source>
+<adresse><![CDATA[http://www.varmatin.com/france/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>Var-Matin : faits divers</source>
+<adresse><![CDATA[http://www.varmatin.com/faits-divers/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>Paris-Match</source>
+<adresse><![CDATA[http://cdn1-parismatch.ladmedia.fr/var/exports/rss/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Paris-Match : actu</source>
+<adresse><![CDATA[http://cdn1-parismatch.ladmedia.fr/var/exports/rss/rss-actu.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Tribune : actualit&#233;</source>
+<adresse><![CDATA[http://www.latribune.fr/rss/rubriques/actualite.html]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Europe 1 : actualit&#233;</source>
+<adresse><![CDATA[http://europe1.fr.feedsportal.com/c/32376/f/546038/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>@@@@@@@@@@#@@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>Europe 1 : flash</source>
+<adresse><![CDATA[http://europe1.fr.feedsportal.com/c/32376/f/546039/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>@@@@@@@@@@@@@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>RTL info : une audio</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/32898/f/533232/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>RTL info : info audio</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/32898/f/533233/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>SFR Info</source>
+<adresse><![CDATA[http://info.sfr.fr/data/alaune/alaune_RSS.php]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Monde : la une</source>
+<adresse><![CDATA[http://rss.lemonde.fr/c/205/f/3050/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Monde : soci&#233;t&#233;</source>
+<adresse><![CDATA[http://rss.lemonde.fr/c/205/f/3054/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Lib&#233;ration : soci&#233;t&#233;</source>
+<adresse><![CDATA[http://liberation.fr.feedsportal.com/c/32268/fe.ed/rss.liberation.fr/rss/12/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Lib&#233;ration : soci&#233;t&#233;</source>
+<adresse><![CDATA[http://www.liberation.fr/rss/societe,12]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Lib&#233;ration : une</source>
+<adresse><![CDATA[http://rss.liberation.fr/rss/9/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>FranceInfo : une</source>
+<adresse><![CDATA[http://www.franceinfo.fr/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Figaro : une</source>
+<adresse><![CDATA[http://rss.lefigaro.fr/lefigaro/laune?format=xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Figaro : France</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_actualite-france.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Figaro : flash</source>
+<adresse><![CDATA[http://feeds.lefigaro.fr/c/32266/f/438191/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : une</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/76.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LaProvence : r&#233;gion</source>
+<adresse><![CDATA[http://www.laprovence.com/rss/Region.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LaProvence : r&#233;gion direct</source>
+<adresse><![CDATA[http://www.laprovence.com/rss/Region-en-direct.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 25 item - 24 description </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Point : une</source>
+<adresse><![CDATA[http://www.lepoint.fr/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>########################################</frequence>
+</flux>
+<flux>
+<source>Le Point : 24heures d&#8217;info</source>
+<adresse><![CDATA[http://www.lepoint.fr/24h-infos/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>############################################################</frequence>
+</flux>
+<flux>
+<source>Le Point : soci&#233;t&#233;</source>
+<adresse><![CDATA[http://www.lepoint.fr/societe/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Romandie</source>
+<adresse><![CDATA[http://www.romandie.com/rss/flux.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>############################################################</frequence>
+</flux>
+<flux>
+<source>LeJDD : g&#233;n&#233;ral</source>
+<adresse><![CDATA[http://cdn1-lejdd.ladmedia.fr/var/exports/rss/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Express : une</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/568/f/9909/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Express : soci&#233;t&#233;</source>
+<adresse><![CDATA[http://www.lexpress.fr/rss/societe.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>LCI : minute</source>
+<adresse><![CDATA[http://www.tf1.fr/xml/rss/0,,9,00.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LCI : France</source>
+<adresse><![CDATA[http://www.tf1.fr/xml/rss/0,,1,00.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Croix : une</source>
+<adresse><![CDATA[http://www.la-croix.com/layout/set/rss/content/view/rss/8604]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>20 Minutes : vid&#233;o</source>
+<adresse><![CDATA[http://www.dailymotion.com/rss/user/20Minutes/1]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##################</frequence>
+</flux>
+<flux>
+<source>20 Minutes : une</source>
+<adresse><![CDATA[http://flux.20minutes.fr/c/32497/f/479493/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>20 Minutes : faits divers</source>
+<adresse><![CDATA[http://www.20min.ch/rss/rss.tmpl?type=rubrik&get=318&lang=ro]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##############</frequence>
+</flux>
+<flux>
+<source>20 Minutes : actualit&#233;s</source>
+<adresse><![CDATA[http://www.20min.ch/rss/rss.tmpl?type=channel&get=17&lang=ro]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>######</frequence>
+</flux>
+<flux>
+<source>20 Minutes : Suisse</source>
+<adresse><![CDATA[http://www.20min.ch/rss/rss.tmpl?type=rubrik&get=313&lang=ro]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##############</frequence>
+</flux>
+<flux>
+<source>Bakchich</source>
+<adresse><![CDATA[http://www.bakchich.info/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description : 9261 car. </alerte>
+<alerte>description : 4181 car. </alerte>
+<alerte>description : 3998 car. </alerte>
+<alerte>description : 5537 car. </alerte>
+<alerte>description : 6980 car. </alerte>
+<alerte>description : 5937 car. </alerte>
+<alerte>description : 5318 car. </alerte>
+<alerte>description : 3228 car. </alerte>
+<alerte>description : 6803 car. </alerte>
+<alerte>description : 3103 car. </alerte>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le&#8212;T&#233;l&#233;gramme : France</source>
+<adresse><![CDATA[http://www.letelegramme.com/ig/generales/france-monde/france/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>L&#8217;Humanit&#233;</source>
+<adresse><![CDATA[http://www.humanite.fr/rss/actu.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description : 3561 car. </alerte>
+<alerte>description : 4280 car. </alerte>
+<alerte>description : 3228 car. </alerte>
+<alerte>description : 4239 car. </alerte>
+<alerte>description : 3581 car. </alerte>
+<alerte>description : 3322 car. </alerte>
+<alerte>description : 5137 car. </alerte>
+<alerte>description : 4589 car. </alerte>
+<alerte>description : 3088 car. </alerte>
+<alerte>description : 4306 car. </alerte>
+<alerte>description : 7109 car. </alerte>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le NouvelObs : actualit&#233;</source>
+<adresse><![CDATA[http://rss.nouvelobs.com/c/32262/fe.ed/tempsreel.nouvelobs.com/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le NouvelObs : soci&#233;t&#233;</source>
+<adresse><![CDATA[http://rss.nouvelobs.com/c/32262/fe.ed/tempsreel.nouvelobs.com/societe/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Les&#8212;&#201;chos : une</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/499/f/413823/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Alsace : toute l&#8217;actualit&#233;</source>
+<adresse><![CDATA[http://www.lalsace.fr/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : info continue</source>
+<adresse><![CDATA[http://www.sudouest.fr/continu/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : info</source>
+<adresse><![CDATA[http://www.francetvinfo.fr/titres.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Progr&#232;s : une</source>
+<adresse><![CDATA[http://www.leprogres.fr/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Cha&#238;ne M&#233;t&#233;o</source>
+<adresse><![CDATA[http://www.lachainemeteo.com/meteo-rss/toute-l-actualite-meteo.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##################</frequence>
+</flux>
+<flux>
+<source>Revue2presse : couverture</source>
+<adresse><![CDATA[http://feeds2.feedburner.com/Revue2presse-ToutesLesUnesDeLaPresse]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>24heures</source>
+<adresse><![CDATA[http://www.24heures.ch/rss_ticker.html]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>RJB info</source>
+<adresse><![CDATA[http://www.rjb.ch/documents.rdf?idz=32&cids=9652,9660,9661,9662,9663,9664,9665,9666,9667,9836]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>################</frequence>
+</flux>
+<flux>
+<source>RFI : actualit&#233;</source>
+<adresse><![CDATA[http://www.rfi.fr/contenu/general/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 20 items - 22 titres </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>RTBF : info</source>
+<adresse><![CDATA[http://rss.rtbf.be/article/rss/highlight_rtbfinfo_info-accueil.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>RTBF : derni&#232;re minute</source>
+<adresse><![CDATA[http://rss.rtbf.be/article/rss/rtbfinfo_homepage.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>i-t&#233;l&#233; : politique</source>
+<adresse><![CDATA[http://feeds.feedburner.com/itele/politique]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>i-t&#233;l&#233; : sport</source>
+<adresse><![CDATA[http://feeds.feedburner.com/itele/sport]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##############@@@@@@</frequence>
+</flux>
+<flux>
+<source>i-t&#233;l&#233; : culture</source>
+<adresse><![CDATA[http://feeds.feedburner.com/itele/culture]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###########@@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>i-t&#233;l&#233; : economie</source>
+<adresse><![CDATA[http://feeds.feedburner.com/itele/economie]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>i-t&#233;l&#233; : vid&#233;o</source>
+<adresse><![CDATA[http://gdata.youtube.com/feeds/base/users/itele/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Dauphin&#233; Lib&#233;r&#233;</source>
+<adresse><![CDATA[http://www.ledauphine.com/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Canard Encha&#238;n&#233;</source>
+<adresse><![CDATA[http://lecanardenchaine.fr/?feed=rss2]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##@@OOOOOO</frequence>
+</flux>
+<flux>
+<source>LeParisien : vid&#233;o</source>
+<adresse><![CDATA[http://www.dailymotion.com/rss/user/leparisien/1]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##################</frequence>
+</flux>
+<flux>
+<source>LeParisien : faits divers</source>
+<adresse><![CDATA[http://www.leparisien.fr/faits-divers/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeParisien : international</source>
+<adresse><![CDATA[http://www.leparisien.fr/international/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeParisien : Paris &#206;le-de-France</source>
+<adresse><![CDATA[http://www.leparisien.fr/info-paris-ile-de-france-oise/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeParisien : Paris</source>
+<adresse><![CDATA[http://www.leparisien.fr/paris-75/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeParisien : Hauts de Seine</source>
+<adresse><![CDATA[http://www.leparisien.fr/hauts-de-seine-92/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeParisien : Seine Saint Denis</source>
+<adresse><![CDATA[http://www.leparisien.fr/seine-saint-denis-93/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeParisien : Val de Marne</source>
+<adresse><![CDATA[http://www.leparisien.fr/val-de-marne-94/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeParisien : Yvelines</source>
+<adresse><![CDATA[http://www.leparisien.fr/yvelines-78/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeParisien : Seine-et-Marne</source>
+<adresse><![CDATA[http://www.leparisien.fr/seine-et-marne-77/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeParisien : Val d&#8217;Oise</source>
+<adresse><![CDATA[http://www.leparisien.fr/val-d-oise-95/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeParisien : l&#8217;Oise</source>
+<adresse><![CDATA[http://www.leparisien.fr/oise-60/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeParisien : sports</source>
+<adresse><![CDATA[http://www.leparisien.fr/sports/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Figaro : actualit&#233;</source>
+<adresse><![CDATA[http://rss.lefigaro.fr/lefigaro/laune]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Figaro : international</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_international.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Figaro : flash actu</source>
+<adresse><![CDATA[http://feeds.lefigaro.fr/c/32266/f/438191/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Figaro : actualit&#233; France</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_actualite-france.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Figaro : sant&#233;</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_sante.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Figaro : magazine</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_lefigaromagazine.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>#######@@@OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Le Figaro : soci&#233;t&#233;</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_societes.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Figaro : madame</source>
+<adresse><![CDATA[http://rss.lefigaro.fr/MadameFigaro?format=xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Figaro : conjoncture</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_conjoncture.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Figaro : assurance</source>
+<adresse><![CDATA[http://www.lefigaro.fr/rss/figaro_assurance.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOoooooOooooooo</frequence>
+</flux>
+<flux>
+<source>Le Figaro : vid&#233;o</source>
+<adresse><![CDATA[http://gdata.youtube.com/feeds/base/users/lefigaro/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Paris-Match : chroniques</source>
+<adresse><![CDATA[http://cdn1-parismatch.ladmedia.fr/var/exports/rss/rss-chroniques.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####@@@OOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Paris-Match : culture</source>
+<adresse><![CDATA[http://cdn1-parismatch.ladmedia.fr/var/exports/rss/rss-culture.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Paris-Match : photos</source>
+<adresse><![CDATA[http://cdn1-parismatch.ladmedia.fr/var/exports/rss/rss-photos.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Paris-Match : vid&#233;o</source>
+<adresse><![CDATA[http://cdn1-parismatch.ladmedia.fr/var/exports/rss/rss-videos.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>############@@@@@@@O</frequence>
+</flux>
+<flux>
+<source>La Croix : religion</source>
+<adresse><![CDATA[http://www.la-croix.com/layout/set/rss/content/view/rss/8634]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Croix : culture-Loisirs</source>
+<adresse><![CDATA[http://www.la-croix.com/layout/set/rss/content/view/rss/8666]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Croix : famille</source>
+<adresse><![CDATA[http://www.la-croix.com/layout/set/rss/content/view/rss/8695]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Croix : archives</source>
+<adresse><![CDATA[http://www.la-croix.com/layout/set/rss/content/view/rss/10151]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Croix : &#233;thique</source>
+<adresse><![CDATA[http://www.la-croix.com/layout/set/rss/content/view/rss/892240]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Croix : services</source>
+<adresse><![CDATA[http://www.la-croix.com/layout/set/rss/content/view/rss/8711]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>Oooooooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>La Croix : solidarit&#233;</source>
+<adresse><![CDATA[http://www.la-croix.com/layout/set/rss/content/view/rss/8708]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##############@@@@@@</frequence>
+</flux>
+<flux>
+<source>La Croix : d&#233;p&#234;ches</source>
+<adresse><![CDATA[http://www.la-croix.com/layout/set/rss/content/view/rss/8622]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Croix : &#233;ditos</source>
+<adresse><![CDATA[http://www.la-croix.com/layout/set/rss/content/view/rss/8693]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###########@@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>La Croix : urbi et orbi</source>
+<adresse><![CDATA[http://www.la-croix.com/layout/set/rss/content/view/rss/925402]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Croix : une</source>
+<adresse><![CDATA[http://www.la-croix.com/layout/set/rss/content/view/rss/8598]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Var-Matin : monde</source>
+<adresse><![CDATA[http://www.varmatin.com/monde/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>Var-Matin : Var</source>
+<adresse><![CDATA[http://www.varmatin.com/var/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>Var-Matin : soci&#233;t&#233;</source>
+<adresse><![CDATA[http://www.varmatin.com/societe/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>Var-Matin : sant&#233;</source>
+<adresse><![CDATA[http://www.varmatin.com/sante/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>#########@@@@@O</frequence>
+</flux>
+<flux>
+<source>Var-Matin : culture et loisirs</source>
+<adresse><![CDATA[http://www.varmatin.com/culture-et-loisirs/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>Var-Matin : Brignoles</source>
+<adresse><![CDATA[http://www.varmatin.com/taxonomy/term/509/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>#####@OOOOOOOOo</frequence>
+</flux>
+<flux>
+<source>Var-Matin : Draguignan</source>
+<adresse><![CDATA[http://www.varmatin.com/taxonomy/term/536/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>###OOOOOOOOOOoo</frequence>
+</flux>
+<flux>
+<source>Var-Matin : La Seyne-sur-mer</source>
+<adresse><![CDATA[http://www.varmatin.com/taxonomy/term/612/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##@OOOOOOOOOooo</frequence>
+</flux>
+<flux>
+<source>Var-Matin : Hy&#232;res</source>
+<adresse><![CDATA[http://www.varmatin.com/taxonomy/term/555/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>OOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Var-Matin : Gapeau</source>
+<adresse><![CDATA[http://www.varmatin.com/taxonomy/term/1091/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>OOOoooooooooooo</frequence>
+</flux>
+<flux>
+<source>Var-Matin : Fr&#233;jus</source>
+<adresse><![CDATA[http://www.varmatin.com/taxonomy/term/547/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Var-Matin : Saint-Tropez</source>
+<adresse><![CDATA[http://www.varmatin.com/taxonomy/term/605/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>#@OOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Var-Matin : Toulon</source>
+<adresse><![CDATA[http://www.varmatin.com/taxonomy/term/623/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##@@OOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : France</source>
+<adresse><![CDATA[http://www.nicematin.com/france/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : monde</source>
+<adresse><![CDATA[http://www.nicematin.com/monde/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : faits divers</source>
+<adresse><![CDATA[http://www.nicematin.com/faits-divers/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : politique</source>
+<adresse><![CDATA[http://www.nicematin.com/politique/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : soci&#233;t&#233;</source>
+<adresse><![CDATA[http://www.nicematin.com/societe/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : loisirs</source>
+<adresse><![CDATA[http://www.nicematin.com/culture-et-loisirs/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : sant&#233;</source>
+<adresse><![CDATA[http://www.nicematin.com/sante/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : auto moto</source>
+<adresse><![CDATA[http://www.nicematin.com/automoto/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>########@@</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : people</source>
+<adresse><![CDATA[http://www.nicematin.com/people/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : &#233;tudiant</source>
+<adresse><![CDATA[http://www.nicematin.com/etudiants/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Nice-Matin : Nice</source>
+<adresse><![CDATA[http://www.nicematin.com/taxonomy/term/394/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Corse-Matin : France</source>
+<adresse><![CDATA[http://www.corsematin.com/france/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Corse-Matin : monde</source>
+<adresse><![CDATA[http://www.corsematin.com/monde/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Lib&#233;ration : &#233;cran</source>
+<adresse><![CDATA[http://rss.liberation.fr/rss/53/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Lib&#233;ration : labo</source>
+<adresse><![CDATA[http://rss.liberation.fr/rss/17/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>@OOOOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Lib&#233;ration : chroniques</source>
+<adresse><![CDATA[http://rss.liberation.fr/rss/44/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##################@@</frequence>
+</flux>
+<flux>
+<source>Lib&#233;ration : monde</source>
+<adresse><![CDATA[http://rss.liberation.fr/rss/10/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Lib&#233;ration : societ&#233;</source>
+<adresse><![CDATA[http://rss.liberation.fr/rss/12/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Lib&#233;ration : politique</source>
+<adresse><![CDATA[http://rss.liberation.fr/rss/11/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Lib&#233;ration : rebonds</source>
+<adresse><![CDATA[http://rss.liberation.fr/rss/18/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Lib&#233;ration : m&#233;dia</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/32268/f/438250/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###@@OOOOOOooooooooo</frequence>
+</flux>
+<flux>
+<source>LeJDD : politique</source>
+<adresse><![CDATA[http://cdn1-lejdd.ladmedia.fr/var/exports/rss/rss-politique.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeJDD : m&#233;dia</source>
+<adresse><![CDATA[http://cdn1-lejdd.ladmedia.fr/var/exports/rss/rss-media.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeJDD : culture</source>
+<adresse><![CDATA[http://cdn1-lejdd.ladmedia.fr/var/exports/rss/rss-culture.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeJDD : soci&#233;t&#233;</source>
+<adresse><![CDATA[http://cdn1-lejdd.ladmedia.fr/var/exports/rss/rss-societe.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeJDD : international</source>
+<adresse><![CDATA[http://cdn1-lejdd.ladmedia.fr/var/exports/rss/rss-international.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LeJDD : paris</source>
+<adresse><![CDATA[http://cdn1-lejdd.ladmedia.fr/var/exports/rss/rss-jdd-paris.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###############OOOOO</frequence>
+</flux>
+<flux>
+<source>laProvence : r&#233;gion</source>
+<adresse><![CDATA[http://www.laprovence.com/rss/Region.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>laProvence : r&#233;gion direct</source>
+<adresse><![CDATA[http://www.laprovence.com/rss/Region-en-direct.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 25 item - 24 description </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>laProvence : sport</source>
+<adresse><![CDATA[http://www.laprovence.com/rss/Sports.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>laProvence : loisirs</source>
+<adresse><![CDATA[http://www.laprovence.com/rss/Loisirs.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>laProvence : politique</source>
+<adresse><![CDATA[http://www.laprovence.com/rss/Politique.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Berry R&#233;publicain : les derniers articles</source>
+<adresse><![CDATA[http://www.leberry.fr/BR-tempsforts-tous.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Berry R&#233;publicain : br&#232;ves</source>
+<adresse><![CDATA[http://www.leberry.fr/BR-breves-tous.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>24matins</source>
+<adresse><![CDATA[http://www.24matins.fr/feed]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>XXI</source>
+<adresse><![CDATA[http://www.revue21.fr/spip.php?page=backend]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####@@OOOO</frequence>
+</flux>
+<flux>
+<source>Atlantico</source>
+<adresse><![CDATA[http://www.atlantico.fr/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Street Generation</source>
+<adresse><![CDATA[http://www.streetgeneration.fr/feed/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>######@@@@</frequence>
+</flux>
+<flux>
+<source>Le Soir</source>
+<adresse><![CDATA[http://www.lesoir.be/actualite/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Essentiel : une</source>
+<adresse><![CDATA[http://www.lessentiel.lu/rss/front.tmpl]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Essentiel : actualit&#233;</source>
+<adresse><![CDATA[http://www.lessentiel.lu/rss/news.tmpl]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;ind&#233;pendant : Carcassonne</source>
+<adresse><![CDATA[http://www.lindependant.fr/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##############</frequence>
+</flux>
+<flux>
+<source>L&#8217;Est R&#233;publicain</source>
+<adresse><![CDATA[http://www.estrepublicain.fr/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le nouvel &#201;conomiste : dossiers</source>
+<adresse><![CDATA[http://www.lenouveleconomiste.fr/lesdossiers/feed/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###########@@@OOOOOO</frequence>
+</flux>
+<flux>
+<source>Le nouvel &#201;conomiste : actualit&#233;</source>
+<adresse><![CDATA[http://www.lenouveleconomiste.fr/feed/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Les &#201;chos : r&#233;gion</source>
+<adresse><![CDATA[http://syndication.lesechos.fr/rss/rss_regions.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Dauphin&#233; Lib&#233;r&#233;</source>
+<adresse><![CDATA[http://www.ledauphine.com/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Voxeurop</source>
+<adresse><![CDATA[http://www.voxeurop.eu/fr/feed/rss/all.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description : 5214 car. </alerte>
+<alerte>description : 3543 car. </alerte>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>BFM TV : politique</source>
+<adresse><![CDATA[http://www.bfmtv.com/rss/politique/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>BFM TV : soci&#233;t&#233;</source>
+<adresse><![CDATA[http://www.bfmtv.com/rss/societe/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>BFM TV : international</source>
+<adresse><![CDATA[http://www.bfmtv.com/rss/international/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>BFM TV : culture</source>
+<adresse><![CDATA[http://www.bfmtv.com/rss/culture/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>BFM TV : plan&#232;te</source>
+<adresse><![CDATA[http://www.bfmtv.com/rss/planete/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>BFM TV : t&#233;moins</source>
+<adresse><![CDATA[http://temoins.bfmtv.com/RSS/rss_1_1.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>@@@@@@@@@O@O@OOO@@@@</frequence>
+</flux>
+<flux>
+<source>BFM : actualit&#233; vid&#233;o</source>
+<adresse><![CDATA[http://www.dailymotion.com/rss/user/BFMTV/1]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##################</frequence>
+</flux>
+<flux>
+<source>BFM : Good Morning Week-end</source>
+<adresse><![CDATA[http://www.1001podcast.com/podcast/BFM/channel16/BFMchannel16.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####@@OOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Direct8 : vid&#233;o</source>
+<adresse><![CDATA[http://www.dailymotion.com/rss/user/direct8/1]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>o</frequence>
+</flux>
+<flux>
+<source>Le NouvelObs : vid&#233;o</source>
+<adresse><![CDATA[http://www.dailymotion.com/rss/user/LeNouvelObservateur/1]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##################</frequence>
+</flux>
+<flux>
+<source>Le NouvelObs : actualit&#233;</source>
+<adresse><![CDATA[http://tempsreel.nouvelobs.com/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le NouvelObs : monde</source>
+<adresse><![CDATA[http://rss.nouvelobs.com/c/32262/fe.ed/tempsreel.nouvelobs.com/monde/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le NouvelObs : soci&#233;t&#233;</source>
+<adresse><![CDATA[http://rss.nouvelobs.com/c/32262/fe.ed/tempsreel.nouvelobs.com/societe/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Montagne : temps forts</source>
+<adresse><![CDATA[http://www.lamontagne.fr/MT-tempsforts-tous.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Linternaute</source>
+<adresse><![CDATA[http://www.linternaute.com/rss/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France3 : CultureBox</source>
+<adresse><![CDATA[http://feeds.feedburner.com/culturebox]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : Alpes</source>
+<adresse><![CDATA[http://alpes.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : Alsace</source>
+<adresse><![CDATA[http://alsace.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : Aquitaine</source>
+<adresse><![CDATA[http://aquitaine.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : Auvergne</source>
+<adresse><![CDATA[http://auvergne.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : Basse Normandie</source>
+<adresse><![CDATA[http://basse-normandie.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : Bourgogne</source>
+<adresse><![CDATA[http://bourgogne.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : Bretagne</source>
+<adresse><![CDATA[http://bretagne.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : Centre</source>
+<adresse><![CDATA[http://centre.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : Champagne Ardenne</source>
+<adresse><![CDATA[http://champagne-ardenne.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : C&#244;te d&#8217;Azur</source>
+<adresse><![CDATA[http://cote-d-azur.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : Franche Comt&#233;</source>
+<adresse><![CDATA[http://franche-comte.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : Haute Normandie</source>
+<adresse><![CDATA[http://haute-normandie.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : Languedoc Roussillon</source>
+<adresse><![CDATA[http://languedoc-roussillon.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : Limousin</source>
+<adresse><![CDATA[http://limousin.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : Lorraine</source>
+<adresse><![CDATA[http://lorraine.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : Midi-Pyr&#233;n&#233;es</source>
+<adresse><![CDATA[http://midi-pyrenees.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : Nord-Pas-de-Calais</source>
+<adresse><![CDATA[http://nord-pas-de-calais.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : Paris-Ile-de-France</source>
+<adresse><![CDATA[http://paris-ile-de-france.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : Pays de la Loire</source>
+<adresse><![CDATA[http://pays-de-la-loire.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : Picardie</source>
+<adresse><![CDATA[http://picardie.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : Poitou-Charentes</source>
+<adresse><![CDATA[http://poitou-charentes.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : Provence Alpes</source>
+<adresse><![CDATA[http://provence-alpes.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>France3 : Rh&#244;ne-Alpes</source>
+<adresse><![CDATA[http://rhone-alpes.france3.fr/actu/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>La Vie : actualit&#233;</source>
+<adresse><![CDATA[http://www.lavie.fr/actualite/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###########@@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>La Vie : religion</source>
+<adresse><![CDATA[http://www.lavie.fr/religion/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##################@@</frequence>
+</flux>
+<flux>
+<source>La Vie : bien vivre</source>
+<adresse><![CDATA[http://www.lavie.fr/bienvivre/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>oooooooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>La Vie : culture</source>
+<adresse><![CDATA[http://www.lavie.fr/culture/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##############@OOOOO</frequence>
+</flux>
+<flux>
+<source>La Vie : une</source>
+<adresse><![CDATA[http://www.lavie.fr/une/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>TF1 : 50 min inside vid&#233;o</source>
+<adresse><![CDATA[http://www.tf1.fr/xml/rss/0,,857,00.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###########</frequence>
+</flux>
+<flux>
+<source>TF1 : sept &#224; huit vid&#233;o</source>
+<adresse><![CDATA[http://www.tf1.fr/xml/rss/0,,536,00.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>LCI : info</source>
+<adresse><![CDATA[http://www.tf1.fr/xml/rss/0,,10,00.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LCI : minute</source>
+<adresse><![CDATA[http://www.tf1.fr/xml/rss/0,,9,00.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LCI : soci&#233;t&#233;</source>
+<adresse><![CDATA[http://www.tf1.fr/xml/rss/0,,1,00.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LCI : monde</source>
+<adresse><![CDATA[http://www.tf1.fr/xml/rss/0,,2,00.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>TF1 : vid&#233;o</source>
+<adresse><![CDATA[http://www.tf1.fr/xml/rss/0,,986,00.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Mediapart</source>
+<adresse><![CDATA[http://www.mediapart.fr/articles/feed]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Ari&#232;geNews -</source>
+<adresse><![CDATA[http://www.ariegenews.com/data/rss/ariegenews.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>French Morning</source>
+<adresse><![CDATA[http://frenchmorning.com/feed/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>RMC : actualit&#233;</source>
+<adresse><![CDATA[http://mediafed.rmc.fr/rss_info_france]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>L&#8217;Est-&#201;clair</source>
+<adresse><![CDATA[http://www.lest-eclair.fr/feed/139]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Arr&#234;t sur images</source>
+<adresse><![CDATA[http://www.arretsurimages.net/gratuit.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>#############@@@@OOO</frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che de Tahiti</source>
+<adresse><![CDATA[http://www.ladepeche.pf/rss/fenua/politique.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>L&#8217;Yonne R&#233;publicaine : temps forts</source>
+<adresse><![CDATA[http://www.lyonne.fr/YR-tempsforts-tous.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Yonne R&#233;publicaine : br&#232;ves</source>
+<adresse><![CDATA[http://www.lyonne.fr/YR-breves-tous.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Yonne R&#233;publicaine : &#224; la une</source>
+<adresse><![CDATA[http://www.lyonne.fr/YR_rss_yonne_a_la_une.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Agence Bretagne Presse</source>
+<adresse><![CDATA[http://www.agencebretagnepresse.com/rss.php]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>#</frequence>
+</flux>
+<flux>
+<source>Zaman France</source>
+<adresse><![CDATA[http://www.zamanfrance.fr/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description : 3343 car. </alerte>
+<alerte>description : 6153 car. </alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>L&#8217;Hebdo journal</source>
+<adresse><![CDATA[http://www.lhebdojournal.com/Rss/category/6230/Actualites]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Alsace : r&#233;gion</source>
+<adresse><![CDATA[http://www.lalsace.fr/actualite/alsace/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Alsace : France monde</source>
+<adresse><![CDATA[http://www.lalsace.fr/actualite/france-monde/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Gazette des communes</source>
+<adresse><![CDATA[http://www.lagazettedescommunes.com/rubriques/actualite/feed/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Courrier international</source>
+<adresse><![CDATA[http://www.courrierinternational.com/rss/all/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Tribune de Gen&#232;ve</source>
+<adresse><![CDATA[http://www.tdg.ch/actu/suisse/feed]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Nord &#201;clair</source>
+<adresse><![CDATA[http://www.nordeclair.fr/feed/1]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Derni&#232;res Nouvelles d&#8217;Alsace : une</source>
+<adresse><![CDATA[http://www.dna.fr/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LyonMag</source>
+<adresse><![CDATA[http://www.lyonmag.com/rss.php]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Rue89 : Marseille</source>
+<adresse><![CDATA[http://www.rue89.com/marseille/feed]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>OOOOOooooo</frequence>
+</flux>
+<flux>
+<source>Rue89 : monde</source>
+<adresse><![CDATA[http://www.rue89.com/monde/feed]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Rue89 : m&#233;dias</source>
+<adresse><![CDATA[http://www.rue89.com/medias/feed]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Rue89 : hi-tech</source>
+<adresse><![CDATA[http://www.rue89.com/hi-tech/feed]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>######@@@@OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Rue89 : actualit&#233;</source>
+<adresse><![CDATA[http://www.rue89.com/feed]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Yahoo : photo</source>
+<adresse><![CDATA[http://fr.news.yahoo.com/rss/fc/photos/photos-sciences.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>#o#####o</frequence>
+</flux>
+<flux>
+<source>Yahoo : France</source>
+<adresse><![CDATA[http://fr.news.yahoo.com/?format=rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 14 items - 13 titres </erreur>
+<erreur>titre vide</erreur>
+<frequence>##############</frequence>
+</flux>
+<flux>
+<source>Euronews : infos</source>
+<adresse><![CDATA[http://feeds.feedburner.com/euronews/fr/news/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>############</frequence>
+</flux>
+<flux>
+<source>Euronews : business</source>
+<adresse><![CDATA[http://feeds.feedburner.com/euronews/fr/business/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>############</frequence>
+</flux>
+<flux>
+<source>Euronews : no comment</source>
+<adresse><![CDATA[http://feeds.feedburner.com/euronews/fr/Euronews-NoComment/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>############</frequence>
+</flux>
+<flux>
+<source>Euronews : Europe</source>
+<adresse><![CDATA[http://feeds.feedburner.com/euronews/fr/europa/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>############</frequence>
+</flux>
+<flux>
+<source>Euronews : image du jour</source>
+<adresse><![CDATA[http://feeds.feedburner.com/euronews/fr/picture-of-the-day/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##############@@@@@@</frequence>
+</flux>
+<flux>
+<source>Euronews : page accueil</source>
+<adresse><![CDATA[http://feeds.feedburner.com/euronews/fr/home?format=xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>Canal Plus</source>
+<adresse><![CDATA[http://www.vosflux.tv/chaine/canalplus/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>RTL info : les auditeurs ont la parole</source>
+<adresse><![CDATA[http://www.rtl.fr/emission/les-auditeurs-ont-la-parole/blog.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Le Nouvelliste : Suisse</source>
+<adresse><![CDATA[http://www-lenouvelliste-ch.www4.iomedia.infomaniak.ch/data/xml/rss/articles/rss_articles_fr_479.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description : 3853 car. </alerte>
+<alerte>description : 3723 car. </alerte>
+<alerte>description : 3101 car. </alerte>
+<alerte>description : 5902 car. </alerte>
+<alerte>description : 4435 car. </alerte>
+<alerte>description : 4268 car. </alerte>
+<alerte>description : 3031 car. </alerte>
+<alerte>description : 3019 car. </alerte>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Nouvelliste : Valais</source>
+<adresse><![CDATA[http://www-lenouvelliste-ch.www4.iomedia.infomaniak.ch/data/xml/rss/articles/rss_articles_fr_490.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description : 6351 car. </alerte>
+<alerte>description : 3504 car. </alerte>
+<alerte>description : 3361 car. </alerte>
+<alerte>description : 3689 car. </alerte>
+<alerte>description : 3913 car. </alerte>
+<alerte>description : 3124 car. </alerte>
+<alerte>description : 3043 car. </alerte>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Nouvelliste : soci&#233;t&#233;</source>
+<adresse><![CDATA[http://www-lenouvelliste-ch.www4.iomedia.infomaniak.ch/data/xml/rss/articles/rss_articles_fr_473.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description : 8157 car. </alerte>
+<alerte>description : 5198 car. </alerte>
+<alerte>description : 8762 car. </alerte>
+<alerte>description : 3605 car. </alerte>
+<alerte>description : 5132 car. </alerte>
+<alerte>description : 3181 car. </alerte>
+<alerte>description : 7182 car. </alerte>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Europe 1 : France</source>
+<adresse><![CDATA[http://www.europe1.fr/var/export/rss/europe1/actus.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Europe 1 : international</source>
+<adresse><![CDATA[http://www.europe1.fr/var/export/rss/europe1/international.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Europe 1 : soci&#233;t&#233;</source>
+<adresse><![CDATA[http://www.europe1.fr/rss/societe.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Europe 1 : faits divers</source>
+<adresse><![CDATA[http://www.europe1.fr/var/export/rss/europe1/societe.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Europe 1 : vid&#233;o</source>
+<adresse><![CDATA[http://www.dailymotion.com/rss/user/Europe1fr/1]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##################</frequence>
+</flux>
+<flux>
+<source>Monaco t&#233;l&#233;com</source>
+<adresse><![CDATA[http://www.monaco.mc/fluxRSS.do?idRubrique=1&nb=20]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Expansion</source>
+<adresse><![CDATA[http://www.lexpansion.com/Cafe-Economie/Rss/flux-rss-actualite-lexpansion.asp]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Le Monde : plan&#232;te</source>
+<adresse><![CDATA[http://rss.lemonde.fr/c/205/f/3059/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Monde : international</source>
+<adresse><![CDATA[http://rss.lemonde.fr/c/205/f/3052/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Monde : Europe</source>
+<adresse><![CDATA[http://www.lemonde.fr/rss/tag/europe.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Monde : m&#233;dias</source>
+<adresse><![CDATA[http://rss.lemonde.fr/c/205/f/3056/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Monde : rendez-vous</source>
+<adresse><![CDATA[http://rss.lemonde.fr/c/205/f/3057/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>oooooooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>Le Monde : id&#233;es</source>
+<adresse><![CDATA[http://rss.lemonde.fr/c/205/f/3051/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Monde : technologie</source>
+<adresse><![CDATA[http://rss.lemonde.fr/c/205/f/3061/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Le Monde : livre</source>
+<adresse><![CDATA[http://rss.lemonde.fr/c/205/f/3064/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Monde : politique</source>
+<adresse><![CDATA[http://rss.lemonde.fr/c/205/f/3067/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Monde : culture</source>
+<adresse><![CDATA[http://rss.lemonde.fr/c/205/f/3060/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>FranceInfo : actualit&#233;</source>
+<adresse><![CDATA[http://www.franceinfo.fr/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le&#8212;T&#233;l&#233;gramme : monde</source>
+<adresse><![CDATA[http://www.letelegramme.com/ig/generales/france-monde/monde/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Le&#8212;T&#233;l&#233;gramme : Bretagne</source>
+<adresse><![CDATA[http://www.letelegramme.com/ig/generales/regions/bretagne/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Le&#8212;T&#233;l&#233;gramme : Morbihan</source>
+<adresse><![CDATA[http://www.letelegramme.com/ig/generales/regions/morbihan/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Le&#8212;T&#233;l&#233;gramme : Finist&#232;re</source>
+<adresse><![CDATA[http://www.letelegramme.com/ig/generales/regions/finistere/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Le&#8212;T&#233;l&#233;gramme : C&#244;tes d&#8217;Armor</source>
+<adresse><![CDATA[http://www.letelegramme.com/ig/generales/regions/cotesarmor/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Le&#8212;T&#233;l&#233;gramme</source>
+<adresse><![CDATA[http://www.letelegramme.com/une/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<erreur>lien absent</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Bakchich</source>
+<adresse><![CDATA[http://www.bakchich.info/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description : 9261 car. </alerte>
+<alerte>description : 4181 car. </alerte>
+<alerte>description : 3998 car. </alerte>
+<alerte>description : 5537 car. </alerte>
+<alerte>description : 6980 car. </alerte>
+<alerte>description : 5937 car. </alerte>
+<alerte>description : 5318 car. </alerte>
+<alerte>description : 3228 car. </alerte>
+<alerte>description : 6803 car. </alerte>
+<alerte>description : 3103 car. </alerte>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Monde diplomatique</source>
+<adresse><![CDATA[http://www.monde-diplomatique.fr/rss/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##################@@</frequence>
+</flux>
+<flux>
+<source>LaT&#233;l&#233;Libre</source>
+<adresse><![CDATA[http://latelelibre.fr/feed/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>########@@OOOOO</frequence>
+</flux>
+<flux>
+<source>Romandie</source>
+<adresse><![CDATA[http://www.romandie.com/rss/flux.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>############################################################</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : national</source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_france_monde_national.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>#########@@OOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : politique</source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_france_monde_politique.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>###@OOOOOOOOOooooooo</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : multim&#233;dia</source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_france_monde_multimedia.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : &#233;co finances</source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_france_monde_eco_finances.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : &#233;ditorial</source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_france_monde_editorial.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>###############@@@@@</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : insolite</source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_france_monde_insolite.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>#########@@@@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : techno</source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_france_monde_techno.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 2 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>d&#233;calage : 0 item - 1 description </erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : autres sports</source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_sport_national_autres_sports.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 11 item - 0 description </erreur>
+<frequence>#####@@@@@@</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : Gatinais</source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_loiret_a_la_une.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : Gatinais</source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_loiret_gatinais.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : Giennois</source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_loiret_giennois.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : Loire-Sologne </source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_loiret_loire_sologne.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : Orl&#233;ans-M&#233;tropole </source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_loiret_orleans_metropole.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : rubgby Loiret</source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_loiret_rugby.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>######@OOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : football Loiret</source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_loiret_football.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : basket Loiret</source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_loiret_basket.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>###############@@@@@</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : handball Loiret</source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_loiret_handball.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>###############@@@@@</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : athl&#233;tisme Loiret</source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_loiret_athletisme.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>##@OOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : cyclisme Loiret</source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_loiret_cyclisme.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>OOOOOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : auto moto Loiret</source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_loiret_auto_moto.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>###@OOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : tennis Loiret</source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_loiret_tennis.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>#######@@@OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : autres sports Loiret</source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_loiret_autres_sports.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>###########@@@@OOOOO</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre : &#233;co finance</source>
+<adresse><![CDATA[http://www.larep.fr/RC_rss_france_monde_national.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>description absente</erreur>
+<erreur>d&#233;calage : 20 item - 0 description </erreur>
+<frequence>#########@@OOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>La R&#233;publique du centre</source>
+<adresse><![CDATA[http://www.larep.fr/RC-tempsforts-tous.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Union Champagne Ardenne Picardie : r&#233;gion</source>
+<adresse><![CDATA[http://www.lunion.presse.fr/rss/Region.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Union Champagne Ardenne Picardie : &#224; la une</source>
+<adresse><![CDATA[http://www.lunion.presse.fr/rss/Actualite-A-la-une.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Union Champagne Ardenne Picardie : France</source>
+<adresse><![CDATA[http://www.lunion.presse.fr/rss/France.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Union Champagne Ardenne Picardie : politique</source>
+<adresse><![CDATA[http://www.lunion.presse.fr/rss/Politique.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>#################@@@</frequence>
+</flux>
+<flux>
+<source>L&#8217;Union Champagne Ardenne Picardie : faits divers</source>
+<adresse><![CDATA[http://www.lunion.presse.fr/rss/Fait-Divers.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Union Champagne Ardenne Picardie : social</source>
+<adresse><![CDATA[http://www.lunion.presse.fr/rss/Social.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>#####@@@@@OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>L&#8217;Union Champagne Ardenne Picardie : soci&#233;t&#233;</source>
+<adresse><![CDATA[http://www.lunion.presse.fr/rss/Societe.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>################@@@@</frequence>
+</flux>
+<flux>
+<source>L&#8217;Union Champagne Ardenne Picardie : r&#233;gion</source>
+<adresse><![CDATA[http://www.lunion.presse.fr/rss/Region.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Union Champagne Ardenne Picardie : d&#233;partement info direct</source>
+<adresse><![CDATA[http://www.lunion.presse.fr/rss/Region-en-direct.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Union Champagne Ardenne Picardie : d&#233;partement Marne</source>
+<adresse><![CDATA[http://www.lunion.presse.fr/rss/Departement-Marne.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Union Champagne Ardenne Picardie : d&#233;partement Ardennes</source>
+<adresse><![CDATA[http://www.lunion.presse.fr/rss/Departement-Ardennes.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Union Champagne Ardenne Picardie : d&#233;partement Aisnes</source>
+<adresse><![CDATA[http://www.lunion.presse.fr/rss/Departement-Aisne.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>M6 : vid&#233;o</source>
+<adresse><![CDATA[http://www.m6.fr/rss-dernieres-videos.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>adre vide</erreur>
+<erreur>adre vide</erreur>
+<erreur>adre vide</erreur>
+<erreur>adre vide</erreur>
+<erreur>adre vide</erreur>
+<erreur>adre vide</erreur>
+<erreur>adre vide</erreur>
+<erreur>adre vide</erreur>
+<frequence>########</frequence>
+</flux>
+<flux>
+<source>L&#8217;Express : &#233;dito</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/568/f/413373/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 25 items - 24 titres </erreur>
+<frequence>##########@@@@@@@@@O</frequence>
+</flux>
+<flux>
+<source>L&#8217;Express : vid&#233;o</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/568/f/9924/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 25 item - 24 description </erreur>
+<erreur>titre : 679 car. </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Express : indiscrets</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/568/f/9922/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###############@@@@@</frequence>
+</flux>
+<flux>
+<source>L&#8217;Express : politique</source>
+<adresse><![CDATA[http://www.lexpress.fr/rss/politique.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>L&#8217;Express : monde</source>
+<adresse><![CDATA[http://www.lexpress.fr/rss/monde.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>La Cha&#238;ne Parlementaire </source>
+<adresse><![CDATA[http://www.dailymotion.com/rss/user/LCP/1]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##################</frequence>
+</flux>
+<flux>
+<source>Challenge</source>
+<adresse><![CDATA[http://rss.challenges.fr/c/32261/fe.ed/www.challenges.fr/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le journal de Saone-et-Loire</source>
+<adresse><![CDATA[http://www.lejsl.com/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Point : une</source>
+<adresse><![CDATA[http://www.lepoint.fr/content/system/rss/a_la_une/a_la_une_doc.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>########################################</frequence>
+</flux>
+<flux>
+<source>Le Point : France</source>
+<adresse><![CDATA[http://www.lepoint.fr/content/system/rss/france/france_doc.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Point : international</source>
+<adresse><![CDATA[http://www.lepoint.fr/monde/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Le Point : livres</source>
+<adresse><![CDATA[http://www.lepoint.fr/livres/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>#########@@@@@@@@@@O</frequence>
+</flux>
+<flux>
+<source>Le Point : diaporamas</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/568/f/9925/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>#########################</frequence>
+</flux>
+<flux>
+<source>Le Point : 24heures d&#8217;info</source>
+<adresse><![CDATA[http://www.lepoint.fr/content/system/rss/24H/24H_doc.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>############################################################</frequence>
+</flux>
+<flux>
+<source>LaProvence : France</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/32394/f/463063/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>LaProvence : monde</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/32394/f/463066/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>TV5 : une</source>
+<adresse><![CDATA[http://www.tv5.org/TV5Site/rss/actualites.php?rub=1]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>TV5 : monde</source>
+<adresse><![CDATA[http://www.tv5.org/TV5Site/rss/actualites.php?rub=2]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>TV5 : France</source>
+<adresse><![CDATA[http://www.tv5.org/TV5Site/rss/actualites.php?rub=3]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>TV5 : francophonie</source>
+<adresse><![CDATA[http://www.tv5.org/TV5Site/rss/actualites.php?rub=4]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>#########@</frequence>
+</flux>
+<flux>
+<source>TV5 : Afrique</source>
+<adresse><![CDATA[http://www.tv5.org/TV5Site/rss/actualites.php?rub=6]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>TV5 : dossier</source>
+<adresse><![CDATA[http://www.tv5.org/TV5Site/rss/actualites.php?rub=11]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 20 items - 22 titres </erreur>
+<erreur>d&#233;calage : 20 item - 22 description </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : actu du Nord</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/2]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : &#233;co</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/5]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : br&#232;ves France monde</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/153]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Arras</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/29]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Armenti&#232;res</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/11]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Avesnes sur Helpe</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/12]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : B&#233;thune</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/30]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Boulogne-sur-Mer</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/31]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Bruay-La-Buissi&#232;re</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/32/default_destination_block_accueil]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Calais</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/33]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Cambrai</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/13/default_destination_block_accueil]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Douai</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/16/default_destination_block_accueil]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Dunkerque</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/17/default_destination_block_accueil]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Hazebrouck</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/18/default_destination_block_accueil]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Lens</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/35/default_destination_block_accueil]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Lille</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/19/default_destination_block_accueil]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Loos</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/21/default_destination_block_accueil]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Lomme-Lambersart</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/20/default_destination_block_accueil]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Marcq-en-Baroeul</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/22/default_destination_block_accueil]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Maubeuge</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/23/default_destination_block_accueil]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Montreuil</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/36/default_destination_block_accueil]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Roubaix</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/24/default_destination_block_accueil]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Saint-Omer</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/37/default_destination_block_accueil]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Saint Pol sur Tersoise</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/653/default_destination_block_accueil]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Seclin</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/25/default_destination_block_accueil]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Tourcoing</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/26/default_destination_block_accueil]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Valenciennes</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/27/default_destination_block_accueil]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Villeneuve d&#8217;Ascq</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/28/default_destination_block_accueil]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : braderie de Lille</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/1606]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Voix du Nord : Louvre-Lens</source>
+<adresse><![CDATA[http://www.lavoixdunord.fr/feed/984]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>#@OOOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Midi Libre</source>
+<adresse><![CDATA[http://www.midilibre.fr/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>#################</frequence>
+</flux>
+<flux>
+<source>Midi Libre : sant&#233;</source>
+<adresse><![CDATA[http://www.midilibre.fr/sante/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>#################@@@</frequence>
+</flux>
+<flux>
+<source>Midi Libre : Montpellier</source>
+<adresse><![CDATA[http://www.midilibre.fr/herault/montpellier/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Midi Libre : N&#238;mes</source>
+<adresse><![CDATA[http://www.midilibre.fr/gard/nimes/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Midi Libre : Perpignan</source>
+<adresse><![CDATA[http://www.midilibre.fr/pyrenees-orientales/perpignan/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Midi Libre : Mende</source>
+<adresse><![CDATA[http://www.midilibre.fr/lozere/mende/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Midi Libre : Rodez</source>
+<adresse><![CDATA[http://www.midilibre.fr/aveyron/rodez/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##############@@@@@@</frequence>
+</flux>
+<flux>
+<source>Midi Libre : Millau</source>
+<adresse><![CDATA[http://www.midilibre.fr/aveyron/millau/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Midi Libre : Carcassonne</source>
+<adresse><![CDATA[http://www.midilibre.fr/aude/carcassonne/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Midi Libre : B&#233;ziers</source>
+<adresse><![CDATA[http://www.midilibre.fr/herault/beziers/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Midi Libre : Al&#232;s</source>
+<adresse><![CDATA[http://www.midilibre.fr/gard/ales/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Midi Libre : Bagnols-sur-C&#232;ze</source>
+<adresse><![CDATA[http://www.midilibre.fr/gard/bagnols-sur-ceze/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Midi Libre : S&#232;te</source>
+<adresse><![CDATA[http://www.midilibre.fr/herault/sete/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Midi Libre : Narbonne</source>
+<adresse><![CDATA[http://www.midilibre.fr/aude/narbonne/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : Le Petit Bleu</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/562.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : France</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/164.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : international</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/165.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : monde</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/164.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : faits divers</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/167.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : Toulouse</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/62.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 2 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>d&#233;calage : 0 item - 1 description </erreur>
+<alerte>description vide</alerte>
+<frequence></frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : Aude littoral</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/64.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 2 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>d&#233;calage : 0 item - 1 description </erreur>
+<alerte>description vide</alerte>
+<frequence></frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : Haute-Garonne</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/66.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 2 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>d&#233;calage : 0 item - 1 description </erreur>
+<alerte>description vide</alerte>
+<frequence></frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : Lot</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/68.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 2 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>d&#233;calage : 0 item - 1 description </erreur>
+<alerte>description vide</alerte>
+<frequence></frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : Hautes-Pyr&#233;n&#233;es</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/70.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 2 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>d&#233;calage : 0 item - 1 description </erreur>
+<alerte>description vide</alerte>
+<frequence></frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : Tarn-et-Garonne</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/113.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 2 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>d&#233;calage : 0 item - 1 description </erreur>
+<alerte>description vide</alerte>
+<frequence></frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : Ari&#232;ge</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/63.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 2 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>d&#233;calage : 0 item - 1 description </erreur>
+<alerte>description vide</alerte>
+<frequence></frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : Aveyron</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/65.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 2 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>d&#233;calage : 0 item - 1 description </erreur>
+<alerte>description vide</alerte>
+<frequence></frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : Gers</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/67.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 2 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>d&#233;calage : 0 item - 1 description </erreur>
+<alerte>description vide</alerte>
+<frequence></frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : Lot-et-Garonne</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/69.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 2 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>d&#233;calage : 0 item - 1 description </erreur>
+<alerte>description vide</alerte>
+<frequence></frequence>
+</flux>
+<flux>
+<source>La D&#233;p&#234;che : Tarn</source>
+<adresse><![CDATA[http://www.ladepeche.fr/rss/71.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 2 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>d&#233;calage : 0 item - 1 description </erreur>
+<alerte>description vide</alerte>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Sud Ouest : Agen</source>
+<adresse><![CDATA[http://www.sudouest.fr/lot-et-garonne/agen/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : Angoul&#234;me</source>
+<adresse><![CDATA[http://www.sudouest.fr/charente/angouleme/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : Arcachon</source>
+<adresse><![CDATA[http://www.sudouest.fr/gironde/arcachon/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : Auch</source>
+<adresse><![CDATA[http://www.sudouest.fr/gers/auch/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>############@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : Bayonne</source>
+<adresse><![CDATA[http://www.sudouest.fr/pyrenees-atlantiques/bayonne/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : Biarritz</source>
+<adresse><![CDATA[http://www.sudouest.fr/pyrenees-atlantiques/biarritz/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : Bordeaux</source>
+<adresse><![CDATA[http://www.sudouest.fr/gironde/bordeaux/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : Cognac</source>
+<adresse><![CDATA[http://www.sudouest.fr/charente/cognac/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : Dax</source>
+<adresse><![CDATA[http://www.sudouest.fr/landes/dax/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : Morcenx</source>
+<adresse><![CDATA[http://www.sudouest.fr/landes/morcenx/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>########@@@@@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : Langon</source>
+<adresse><![CDATA[http://www.sudouest.fr/gironde/langon/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : La Rochelle</source>
+<adresse><![CDATA[http://www.sudouest.fr/charente-maritime/la-rochelle/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : Libourne</source>
+<adresse><![CDATA[http://www.sudouest.fr/gironde/libourne/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : Mont-de-Marsan</source>
+<adresse><![CDATA[http://www.sudouest.fr/landes/mont-de-marsan/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : Pau</source>
+<adresse><![CDATA[http://www.sudouest.fr/pyrenees-atlantiques/pau/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : P&#233;rigueux</source>
+<adresse><![CDATA[http://www.sudouest.fr/dordogne/perigueux/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : Royan</source>
+<adresse><![CDATA[http://www.sudouest.fr/charente-maritime/royan/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : Saintes</source>
+<adresse><![CDATA[http://www.sudouest.fr/charente-maritime/saintes/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : Saint-Etienne de Baigorry</source>
+<adresse><![CDATA[http://www.sudouest.fr/pyrenees-atlantiques/saint-etienne-de-baigorry/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>########@@@@@@@OOOOO</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : faits divers</source>
+<adresse><![CDATA[http://www.sudouest.fr/unes/faits-divers/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : politique</source>
+<adresse><![CDATA[http://www.sudouest.fr/politique/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : franco folies</source>
+<adresse><![CDATA[http://www.sudouest.fr/culture/francofolies/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###@@@OOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : ferias</source>
+<adresse><![CDATA[http://www.sudouest.fr/culture/ferias/rss.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>######@@@@@@@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>Sud Ouest : BD blog</source>
+<adresse><![CDATA[http://bd.blogs.sudouest.com/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description : 4585 car. </alerte>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Huffington Post : actualit&#233;</source>
+<adresse><![CDATA[http://www.huffingtonpost.fr/feeds/verticals/france/index.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description : 10401 car. </alerte>
+<alerte>description : 8260 car. </alerte>
+<alerte>description : 6653 car. </alerte>
+<alerte>description : 6735 car. </alerte>
+<alerte>description : 5406 car. </alerte>
+<alerte>description : 7348 car. </alerte>
+<frequence>###############</frequence>
+</flux>
+<flux>
+<source>Le Matin Newsticker</source>
+<adresse><![CDATA[http://www.lematin.ch/rss_ticker.html]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Aufait Maroc</source>
+<adresse><![CDATA[http://www.aufait.ma/feed]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Achnoo le portail du Maroc</source>
+<adresse><![CDATA[http://achnoo.com/feed/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Afrik</source>
+<adresse><![CDATA[http://feeds.feedburner.com/afrikfr]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Afrique info</source>
+<adresse><![CDATA[http://www.en-afrique.info/spip.php?page=backend]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>L&#8217;Expression : une</source>
+<adresse><![CDATA[http://www.lexpressiondz.com/feed/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Grioo</source>
+<adresse><![CDATA[http://rss.grioo.com/syndication/general.php?out=rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Jeune Afrique</source>
+<adresse><![CDATA[http://feeds2.feedburner.com/feedsportal/ja_actu]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Yabiladi</source>
+<adresse><![CDATA[http://www.yabiladi.com/rss/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Jeune Afrique</source>
+<adresse><![CDATA[http://feeds2.feedburner.com/feedsportal/ja_actu]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Alg&#233;rie focus</source>
+<adresse><![CDATA[http://feeds.feedburner.com/algerie-focus]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Le Matin DZ</source>
+<adresse><![CDATA[http://www.lematindz.net/feed/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>La d&#233;p&#234;che de Kabylie</source>
+<adresse><![CDATA[http://www.depechedekabylie.com/feed/index.1.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>LeMag</source>
+<adresse><![CDATA[http://www.lemag.ma/index.php?preaction=rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>La Libre Belgique</source>
+<adresse><![CDATA[http://www.lalibre.be/rss/index.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###########</frequence>
+</flux>
+<flux>
+<source>Reuters : vid&#233;o</source>
+<adresse><![CDATA[http://feeds.reuters.com/reuters/USVideoTopNews?format=xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Les projections de la cabane</source>
+<adresse><![CDATA[http://vimeo.com/user1755454/videos/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>Oooooooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>UNESCO : vid&#233;o</source>
+<adresse><![CDATA[http://gdata.youtube.com/feeds/base/users/unescoFrench/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###@OOOOOOOOOOOooooo</frequence>
+</flux>
+<flux>
+<source>Mill&#233;sima</source>
+<adresse><![CDATA[http://blog.millesima.fr/feed/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>Radio France : culture monde</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_11701.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###########OOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Radio France : &#224; voix nue</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_10351.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Radio France : du grain &#224; moudre d&#8217;&#233;t&#233;</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_12489.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>@@@@@@@@@@OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Radio France : l&#8217;&#233;conomie en question</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_10081.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOOOOOOOOOOoo</frequence>
+</flux>
+<flux>
+<source>Radio France : l&#8217;&#233;sprit public</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_16119.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>#@@@OOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Radio France : l&#8217;heure du documentaire</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_12490.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>@@@@@@@@@@OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Radio France : l&#8217;invit&#233; des matins</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_11638.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###########OOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Radio France : l&#8217;invit&#233; des matins 2&#232;me partie</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_12238.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Radio France : Philippe Meyer</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_11473.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Radio France : la r&#233;volution &#233;cologique</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_12980.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>oooooo</frequence>
+</flux>
+<flux>
+<source>Radio France : le 5 &#224; 7</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_12829.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Radio France : le billet politique d&#8217;Hubert Huertas</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_12013.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>oooooooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>Radio France : le choix de la r&#233;daction</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_12009.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>#########OOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Radio France : le magazine de la r&#233;daction</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_10084.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##@@@OOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Radio France : le monde selon Caroline Fourest</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_12813.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###OOOOOOOOOOOOOOOOo</frequence>
+</flux>
+<flux>
+<source>Radio France : le monde selon Etienne Klein</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_12571.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOOOOOOOoooo</frequence>
+</flux>
+<flux>
+<source>Radio France : le monde selon Hubert Vedrine</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_11712.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOOOOOOOOOooo</frequence>
+</flux>
+<flux>
+<source>Radio France : le monde selon Stephane Rozes</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_12568.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOOOOOOOOoooo</frequence>
+</flux>
+<flux>
+<source>Radio France : le monde selon...</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_12828.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>oooooo</frequence>
+</flux>
+<flux>
+<source>Radio France : Le rendez-vous du m&#233;diateur</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_11646.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>#OOOOOOOoooooooooooo</frequence>
+</flux>
+<flux>
+<source>Radio France : Le retour de...</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_12212.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOOOOOOOOOooo</frequence>
+</flux>
+<flux>
+<source>Radio France : Le secret des sources</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_11986.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOOOOOOOOOOoo</frequence>
+</flux>
+<flux>
+<source>Radio France : Les carnets de l&#8217;&#233;conomie</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_12576.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>########OOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Radio France : Les enjeux internationaux</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_13305.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###########OOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Radio France : Les matins</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_10075.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###########OOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Radio France : Les matins d&#8217;&#233;t&#233;</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_10837.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>@@@@@@@@@@OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Radio France : Les pieds sur terre</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_10078.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########@@@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>Radio France : Les retours du dimanche</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_11186.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOOOOOOOOOOOo</frequence>
+</flux>
+<flux>
+<source>Radio France : place de la toile</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_10465.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOOOOOOOOOooo</frequence>
+</flux>
+<flux>
+<source>Radio France : le livre du jour</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_11608.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###########@@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>Radio France : revue de presse internationale</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_10901.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###########@@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>Radio France : rue des &#233;coles</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_11192.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOOOOOOOOOOoo</frequence>
+</flux>
+<flux>
+<source>Radio France : s&#8217;il falait changer quelque chose</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_12941.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>oooooooooooooooooooo</frequence>
+</flux>
+<flux>
+<source>Radio France : soft power</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_10183.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOOOOOOOOOOOo</frequence>
+</flux>
+<flux>
+<source>Radio France : sur les docks</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_10177.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>########OOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Radio France : terre &#224; terre</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_10867.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOOOOOOOOOOoo</frequence>
+</flux>
+<flux>
+<source>Radio France : trait pour trait</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_12586.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>###########OOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Radio France : une fois pour toutes</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_12578.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOOOOOOOOOOoo</frequence>
+</flux>
+<flux>
+<source>Radio France : les bonnes feuilles</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_11905.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########@@@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>Radio France : &#224; voix nue</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_10351.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Radio France : &#231;a rime &#224; quoi</source>
+<adresse><![CDATA[http://radiofrance-podcast.net/podcast09/rss_10897.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##OOOOOOOOOOOOOOOOOo</frequence>
+</flux>
+<flux>
+<source>France Bleu : dossier</source>
+<adresse><![CDATA[http://www.francebleu.fr/rss-dossiers]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description vide</alerte>
+<frequence>#####O#O##</frequence>
+</flux>
+<flux>
+<source>France4 : cin&#233;ma</source>
+<adresse><![CDATA[http://www.france4.fr/staticftv/rss/france4/rss_cinema.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>#####</frequence>
+</flux>
+<flux>
+<source>France4 : divertissement</source>
+<adresse><![CDATA[http://www.france4.fr/staticftv/rss/france4/rss_divertissement.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>#############</frequence>
+</flux>
+<flux>
+<source>France4 : documentaire</source>
+<adresse><![CDATA[http://www.france4.fr/staticftv/rss/france4/rss_documentaire.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>#####</frequence>
+</flux>
+<flux>
+<source>L&#8217;Express : styles</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/568/f/9938/index.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Assistance et recherche de personnes disparues</source>
+<adresse><![CDATA[http://www.arpd-idf.org/rss.php]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>description : 8913 car. </alerte>
+<alerte>description : 3496 car. </alerte>
+<alerte>description : 5429 car. </alerte>
+<alerte>description : 10504 car. </alerte>
+<alerte>description : 3063 car. </alerte>
+<alerte>description : 14753 car. </alerte>
+<alerte>description : 10121 car. </alerte>
+<frequence>#########@@OOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Chroniques judiciaires</source>
+<adresse><![CDATA[http://prdchroniques.blog.lemonde.fr/feed/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>OOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>Info24</source>
+<adresse><![CDATA[http://info24.fr/feed/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>LaCorseoniste</source>
+<adresse><![CDATA[http://gdata.youtube.com/feeds/base/users/LACORSEONISTE/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 2 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>d&#233;calage : 0 item - 1 description </erreur>
+<alerte>description vide</alerte>
+<frequence></frequence>
+</flux>
+<flux>
+<source>Derni&#232;res nouvelles du milieu - J&#233;r&#244;me Pierrat</source>
+<adresse><![CDATA[http://www.metronews.fr/blog/mafia/author/mafia/feed/]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##@@@OOOOO</frequence>
+</flux>
+<flux>
+<source>M&#233;tro : France</source>
+<adresse><![CDATA[http://www.metrofrance.com/rss.xml?c=1201707575-1]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>M&#233;tro : Marseille</source>
+<adresse><![CDATA[http://www.metrofrance.com/rss.xml?c=1205415011-11]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>M&#233;tro : news</source>
+<adresse><![CDATA[http://www.metrofrance.com/rss.xml?c=section-news]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>M&#233;tro : vid&#233;o</source>
+<adresse><![CDATA[http://www.metrofrance.com/rss.xml?c=1157379272-59]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>#############@@@@@@@</frequence>
+</flux>
+<flux>
+<source>M&#233;tro</source>
+<adresse><![CDATA[http://rss.feedsportal.com/c/861/fe.ed/www.metrofrance.com/rss.xml?c=1196180960-1&mediafed=1]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France24 : France</source>
+<adresse><![CDATA[http://www.france24.com/fr/france/rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 20 items - 22 titres </erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France2 : vid&#233;o</source>
+<adresse><![CDATA[http://feeds.feedburner.com/Pluzz-France2]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France3 : vid&#233;o</source>
+<adresse><![CDATA[http://feeds.feedburner.com/Pluzz-France3]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France4 : vid&#233;o</source>
+<adresse><![CDATA[http://feeds.feedburner.com/Pluzz-France4]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France5 : vid&#233;o</source>
+<adresse><![CDATA[http://feeds.feedburner.com/Pluzz-France5]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France&#212; : vid&#233;o</source>
+<adresse><![CDATA[http://feeds.feedburner.com/Pluzz-Franceo]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : documentaire vid&#233;o</source>
+<adresse><![CDATA[http://feeds.feedburner.com/Pluzz-Documentaire]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : s&#233;ries fictions pluzz vid&#233;o</source>
+<adresse><![CDATA[http://feeds.feedburner.com/Pluzz-Seriefiction?format=xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : magazine pluzz vid&#233;o</source>
+<adresse><![CDATA[http://feeds.feedburner.com/Pluzz-Magazine?format=xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 20 items - 19 titres </erreur>
+<erreur>titre vide</erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : culture pluzz vid&#233;o</source>
+<adresse><![CDATA[http://feeds.feedburner.com/Pluzz-Culture?format=xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : jeunesse pluzz vid&#233;o</source>
+<adresse><![CDATA[http://feeds.feedburner.com/Pluzz-Jeunesse?format=xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<alerte>titre : 584 car. </alerte>
+<erreur>titre vide</erreur>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : divertissement pluzz vid&#233;o</source>
+<adresse><![CDATA[http://feeds.feedburner.com/Pluzz-Divertissement?format=xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>################</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : jeu pluzz vid&#233;o</source>
+<adresse><![CDATA[http://feeds.feedburner.com/Pluzz-Jeu?format=xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : global pluzz vid&#233;o</source>
+<adresse><![CDATA[http://feeds.feedburner.com/Pluzz?format=xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : g&#233;opolis</source>
+<adresse><![CDATA[http://geopolis.francetvinfo.fr/la-une-rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : France</source>
+<adresse><![CDATA[http://www.francetv.fr/info/france.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : monde</source>
+<adresse><![CDATA[http://www.francetv.fr/info/monde.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : d&#233;couvertes</source>
+<adresse><![CDATA[http://www.francetv.fr/info/decouverte.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>############@@@@@@@@</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : titres</source>
+<adresse><![CDATA[http://www.francetv.fr/info/titres.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : vid&#233;o</source>
+<adresse><![CDATA[http://www.francetv.fr/info/images/videos.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : diaporama</source>
+<adresse><![CDATA[http://www.francetv.fr/info/images/slideshows.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##@@@OOOOOOOOOOOOOOO</frequence>
+</flux>
+<flux>
+<source>France t&#233;l&#233;vision : vid&#233;o</source>
+<adresse><![CDATA[http://www.francetvinfo.fr/images/videos.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>MaVille : Saint-Omer</source>
+<adresse><![CDATA[http://www.saint-omer.maville.com/flux/rss/actu.php?xtor=RSS-18&code=sa]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Toulon</source>
+<adresse><![CDATA[http://www.toulon.maville.com/flux/rss/actu.php?xtor=RSS-18&code=tl]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Tourcoing</source>
+<adresse><![CDATA[http://www.tourcoing.maville.com/flux/rss/actu.php?xtor=RSS-18&code=tc]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Trouville-Deauville</source>
+<adresse><![CDATA[http://www.trouville-deauville.maville.com/flux/rss/actu.php?xtor=RSS-18&code=dt]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Valenciennes</source>
+<adresse><![CDATA[http://www.valenciennes.maville.com/flux/rss/actu.php?xtor=RSS-18&code=vl]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Vannes</source>
+<adresse><![CDATA[http://www.vannes.maville.com/flux/rss/actu.php?xtor=RSS-18&code=va]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Vitr&#233;</source>
+<adresse><![CDATA[http://www.vitre.maville.com/flux/rss/actu.php?xtor=RSS-18&code=vt]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : La Roche sur Yon</source>
+<adresse><![CDATA[http://www.larochesuryon.maville.com/flux/rss/actu.php?xtor=RSS-18&code=lr]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : La Seyne</source>
+<adresse><![CDATA[http://www.laseyne.maville.com/flux/rss/actu.php?xtor=RSS-18&code=sy]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Lannion Perros</source>
+<adresse><![CDATA[http://www.lannion-perros.maville.com/flux/rss/actu.php?xtor=RSS-18&code=ln]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Laval</source>
+<adresse><![CDATA[http://www.laval.maville.com/flux/rss/actu.php?xtor=RSS-18&code=lv]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Le Mans</source>
+<adresse><![CDATA[http://www.lemans.maville.com/flux/rss/actu.php?xtor=RSS-18&code=lm]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Le Touquet-Paris-Plage</source>
+<adresse><![CDATA[http://www.letouquet.maville.com/flux/rss/actu.php?xtor=RSS-18&code=lu]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Lens</source>
+<adresse><![CDATA[http://www.lens.maville.com/flux/rss/actu.php?xtor=RSS-18&code=le]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Les Sables d&#8217;Olonne</source>
+<adresse><![CDATA[http://www.lessablesdolonne.maville.com/flux/rss/actu.php?xtor=RSS-18&code=ls]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Lille</source>
+<adresse><![CDATA[http://www.lille.maville.com/flux/rss/actu.php?xtor=RSS-18&code=li]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Lorient</source>
+<adresse><![CDATA[http://www.lorient.maville.com/flux/rss/actu.php?xtor=RSS-18&code=lo]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Maubeuge</source>
+<adresse><![CDATA[http://www.maubeuge.maville.com/flux/rss/actu.php?xtor=RSS-18&code=mb]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Menton</source>
+<adresse><![CDATA[http://www.menton.maville.com/flux/rss/actu.php?xtor=RSS-18&code=mt]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Monaco local</source>
+<adresse><![CDATA[http://www.monaco.maprincipaute.com/flux/rss/actu.php?xtor=RSS-18&c=loc]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>MaVille : Monaco d&#233;partemental</source>
+<adresse><![CDATA[http://www.monaco.maprincipaute.com/flux/rss/actu.php?xtor=RSS-18&c=dep]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>d&#233;calage : 0 items - 1 titres </erreur>
+<erreur>item absent</erreur>
+<erreur>description absente</erreur>
+<erreur>date absente</erreur>
+<frequence></frequence>
+</flux>
+<flux>
+<source>MaVille : Nantes</source>
+<adresse><![CDATA[http://www.nantes.maville.com/flux/rss/actu.php?xtor=RSS-18&code=na]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Nice</source>
+<adresse><![CDATA[http://www.nice.maville.com/flux/rss/actu.php?xtor=RSS-18&code=ni]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Pontivy</source>
+<adresse><![CDATA[http://www.pontivy.maville.com/flux/rss/actu.php?xtor=RSS-18&code=pt]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Quimper</source>
+<adresse><![CDATA[http://www.quimper.maville.com/flux/rss/actu.php?xtor=RSS-18&code=qm]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Redon</source>
+<adresse><![CDATA[http://www.redon.maville.com/flux/rss/actu.php?xtor=RSS-18&code=rd]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Rennes</source>
+<adresse><![CDATA[http://www.rennes.maville.com/flux/rss/actu.php?xtor=RSS-18&code=rn]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Roubaix</source>
+<adresse><![CDATA[http://www.roubaix.maville.com/flux/rss/actu.php?xtor=RSS-18&code=rb]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Saint-Brieuc</source>
+<adresse><![CDATA[http://www.saint-brieuc.maville.com/flux/rss/actu.php?xtor=RSS-18&code=sb]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Saint-L&#244;</source>
+<adresse><![CDATA[http://www.saint-lo.maville.com/flux/rss/actu.php?xtor=RSS-18&code=sl]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Saint-Malo</source>
+<adresse><![CDATA[http://www.saint-malo.maville.com/flux/rss/actu.php?xtor=RSS-18&code=sm]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Saint-Nazaire</source>
+<adresse><![CDATA[http://www.saint-nazaire.maville.com/flux/rss/actu.php?xtor=RSS-18&code=sn]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>Angers Mag</source>
+<adresse><![CDATA[http://www.angersmag.info/xml/syndication.rss]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>MaVille : Arras</source>
+<adresse><![CDATA[http://www.arras.maville.com/flux/rss/actu.php?xtor=RSS-18&code=ar]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Alen&#231;on</source>
+<adresse><![CDATA[http://www.alencon.maville.com/flux/rss/actu.php?xtor=RSS-18&code=al]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Angers</source>
+<adresse><![CDATA[http://www.angers.maville.com/flux/rss/actu.php?xtor=RSS-18&code=an]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Antibes</source>
+<adresse><![CDATA[http://www.antibes.maville.com/flux/rss/actu.php?xtor=RSS-18&code=at]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Boulogne-sur-Mer</source>
+<adresse><![CDATA[http://www.boulognesurmer.maville.com/flux/rss/actu.php?xtor=RSS-18&code=bm]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Brest</source>
+<adresse><![CDATA[http://www.brest.maville.com/flux/rss/actu.php?xtor=RSS-18&code=br]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : B&#233;thune</source>
+<adresse><![CDATA[http://www.bethune.maville.com/flux/rss/actu.php?xtor=RSS-18&code=bt]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Caen</source>
+<adresse><![CDATA[http://www.caen.maville.com/flux/rss/actu.php?xtor=RSS-18&code=ca]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Cagnes-sur-Mer</source>
+<adresse><![CDATA[http://www.cagnes.maville.com/flux/rss/actu.php?xtor=RSS-18&code=cg]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Calais</source>
+<adresse><![CDATA[http://www.calais.maville.com/flux/rss/actu.php?xtor=RSS-18&code=cl]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Cambrai</source>
+<adresse><![CDATA[http://www.cambrai.maville.com/flux/rss/actu.php?xtor=RSS-18&code=cm]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Cannes</source>
+<adresse><![CDATA[http://www.cannes.maville.com/flux/rss/actu.php?xtor=RSS-18&code=cn]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Cherbourg</source>
+<adresse><![CDATA[http://www.cherbourg.maville.com/flux/rss/actu.php?xtor=RSS-18&code=ch]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Cholet</source>
+<adresse><![CDATA[http://www.cholet.maville.com/flux/rss/actu.php?xtor=RSS-18&code=co]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Dinan</source>
+<adresse><![CDATA[http://www.dinan.maville.com/flux/rss/actu.php?xtor=RSS-18&code=di]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Douai</source>
+<adresse><![CDATA[http://www.douai.maville.com/flux/rss/actu.php?xtor=RSS-18&code=do]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Draguignan</source>
+<adresse><![CDATA[http://www.draguignan.maville.com/flux/rss/actu.php?xtor=RSS-18&code=dr]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Dunkerque</source>
+<adresse><![CDATA[http://www.dunkerque.maville.com/flux/rss/actu.php?xtor=RSS-18&code=du]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Foug&#232;res</source>
+<adresse><![CDATA[http://www.fougeres.maville.com/flux/rss/actu.php?xtor=RSS-18&code=fo]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Fr&#233;jus Saint-Rapha&#235;l</source>
+<adresse><![CDATA[http://www.frejus-saintraphael.maville.com/flux/rss/actu.php?xtor=RSS-18&c=loc]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>############</frequence>
+</flux>
+<flux>
+<source>MaVille : Golfe de Saint Tropez</source>
+<adresse><![CDATA[http://www.golfedesainttropez.maville.com/flux/rss/actu.php?xtor=RSS-18&c=loc]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>############</frequence>
+</flux>
+<flux>
+<source>MaVille : Granville</source>
+<adresse><![CDATA[http://www.granville.maville.com/flux/rss/actu.php?xtor=RSS-18&code=gv]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Grasse</source>
+<adresse><![CDATA[http://www.grasse.maville.com/flux/rss/actu.php?xtor=RSS-18&code=gs]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Guingamp</source>
+<adresse><![CDATA[http://www.guingamp.maville.com/flux/rss/actu.php?xtor=RSS-18&code=gu]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Hazebrouck</source>
+<adresse><![CDATA[http://www.hazebrouck.maville.com/flux/rss/actu.php?xtor=RSS-18&code=ha]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : Hy&#232;res</source>
+<adresse><![CDATA[http://www.hyeres.maville.com/flux/rss/actu.php?xtor=RSS-18&code=hy]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>MaVille : La Baule</source>
+<adresse><![CDATA[http://www.labaule.maville.com/flux/rss/actu.php?xtor=RSS-18&code=lb]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<erreur>date absente</erreur>
+<frequence>###</frequence>
+</flux>
+<flux>
+<source>Ouest-France : Bretagne</source>
+<adresse><![CDATA[http://www.ouest-france.fr/themes/actualite-quotidienne-en-rss-de-bretagne-11.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Ouest-France : Calvados</source>
+<adresse><![CDATA[http://www.ouest-france.fr/themes/actualite-quotidienne-en-rss-de-calvados-1314.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Ouest-France : C&#244;tes d&#8217;Armor</source>
+<adresse><![CDATA[http://www.ouest-france.fr/themes/actualite-quotidienne-en-rss-de-cotes-d-armor-1122.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Ouest-France : Finist&#232;re</source>
+<adresse><![CDATA[http://www.ouest-france.fr/themes/actualite-quotidienne-en-rss-de-finistere-1129.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Ouest-France : Loire Atlantique</source>
+<adresse><![CDATA[http://www.ouest-france.fr/themes/actualite-quotidienne-en-rss-de-loire-atlantique-1244.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Ouest-France : Maine et Loire</source>
+<adresse><![CDATA[http://www.ouest-france.fr/themes/actualite-quotidienne-en-rss-de-maine-et-loire-1249.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Ouest-France : Manche</source>
+<adresse><![CDATA[http://www.ouest-france.fr/themes/actualite-quotidienne-en-rss-de-manche-1350.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Ouest-France : Mayenne</source>
+<adresse><![CDATA[http://www.ouest-france.fr/themes/actualite-quotidienne-en-rss-de-mayenne-1253.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Ouest-France : Morbihan</source>
+<adresse><![CDATA[http://www.ouest-france.fr/themes/actualite-quotidienne-en-rss-de-morbihan-1156.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Ouest-France : BasseNormandie</source>
+<adresse><![CDATA[http://www.ouest-france.fr/themes/actualite-quotidienne-en-rss-de-basse-normandie-13.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Ouest-France : Orne</source>
+<adresse><![CDATA[http://www.ouest-france.fr/themes/actualite-quotidienne-en-rss-de-orne-1361.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Ouest-France : PaysDeLoire</source>
+<adresse><![CDATA[http://www.ouest-france.fr/themes/actualite-quotidienne-en-rss-de-pays-de-loire-12.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Ouest-France : Sarthe</source>
+<adresse><![CDATA[http://www.ouest-france.fr/themes/actualite-quotidienne-en-rss-de-sarthe-1272.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>Ouest-France : Vend&#233;e</source>
+<adresse><![CDATA[http://www.ouest-france.fr/themes/actualite-quotidienne-en-rss-de-vendee-1285.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##########</frequence>
+</flux>
+<flux>
+<source>ViaStella : &#233;mission</source>
+<adresse><![CDATA[http://feeds.feedburner.com/Pluzz?format=xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>ViaStella : &#233;mission</source>
+<adresse><![CDATA[http://feeds.feedburner.com/Pluzz-La_1ere?format=xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>####################</frequence>
+</flux>
+<flux>
+<source>Les &#201;chos : Corse</source>
+<adresse><![CDATA[http://www.lesechos.fr/rss/rss_corse.xml]]></adresse>
+<categorie>general</categorie>
+<geo>externe</geo>
+<frequence>##@@</frequence>
+</flux>
+</base>
